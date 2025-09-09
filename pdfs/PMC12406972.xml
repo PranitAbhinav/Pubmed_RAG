@@ -1,0 +1,499 @@
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2025-09-09T14:03:55Z</responseDate>
+    <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:12406972" metadataPrefix="pmc">https://pmc.ncbi.nlm.nih.gov/api/oai/v1/mh/</request>
+    
+    <GetRecord>
+        <record>
+    <header>
+    <identifier>oai:pubmedcentral.nih.gov:12406972</identifier>
+    <datestamp>2025-09-04</datestamp>
+    
+        
+        <setSpec>jtgga</setSpec>
+        
+    
+        
+        <setSpec>pmc-open</setSpec>
+        
+    
+</header>
+    <metadata>
+        
+        <article xmlns="https://jats.nlm.nih.gov/ns/archiving/1.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.4/ https://jats.nlm.nih.gov/archiving/1.4/xsd/JATS-archivearticle1-4.xsd" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Turk Ger Gynecol Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Turk Ger Gynecol Assoc</journal-id><journal-id journal-id-type="pmc-domain-id">2240</journal-id><journal-id journal-id-type="pmc-domain">jtgga</journal-id><journal-title-group><journal-title>Journal of the Turkish German Gynecological Association</journal-title></journal-title-group><issn pub-type="ppub">1309-0399</issn><issn pub-type="epub">1309-0380</issn><publisher><publisher-name>Turkish German Gynecological Association</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12406972</article-id><article-id pub-id-type="pmcid-ver">PMC12406972.1</article-id><article-id pub-id-type="pmcaid">12406972</article-id><article-id pub-id-type="pmcaiid">12406972</article-id><article-id pub-id-type="pmid">40899414</article-id><article-id pub-id-type="doi">10.4274/jtgga.galenos.2025.2025-7-8</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Investigation</subject></subj-group></article-categories><title-group><article-title>Optimal leading follicle size for final oocyte maturation in POSEIDON group 3 and 4 poor responders undergoing assisted reproductive technology cycles</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0414-9470</contrib-id><name name-style="western"><surname>Akg&#252;n</surname><given-names initials="N">Nil&#252;fer</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0815-3522</contrib-id><name name-style="western"><surname>&#350;&#252;k&#252;r</surname><given-names initials="YE">Yavuz Emre</given-names></name><xref rid="aff2" ref-type="aff">2</xref><xref rid="aff3" ref-type="aff">3</xref><email>yesukur@gmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-0785-0919</contrib-id><name name-style="western"><surname>Aslan</surname><given-names initials="B">Batuhan</given-names></name><xref rid="aff2" ref-type="aff">2</xref><xref rid="aff4" ref-type="aff">4</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-8075-4790</contrib-id><name name-style="western"><surname>Kaplan</surname><given-names initials="NB">Necati Berk</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3548-2359</contrib-id><name name-style="western"><surname>Acun</surname><given-names initials="OA">Onur Alp</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-4504-669X</contrib-id><name name-style="western"><surname>&#214;zmen</surname><given-names initials="B">Batuhan</given-names></name><xref rid="aff2" ref-type="aff">2</xref><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6101-1414</contrib-id><name name-style="western"><surname>S&#246;nmezer</surname><given-names initials="M">Murat</given-names></name><xref rid="aff2" ref-type="aff">2</xref><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7346-7128</contrib-id><name name-style="western"><surname>Berker</surname><given-names initials="B">B&#252;lent</given-names></name><xref rid="aff2" ref-type="aff">2</xref><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-0264-0709</contrib-id><name name-style="western"><surname>Atabeko&#287;lu</surname><given-names initials="CS">Cem Somer</given-names></name><xref rid="aff2" ref-type="aff">2</xref><xref rid="aff3" ref-type="aff">3</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2644-545X</contrib-id><name name-style="western"><surname>Ayta&#231;</surname><given-names initials="R">Ru&#351;en</given-names></name><xref rid="aff2" ref-type="aff">2</xref><xref rid="aff3" ref-type="aff">3</xref></contrib><aff id="aff1"><label>1</label>Department of Obstetrics and Gynecology, University of Health Sciences T&#252;rkiye, Etlik Z&#252;beyde Han&#305;m Women&#8217;s Health, Training and Research Hospital, Ankara, T&#252;rkiye</aff><aff id="aff2"><label>2</label>Department of Obstetrics and Gynecology, Ankara University Faculty of Medicine, Ankara, T&#252;rkiye</aff><aff id="aff3"><label>3</label>Reproductive Health Diagnosis Treatment Education Research and Application Center, Ankara University, Ankara, T&#252;rkiye</aff><aff id="aff4"><label>4</label>The Graduate School of Health Sciences, Ankara University, Ankara, T&#252;rkiye</aff></contrib-group><pub-date publication-format="print" date-type="pub"><month>9</month><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="pub"><day>03</day><month>9</month><year>2025</year></pub-date><volume>26</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">496164</issue-id><fpage>195</fpage><lpage>203</lpage><history><date date-type="received"><day>22</day><month>7</month><year>2025</year></date><date date-type="accepted"><day>28</day><month>7</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>03</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>04</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-04 10:25:45.023"><day>04</day><month>09</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>Copyright&#169; 2025 The Author. Published by Galenos Publishing House on behalf of Turkish-German Gynecological Association.</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>Journal of the Turkish-German Gynecological Association</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND) International License.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="JTurkGerGynecolAssoc-26-3-195.pdf"/><abstract abstract-type="section"><sec><title>Objective</title><p>The aim of this retrospective cohort study was to evaluate the relationship between leading follicle size at the time of human chorionic gonadotropin (hCG) trigger and live birth rates in Patient-Oriented Strategies Encompassing Individualised Oocyte Number (POSEIDON) groups 3 and 4 undergoing assisted reproductive technology cycles using a gonadotropin releasing hormone (GnRH) antagonist protocol. The objective was to identify the optimal leading follicle size for maximizing live birth outcomes in this challenging patient population.</p></sec><sec><title>Material and Methods</title><p>This retrospective cohort study included POSEIDON groups 3 and 4 poor responders aged 20-42 years undergoing intracytoplasmic sperm injection with GnRH antagonist protocol between January 2015 and July 2021. Patients were categorized based on the occurrence of premature ovulation. The primary outcome measures were number of oocytes retrieved, number of metaphase II (MII) oocytes, MII oocyte ratio and follicle oocyte index (FOI). These outcomes were compared across different leading follicle size categories at the time of hCG trigger.</p></sec><sec><title>Results</title><p>Among the 294 subjects included, 47 (16.2%) had premature ovulation between the trigger and oocyte pick-up days. The mean size of the leading follicle on the day of trigger was significantly higher in the premature ovulation group (19.8&#177;2.4 mm vs.18.7&#177;2 mm, respectively; p&lt;0.001). Multivariate logistic regression analyses identified baseline luteinizing hormone [odds ratio (OR) 1.144, 95% confidence interval (CI) 1.052-1.243; p=0.002], number of follicles &gt;11 mm on the day of trigger (OR 0.580, 95% CI 0.438-0.767; p&lt;0.001), and leading follicle size (OR 1.361, 95% CI 1.130-1.641; p=0.001) as independent predictors of premature ovulation. The FOI and MII/antral follicle count ratios peaked when the leading follicle size was between 16-17 mm.</p></sec><sec><title>Conclusion</title><p>Individualized triggering based on leading follicle size may provide optimal oocyte retrieval after ovarian stimulation in POSEIDON expected poor responders. While a late trigger may result in premature ovulation, an early trigger may also result in less MII. Triggering when the leading follicle size is between 16.5 and 17 mm may help to prevent these negative outcomes and achieve optimal cycle outcome.</p></sec></abstract><kwd-group><kwd>Assisted reproductive technology</kwd><kwd>final oocyte maturation</kwd><kwd>follicle diameter</kwd><kwd>poor responder</kwd><kwd>POSEIDON</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="introduction"><title>Introduction</title><p>Poor ovarian responders (PORs) represent a major challenge when undergoing assisted reproductive technology (ART), as they experience a poor fertility outcome, yield low number of oocytes, have an increased risk of premature ovulation and a greater likelihood of cycle cancellation, despite high-dose gonadotropin treatment (<xref rid="ref-1" ref-type="bibr">1</xref>). Gonadotropin-releasing hormone (GnRH) antagonists are useful in PORs to suppress pituitary activity and prevent a premature luteinizing hormone (LH) surge during controlled ovarian stimulation (COS). However, despite GnRH antagonist administration, the occurrence of premature LH surge was reported in approximately 0.34-8.0% of patients (<xref rid="ref-2" ref-type="bibr">2</xref>, <xref rid="ref-3" ref-type="bibr">3</xref>, <xref rid="ref-4" ref-type="bibr">4</xref>). Cycle management for premature ovulation may involve attempting to retrieve all oocytes by aspirating the free fluid from the posterior cul-de-sac under transvaginal sonographic guidance or switching to intrauterine insemination (IUI) protocol when all follicles are ruptured (<xref rid="ref-5" ref-type="bibr">5</xref>, <xref rid="ref-6" ref-type="bibr">6</xref>). Even with optimal convertion to IUI, these patients were 2.6 times less likely to have a live birth after IUI compared to in vitro fertilization (IVF) (<xref rid="ref-7" ref-type="bibr">7</xref>). When the larger follicles prematurely rupture before oocyte pick-up, the rate of harvesting metaphase II (MII) oocytes will decrease from the remaining smaller follicular pool. In addition, premature progesterone rise may lead to endometrial asynchrony, necessitating cryopreservation of the embryos (<xref rid="ref-5" ref-type="bibr">5</xref>, <xref rid="ref-6" ref-type="bibr">6</xref>). All of these challenges are exacerbated by a scarcity of evidence regarding the ideal leading follicle diameter and the optimal timing for final oocyte maturation.</p><p>While some studies have claimed that follicle diameter of &#8805;16 mm leads to higher pregnancy rates because of optimized growth factors and steroid hormones in the follicular fluid (<xref rid="ref-8" ref-type="bibr">8</xref>, <xref rid="ref-9" ref-type="bibr">9</xref>, <xref rid="ref-10" ref-type="bibr">10</xref>, <xref rid="ref-11" ref-type="bibr">11</xref>), other studies have shown no differences between follicle size and embryo quality and/or implantation rate (<xref rid="ref-12" ref-type="bibr">12</xref>, <xref rid="ref-13" ref-type="bibr">13</xref>). In ART cycles, the timing of trigger usually depends on the size of the leading follicle/s, which is generally accepted as &gt;17-18 mm. Early implementation of trigger leads to an early LH surge, thus follicular atresia, and obtaining a lower number of mature oocytes (<xref rid="ref-14" ref-type="bibr">14</xref>). On the other hand, a delayed trigger carries the risk of premature ovulation and oocyte deterioration (<xref rid="ref-14" ref-type="bibr">14</xref>).</p><p>The Patient-Oriented Strategies Encompassing Individualised Oocyte Number (POSEIDON) group classification system was introduced to improve pregnancy rates (<xref rid="ref-15" ref-type="bibr">15</xref>). Several suggestions have been made to improve outcome for each sub-group. However, premature LH surge and premature ovulation still remain one of the main challenges, particularly in POSEIDON groups 3 and 4 poor responders. The relationship between the leading follicle size and the risk of premature ovulation and oocyte maturation rate is not yet clear. The aim of the present study was to determine the optimal size of the leading follicle before triggering final oocyte maturation in order to prevent premature ovulation and maximize the mature oocyte rate in POSEIDON groups 3,4.</p></sec><sec><title>Material and Methods</title><p>In this single-center, retrospective cohort study, data from women in POSEIDON groups 3 and 4 poor responders aged between 20-42 years who underwent intracytoplasmic sperm injection (ICSI) following a GnRH antagonist cycle between January 2015 and July 2021 were reviewed. The study protocol was approved by the Ankara University Ethical Committee for Human Research (approval number: I8-567-21, date: 15.10.2021). All included subjects fulfilled the POSEIDON criteria for the definition of expected POR; antral follicle count (AFC) &lt;5 and/or serum anti-M&#252;llerian hormone level &lt;1.2 ng/mL (<xref rid="ref-15" ref-type="bibr">15</xref>). All data on COS were extracted from patient records and the hospital database, and cycles were categorized into two groups according to occurrence of premature ovulation. Premature ovulation was defined as visualization of rupture of at least one of the leading follicles on the day of oocyte retrieval.</p><p>The inclusion criteria were fulfilment of the criteria for POSEIDON groups 3 or 4, a starting dose of gonadotropin stimulation of 225-300 IU/day, and body mass index between 20 and 35 kg/m<sup>2</sup>. The exclusion criteria were the use of long agonist or natural cycle protocols, progestin-primed ovarian stimulation, presence of any untreated thyroid dysfunction, adrenal disease, or hyperprolactinemia, administration of non-steroidal anti-inflammatory drugs to suppress ovulation or all the above factors.</p><p>Before initiation of treatment, all patients underwent vaginal ultrasound examination to eliminate presence of &gt;10 mm follicles on day 2 of the cycle. Baseline hormonal profile was also assessed. Ovarian stimulation was carried out with recombinant follicle stimulating hormone (rFSH) (Gonal-F; Merck-Serono, Geneva, Switzerland) and/or human menopausal gonadotropin (Menopur; Ferring GmbH, Wittland, Kiel, Germany) from the second or third day of the menstrual cycle with an initial dose of 225-300 IU/day. Dose adjustment was performed individually according to ovarian response, which was determined on the basis of serum estradiol levels and ultrasound examination. The maximum dose of rFSH was 375 IU/day. The GnRH antagonist Cetrorelix 0.25 mg/day (Cetrotide; Merck-Serono, Geneva, Switzerland) was initiated on day 6 of stimulation in a fixed manner. All oocyte retrieval procedures were performed under inhalation anaesthesia using a 16-gauge double-lumen oocyte retrieval needle under transvaginal ultrasound guidance 36 hours after the final oocyte trigger by recombinant human chorionic gonadotropin (Ovitrelle 250 micrograms, Merck Serono, Modugno, Italy). The timing of trigger related to the follicle size was performed based upon the experience and preference of the treating physician.</p><p>The primary outcome measures were number of oocytes retrieved, number of MII oocytes, MII oocyte ratio and follicle oocyte index (FOI). FOI was calculated as the ratio between the number of oocytes retrieved at oocyte pick-up and the number of antral follicles at the start of stimulation (<xref rid="ref-16" ref-type="bibr">16</xref>). MII oocyte ratios were calculated as MII/AFC and MII/follicles &gt;11 mm on trigger day. In addition, the ratio of oocytes retrieved by number of follicles &gt;11 mm on the day of final oocyte maturation was further calculated.</p><sec><title>Statistical analysis</title><p>Data analysis was performed using SPSS, version 21.0 (IBM Inc., Armonk, NY, USA). Samples were tested with the Shapiro-Wilk test to determine normality of distribution. The results of this analysis meant that parametric tests were preferred. Continuous variables were compared with Student&#8217;s t-test and One-Way ANOVA test where appropriate. Categorical variables were compared with chi-square test. Multivariate logistic regression models were created to determine independent predictors of premature ovulation in POSEIDON groups 3 and 4 patients undergoing COS. A p&lt;0.05 was considered statistically significant. In addition, assuming a non-linear relationship between maximal follicle size on the day of trigger and follicle output parameters, non-linear quadratic curve models are created to estimate the optimal time for triggering.</p></sec></sec><sec sec-type="results"><title>Results</title><p>A total of 456 POSEIDON patients assessed to be in groups 3 and 4 were assessed for eligibility. Among those, 342 patients between 20 and 42 years of age who underwent COS along with GnRH antagonist suppression were included. However, 12 patients were excluded due to untreated thyroid dysfunction or hyperprolactinemia, and 36 patients were excluded due to administration of non-steroidal anti-inflammatory drugs before oocyte retrieval. Thus, 294 patients were included in the final analyses.</p><p>Four patients did not respond to COS and cycles were cancelled. Among those who were scheduled for oocyte retrieval, 47 (16.2%) had premature ovulation. <xref rid="table-1" ref-type="table">Table 1</xref> shows the comparisons between the patients who ovulated prematurely and the controls. In the premature ovulation group, serum FSH and LH levels were significantly higher and AFC was significantly lower when compared to controls (<xref rid="table-1" ref-type="table">Table 1</xref>). The distribution of the POSEIDON groups was similar between the premature ovulation and control groups (p=0.512). The mean serum progesterone and LH levels on the day of hCG trigger were significantly higher in the premature ovulation group compared to control subjects (<xref rid="table-1" ref-type="table">Table 1</xref>). The mean size of the leading follicle on the day of hCG trigger was significantly higher in the premature ovulation group than in the control group (19.8&#177;2.4 mm vs. 18.7&#177;2 mm, respectively; p&lt;0.001). The mean number of follicles &gt;11 mm on the day of hCG trigger was significantly lower in the premature ovulation group than in the control group (2.5&#177;1.8 vs. 3.6&#177;2, respectively; p&lt;0.001).</p><p>The cycle outcome parameters in the study and control groups are summarized in <xref rid="table-2" ref-type="table">Table 2</xref>. The mean number of oocytes retrieved and MII oocytes were significantly lower in the premature ovulation group, as well as the rates of oocytes retrieved/AFC, oocytes retrieved per total of &gt;11 mm follicles, MII/AFC, and MII/&gt;11 mm follicles than in the control subjects.</p><p>After adjusting for parameters that differed significantly between the premature ovulation cases and controls (baseline FSH, AFC), baseline LH, number of follicles &gt;11 mm on the day of hCG trigger, and leading follicle size were identified as independent determinants for the probability of premature ovulation (<xref rid="table-3" ref-type="table">Table 3</xref>). An increasing number of follicles &gt;11 mm on the day of hCG trigger decreased the likelihood of premature ovulation [odds ratio (OR) 0.580, 95% confidence interval (CI) 0.438-0.767; p&lt;0.001]. Increasing size of the leading follicle on the day of hCG trigger increased the likelihood of premature ovulation (OR 1.361, 95% CI 1.130-1.641; p=0.001).</p><p><xref rid="figure-1" ref-type="fig">Figure 1</xref> illustrates the distribution of premature ovulation among the different sizes of leading follicles on the day of hCG. Premature ovulation was observed when the leading follicle exceeded 16 mm: 10% between 16.1-17 mm, 16.9% between 17.1-18 mm, 25% between 18.1-19 mm, 15% between 19.1-20 mm, and 22.6% above 20 mm.</p><p>The FOI and the MII/AFC rate were significantly different between subgroups based on different leading follicle sizes (<xref rid="table-4" ref-type="table">Table 4</xref>). The highest values of FOI, MII/AFC, oocytes retrieved /&gt;11 mm follicle, and MII/&gt;11 mm follicle were observed when the leading follicle size was between 16.1-17 mm. <xref rid="figure-2" ref-type="fig">Figures 2</xref> and <xref rid="figure-3" ref-type="fig">3</xref> show the non-linear curve estimates for the best outcome in terms of the number of oocytes and MII per AFC and retrieved oocyte and MII per &gt;11 mm follicle. The FOI and MII/AFC rate peaked when the leading follicle sizes were 17.5 mm and 16.5 mm, respectively. In addition, the oocytes retrieved /&gt;11 mm follicle and MII/&gt;11 mm follicle rates peaked when the leading follicle sizes were 17.5 mm and 16.0 mm, respectively.</p></sec><sec sec-type="discussion"><title>Discussion</title><p>The aim of the present study was to investigate the relationship between the leading follicle size on the day of trigger and efficiency of ovarian stimulation cycle by means of premature ovulation rate and oocyte/AFC, MII/AFC ratios in POSEIDON groups 3/4 poor responders. Across the whole study cohort, 16.2% had premature ovulation defined as observing rupture of at least one follicle between trigger day and oocyte pick-up. There were no significant differences between the POSEIDON groups regarding premature ovulation rates. The baseline serum LH level, number of follicles &gt;11 mm on trigger day and leading follicle size were independent predictors for premature ovulation. The optimal follicle diameter to collect MII oocytes at the maximum rate was 16.5-17 mm in POSEIDON 3/4 PORs.</p><p>During a COS cycle, a careful frequent measurement of follicles is important in order to obtain the maximum number of mature oocytes and blastocysts (<xref rid="ref-17" ref-type="bibr">17</xref>). Several previous studies have found a relationship between the size of follicles and oocyte maturity, and suggested leading follicle diameters should be between 18 and 24 mm before trigger to obtain optimal MII oocyte and blastocyst numbers (<xref rid="ref-9" ref-type="bibr">9</xref>, <xref rid="ref-10" ref-type="bibr">10</xref>, <xref rid="ref-13" ref-type="bibr">13</xref>, <xref rid="ref-18" ref-type="bibr">18</xref>). Early follicular retrieval to avoid premature ovulation, particularly in patients with low ovarian reserve, can lead to inadequate maturation of the follicles and lower number of mature oocytes (<xref rid="ref-13" ref-type="bibr">13</xref>, <xref rid="ref-19" ref-type="bibr">19</xref>). Rosen et al. (<xref rid="ref-20" ref-type="bibr">20</xref>) suggested that the chances of mature oocyte yield and fertilization rates were significantly lower for 16-18 mm follicles than &gt;18 mm follicles in an unselected IVF population. Similarly, Shapiro et al. (<xref rid="ref-11" ref-type="bibr">11</xref>) have shown that retrieval of follicles 10-12.5 mm size during oocyte retrieval was associated with a significant reduction in the total and MII oocyte retrieval rate. In the same study, follicle size of 19-21.5 mm was associated with the best rates for MII oocytes. Hence, it may be reasonable to extend the duration of stimulation to have a larger follicular pool to obtain more viable embryos (<xref rid="ref-12" ref-type="bibr">12</xref>, <xref rid="ref-20" ref-type="bibr">20</xref>, <xref rid="ref-21" ref-type="bibr">21</xref>). However, patients with low ovarian reserve and/or advanced age have increased risk of premature ovulation, which may result in cycle cancellation (<xref rid="ref-4" ref-type="bibr">4</xref>, <xref rid="ref-11" ref-type="bibr">11</xref>, <xref rid="ref-22" ref-type="bibr">22</xref>, <xref rid="ref-23" ref-type="bibr">23</xref>). Wu et al. (<xref rid="ref-24" ref-type="bibr">24</xref>) showed that an earlier hCG trigger when the leading follicle size was 16 mm and early oocyte retrieval prevents premature luteinization and improves the number and quality of embryos in women &gt;43 years old.</p><p>Reichman et al. (<xref rid="ref-3" ref-type="bibr">3</xref>) investigated breakthrough LH surge in GnRH antagonist cycles and found that the risk of premature LH surge and ovulation increased with age in patients with diminished ovarian reserve. These authors found that baseline serum FSH and LH levels were similar between the groups. The largest diameter of two follicles were 17.6 mm and 15.2 mm when the LH surge started in patients who had premature ovulation (<xref rid="ref-3" ref-type="bibr">3</xref>). Our results were in partial agreement with Reichman et al. (<xref rid="ref-3" ref-type="bibr">3</xref>). In our study, higher baseline LH level was an independent risk factor for premature ovulation, which may be the result of investigating a specific population: POSEIDON expected poor responders. We also found that serum LH level on the day of trigger was significantly higher in the premature ovulation group. The mean LH level in this group was approximately 20 mIU/mL indicating the LH surge had already started. There appears to be a fine line between premature ovulation and collecting immature oocytes in poor responders. While infrequent monitoring and late trigger may result in premature ovulation, on the contrary early trigger may result in less MII. In addition, it seems that patients with high baseline LH levels warrant more careful monitoring. The number of follicles responsive to ovarian stimulation was another independent risk factor for premature ovulation in the present study. The fewer the number of follicles &gt;11 mm on trigger day, the greater the risk of premature ovulation. This suggests that the management of POSEIDON expected PORs may be different depending on the ovarian reserve level.</p><p>Our results showed that the numbers of retrieved oocytes and MII oocytes were significantly lower in the premature ovulation group. In addition, considering that not all POSEIDON patients who were expected to have a poor response had a uniform ovarian reserve, we attempted to evaluate the ratio of oocytes and mature oocytes obtained per antral follicle rather than the number of oocytes. The non-linear curve estimates showed that the FOI and MII/AFC ratio peaked when the leading follicle sizes were 17.5 mm and 16.5 mm, respectively.</p><p>Wu et al. (<xref rid="ref-24" ref-type="bibr">24</xref>) observed that granulosa cell functions including gene expression related to gonadotropin activity, steroidogenesis and apoptosis were all significantly affected by age. These biological changes may imply that intrafollicular growth factors, rather than estrogen per follicle, cause premature ovulation when ovarian reserve is low. Our findings also support this hypothesis because the serum estradiol level per &gt;11 mm follicle on the day of trigger was similar between the premature ovulation and control groups.</p><sec><title>Study limitations</title><p>To the best of our knowledge, this is the first study to assess optimal leading follicle size in POSEIDON groups 3 and 4. Despite the relatively small sample size and retrospective nature of the analyses, the main limitations of our work, the systematic exploration of individual parameters, the consistency in observed associations between leading follicle size and mature oocyte ratio together with the multivariate approach to identify premature ovulation risk factors add credence to our observations. Another limitation was the lack of information about embryo qualities and pregnancy outcomes. However, in our clinical practice, the collected oocytes are incubated together and following ICSI individual MII oocytes are not labelled. Therefore, it was not possible to evaluate the fertilization potential of oocytes and embryo quality according to follicle size.</p></sec></sec><sec sec-type="conclusion"><title>Conclusion</title><p>The leading follicle size was an important parameter in deciding the timing of final oocyte maturation in POSEIDON groups 3 and 4 PORs. Individualized triggers based on leading follicle size may provide maximum efficiency in ovarian stimulation in POSEIDON expected PORs. While late trigger may result in premature ovulation, early trigger may also result in a lower MII output. Triggering when the leading follicle size is between 16.5 and 17 mm may help to prevent these unwanted consequences and achieve the optimum cycle outcome. However, randomized controlled trials are needed to confirm our results and to assess the relationship between leading follicle size and embryo quality in POSEIDON group 3 and 4 PORs.</p></sec><sec><title>Ethics</title><p>
+<bold>
+<italic toggle="yes">Ethics Committee Approval:</italic>
+</bold>
+<italic toggle="yes"> The study protocol was approved by the Ankara University Ethical Committee for Human Research (approval number: I8-567-21, date: 15.10.2021).</italic>
+</p><p>
+<bold>
+<italic toggle="yes">Informed Consent:</italic>
+</bold>
+<italic toggle="yes"> Not applicable.</italic>
+</p></sec></body><back><fn-group><fn id="fn-1" fn-type="author-contributions"><p>
+<bold>
+<italic toggle="yes">Author Contributions:</italic>
+</bold>
+<italic toggle="yes"> Concept: N.A., Y.E.&#350;., Design: N.A., Y.E.&#350;., B.A., B.&#214;., Data Collection or Processing: N.B.K., O.A.A., Analysis or Interpretation: Y.E.&#350;., B.A., Literature Search: N.B.K., O.A.A., B.A., Writing: Y.E.&#350;., M.S., B.B., C.S.A., R.A., B.&#214;.</italic>
+</p></fn><fn id="fn-2" fn-type="COI-statement"><p>
+<bold>
+<italic toggle="yes">Conflict of Interest:</italic>
+</bold>
+<italic toggle="yes"> Two of the authors of this article, Yavuz Emre &#350;&#252;k&#252;r and Batuhan &#214;zmen, are members of the editorial board of the Journal of the Turkish-German Gynecological Association. However, neither author was involved in any stage of the editorial decision-making process for this manuscript. The manuscript was evaluated by independent editors from different institutions. The other authors have declared no conflicts of interest.</italic>
+</p></fn><fn id="fn-3" fn-type="financial-disclosure"><p>
+<bold>
+<italic toggle="yes">Financial Disclosure:</italic>
+</bold>
+<italic toggle="yes"> The authors declared that this study received no financial support.</italic>
+</p></fn></fn-group><ref-list><title>References</title><ref id="ref-1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cohen</surname><given-names>J</given-names></name><name name-style="western"><surname>Chabbert-Buffet</surname><given-names>N</given-names></name><name name-style="western"><surname>Darai</surname><given-names>E</given-names></name></person-group><article-title>Diminished ovarian reserve, premature ovarian failure, poor ovarian responder-a plea for universal definitions.</article-title><source>J Assisted Reproduction and Genetics</source><year iso-8601-date="2015">2015</year><volume>32</volume><issue>12</issue><fpage>1709</fpage><lpage>12</lpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10815-015-0595-y</pub-id><pub-id pub-id-type="pmcid">PMC4681731</pub-id><pub-id pub-id-type="pmid">26463876</pub-id></element-citation></ref><ref id="ref-2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>D</given-names></name><name name-style="western"><surname>Xia</surname><given-names>L</given-names></name><name name-style="western"><surname>Xu</surname><given-names>H</given-names></name><name name-style="western"><surname>Chen</surname><given-names>Q</given-names></name><name name-style="western"><surname>Jin</surname><given-names>B</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>A</given-names></name><etal/></person-group><article-title>Flexible low-dose GnRH antagonist protocol is effective in patients with sufficient ovarian reserve in IVF.</article-title><source>Front Endocrinol</source><year iso-8601-date="2018">2018</year><volume>9</volume><fpage>767</fpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fendo.2018.00767</pub-id><pub-id pub-id-type="pmcid">PMC6305714</pub-id><pub-id pub-id-type="pmid">30619095</pub-id></element-citation></ref><ref id="ref-3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Reichman</surname><given-names>DE</given-names></name><name name-style="western"><surname>Zakarin</surname><given-names>L</given-names></name><name name-style="western"><surname>Chao</surname><given-names>K</given-names></name><name name-style="western"><surname>Meyer</surname><given-names>L</given-names></name><name name-style="western"><surname>Davis</surname><given-names>OK</given-names></name><name name-style="western"><surname>Rosenwaks</surname><given-names>Z</given-names></name></person-group><article-title>Diminished ovarian reserve is the predominant risk factor for gonadotropin-releasing hormone antagonist failure resulting in breakthrough luteinizing hormone surges in in vitro fertilization cycles.</article-title><source>Fertil Steril</source><year iso-8601-date="2014">2014</year><volume>102</volume><issue>1</issue><fpage>99</fpage><lpage>102</lpage><pub-id pub-id-type="pmid">24882557</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.fertnstert.2014.04.010</pub-id></element-citation></ref><ref id="ref-4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Inaudi</surname><given-names>P</given-names></name><name name-style="western"><surname>Barra</surname><given-names>V</given-names></name><name name-style="western"><surname>Vellucci</surname><given-names>FL</given-names></name><name name-style="western"><surname>Regini</surname><given-names>C</given-names></name><name name-style="western"><surname>Luisi</surname><given-names>S</given-names></name></person-group><article-title>GnRH antagonist does not prevent premature luteinization and ovulation in stimulated cycles with gonadotropins for IVF: two case reports.</article-title><source>Gynecol Endocrinol</source><year iso-8601-date="2018">2018</year><volume>34</volume><issue>3</issue><fpage>189</fpage><lpage>91</lpage><pub-id pub-id-type="pmid">28942696</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/09513590.2017.1380183</pub-id></element-citation></ref><ref id="ref-5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kadoch</surname><given-names>IJ</given-names></name><name name-style="western"><surname>Al-Khaduri</surname><given-names>M</given-names></name><name name-style="western"><surname>Phillips</surname><given-names>SJ</given-names></name><name name-style="western"><surname>Lapens&#233;e</surname><given-names>L</given-names></name><name name-style="western"><surname>Couturier</surname><given-names>B</given-names></name><name name-style="western"><surname>Hemmings</surname><given-names>R</given-names></name><etal/></person-group><article-title>Spontaneous ovulation rate before oocyte retrieval in modified natural cycle IVF with and without indomethacin.</article-title><source>Reprod Biomed Online</source><year iso-8601-date="2008">2008</year><volume>16</volume><issue>2</issue><fpage>245</fpage><lpage>9</lpage><pub-id pub-id-type="pmid">18284881</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1472-6483(10)60581-0</pub-id></element-citation></ref><ref id="ref-6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wu</surname><given-names>FS</given-names></name><name name-style="western"><surname>Lee</surname><given-names>RK</given-names></name><name name-style="western"><surname>Hwu</surname><given-names>YM</given-names></name></person-group><article-title>Encountering premature ovulation during controlled ovarian hyperstimulation in IVF/ICSI cycles.</article-title><source>Taiwan J Obstet Gynecol</source><year iso-8601-date="2012">2012</year><volume>51</volume><issue>2</issue><fpage>256</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1016/j.tjog.2012.04.016</pub-id><pub-id pub-id-type="pmid">22795104</pub-id></element-citation></ref><ref id="ref-7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Reichman</surname><given-names>DE</given-names></name><name name-style="western"><surname>Gunnala</surname><given-names>V</given-names></name><name name-style="western"><surname>Meyer</surname><given-names>L</given-names></name><name name-style="western"><surname>Spandorfer</surname><given-names>S</given-names></name><name name-style="western"><surname>Schattman</surname><given-names>G</given-names></name><name name-style="western"><surname>Davis</surname><given-names>OK</given-names></name><name name-style="western"><surname>Rosenwaks</surname><given-names>Z</given-names></name><etal/></person-group><article-title>In vitro fertilization versus conversion to intrauterine insemination in the setting of three or fewer follicles: how should patients proceed when follicular response falls short of expectation?</article-title><source>Fertil Steril</source><year iso-8601-date="2013">2013</year><volume>100</volume><issue>1</issue><fpage>94</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1016/j.fertnstert.2013.02.049</pub-id><pub-id pub-id-type="pmid">23615126</pub-id></element-citation></ref><ref id="ref-8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dubey</surname><given-names>AK</given-names></name><name name-style="western"><surname>Wang</surname><given-names>HA</given-names></name><name name-style="western"><surname>Duffy</surname><given-names>P</given-names></name><name name-style="western"><surname>Penzias</surname><given-names>AS</given-names></name></person-group><article-title>The correlation between follicular measurements, oocyte morphology, and fertilization rates in an in vitro fertilization program.</article-title><source>Fertil Steril</source><year iso-8601-date="1995">1995</year><volume>64</volume><issue>4</issue><fpage>787</fpage><lpage>90</lpage><pub-id pub-id-type="pmid">7672151</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0015-0282(16)57855-8</pub-id></element-citation></ref><ref id="ref-9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wittmaack</surname><given-names>FM</given-names></name><name name-style="western"><surname>Kreger</surname><given-names>DO</given-names></name><name name-style="western"><surname>Blasco</surname><given-names>L</given-names></name><name name-style="western"><surname>Tureck</surname><given-names>RW</given-names></name><name name-style="western"><surname>Mastroianni</surname><given-names>Jr L</given-names></name><name name-style="western"><surname>Lessey</surname><given-names>BA</given-names></name></person-group><article-title>Effect of follicular size on oocyte retrieval, fertilization, cleavage, and embryo quality in in vitro fertilization cycles: a 6-year data collection.</article-title><source>Fertil Steril</source><year iso-8601-date="1994">1994</year><volume>62</volume><issue>6</issue><fpage>1205</fpage><lpage>10</lpage><pub-id pub-id-type="pmid">7957985</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s0015-0282(16)57186-6</pub-id></element-citation></ref><ref id="ref-10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Bergh</surname><given-names>C</given-names></name><name name-style="western"><surname>Broden</surname><given-names>H</given-names></name><name name-style="western"><surname>Lundin</surname><given-names>K</given-names></name><name name-style="western"><surname>Hamberger</surname><given-names>L</given-names></name></person-group><article-title>Comparison of fertilization, cleavage and pregnancy rates of oocytes from large and small follicles.</article-title><source>Hum Reprod</source><year iso-8601-date="1998">1998</year><volume>13</volume><issue>7</issue><fpage>1912</fpage><lpage>5</lpage><pub-id pub-id-type="doi">10.1093/humrep/13.7.1912</pub-id><pub-id pub-id-type="pmid">9740448</pub-id></element-citation></ref><ref id="ref-11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shapiro</surname><given-names>BS</given-names></name><name name-style="western"><surname>Rasouli</surname><given-names>MA</given-names></name><name name-style="western"><surname>Verma</surname><given-names>K</given-names></name><name name-style="western"><surname>Raman</surname><given-names>A</given-names></name><name name-style="western"><surname>Garner</surname><given-names>FC</given-names></name><name name-style="western"><surname>Aguirre</surname><given-names>M</given-names></name><etal/></person-group><article-title>The effect of ovarian follicle size on oocyte and embryology outcomes.</article-title><source>Fertil Steril</source><year iso-8601-date="2022">2022</year><volume>117</volume><issue>6</issue><fpage>1170</fpage><lpage>6</lpage><pub-id pub-id-type="pmid">35367061</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.fertnstert.2022.02.017</pub-id></element-citation></ref><ref id="ref-12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Practice</surname><given-names>Committee of the American Society for Reproductive Medicine</given-names></name></person-group><article-title>Oocyte maturity and preimplantation development in relation to follicle diameter in gonadotropin-releasing hormone agonist or antagonist treatments.</article-title><source>Fertil Steril</source><year iso-8601-date="2006">2006</year><volume>85</volume><issue>3</issue><fpage>578</fpage><lpage>83</lpage><pub-id pub-id-type="doi">10.1016/j.fertnstert.2006.08.014</pub-id><pub-id pub-id-type="pmid">16500322</pub-id></element-citation></ref><ref id="ref-13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Haines</surname><given-names>CJ</given-names></name><name name-style="western"><surname>Emes</surname><given-names>AL</given-names></name></person-group><article-title>The relationship between follicle diameter, fertilization rate, and microscopic embryo quality.</article-title><source>Fertil Steril</source><year iso-8601-date="1991">1991</year><volume>55</volume><issue>1</issue><fpage>205</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1016/s0015-0282(16)54085-0</pub-id><pub-id pub-id-type="pmid">1986962</pub-id></element-citation></ref><ref id="ref-14"><label>14</label><mixed-citation publication-type="other">Taylor HS, Pal L, Sell E. Assisted reproductive technologies. In: Taylor HS, Pal L, Sell E, editors. Speroff&#8217;s Clinical Gynecologic Endocrinologyand Infertility: Wolters Kluwer; 2019. p. 1104-64.</mixed-citation></ref><ref id="ref-15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Alviggi</surname><given-names>C</given-names></name><name name-style="western"><surname>Andersen</surname><given-names>C</given-names></name><name name-style="western"><surname>Buehler</surname><given-names>K</given-names></name><name name-style="western"><surname>Conforti</surname><given-names>A</given-names></name><name name-style="western"><surname>De</surname><given-names>Placido G</given-names></name><name name-style="western"><surname>Esteves</surname><given-names>S</given-names></name><etal/></person-group><article-title>Poseidon Group (Patient-Oriented Strategies Encompassing Individualized Oocyte Number). A new more detailed stratification of low responders to ovarian stimulation: from a poor ovarian response to a low prognosis concept.</article-title><source>Fertil Steril</source><year iso-8601-date="2016">2016</year><volume>105</volume><issue>6</issue><fpage>1452</fpage><lpage>3</lpage><pub-id pub-id-type="pmid">26921622</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.fertnstert.2016.02.005</pub-id></element-citation></ref><ref id="ref-16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Alviggi</surname><given-names>C</given-names></name><name name-style="western"><surname>Conforti</surname><given-names>A</given-names></name><name name-style="western"><surname>Esteves</surname><given-names>SC</given-names></name><name name-style="western"><surname>Vallone</surname><given-names>R</given-names></name><name name-style="western"><surname>Venturella</surname><given-names>R</given-names></name><name name-style="western"><surname>Staiano</surname><given-names>S</given-names></name><etal/></person-group><article-title>Understanding ovarian hypo-response to exogenous gonadotropin in ovarian stimulation and its new proposed marker-the follicle-to-oocyte (FOI) index.</article-title><source>Front Endocrinol (Lausanne)</source><year iso-8601-date="2018">2018</year><volume>9</volume><fpage>589</fpage><pub-id pub-id-type="pmid">30386293</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fendo.2018.00589</pub-id><pub-id pub-id-type="pmcid">PMC6199413</pub-id></element-citation></ref><ref id="ref-17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Raine-Fenning</surname><given-names>N</given-names></name><name name-style="western"><surname>Jayaprakasan</surname><given-names>K</given-names></name><name name-style="western"><surname>Deb</surname><given-names>S</given-names></name><name name-style="western"><surname>Clewes</surname><given-names>J</given-names></name><name name-style="western"><surname>Joergner</surname><given-names>I</given-names></name><name name-style="western"><surname>Bonaki</surname><given-names>SD</given-names></name><etal/></person-group><article-title>Automated follicle tracking improves measurement reliability in patients undergoing ovarian stimulation.</article-title><source>Reprod Biomed Online</source><year iso-8601-date="2009">2009</year><volume>18</volume><issue>5</issue><fpage>658</fpage><lpage>63</lpage><pub-id pub-id-type="pmid">19549444</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/s1472-6483(10)60010-7</pub-id></element-citation></ref><ref id="ref-18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Abbara</surname><given-names>A</given-names></name><name name-style="western"><surname>Vuong</surname><given-names>LN</given-names></name><name name-style="western"><surname>Ho</surname><given-names>VN</given-names></name><name name-style="western"><surname>Clarke</surname><given-names>SA</given-names></name><name name-style="western"><surname>Jeffers</surname><given-names>L</given-names></name><name name-style="western"><surname>Comninos</surname><given-names>AN</given-names></name><etal/></person-group><article-title>Follicle size on day of trigger most likely to yield a mature oocyte.</article-title><source>Front Endocrinol</source><year iso-8601-date="2018">2018</year><volume>9</volume><fpage>193</fpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fendo.2018.00193</pub-id><pub-id pub-id-type="pmcid">PMC5930292</pub-id><pub-id pub-id-type="pmid">29743877</pub-id></element-citation></ref><ref id="ref-19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Meniru</surname><given-names>GI</given-names></name><name name-style="western"><surname>Craft</surname><given-names>IL</given-names></name></person-group><article-title>Evidence from a salvaged treatment cycle supports an aetiology for the empty follicle syndrome that is related to terminal follicular developmental events.</article-title><source>Human Reprod</source><year iso-8601-date="1997">1997</year><volume>12</volume><issue>11</issue><fpage>2385</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1093/humrep/12.11.2385</pub-id><pub-id pub-id-type="pmid">9436669</pub-id></element-citation></ref><ref id="ref-20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rosen</surname><given-names>MP</given-names></name><name name-style="western"><surname>Shen</surname><given-names>S</given-names></name><name name-style="western"><surname>Dobson</surname><given-names>AT</given-names></name><name name-style="western"><surname>Rinaudo</surname><given-names>PF</given-names></name><name name-style="western"><surname>McCulloch</surname><given-names>CE</given-names></name><name name-style="western"><surname>Cedars</surname><given-names>MI</given-names></name></person-group><article-title>A quantitative assessment of follicle size on oocyte developmental competence.</article-title><source>Fertil Steril</source><year iso-8601-date="2008">2008</year><volume>90</volume><issue>3</issue><fpage>684</fpage><lpage>90</lpage><pub-id pub-id-type="doi">10.1016/j.fertnstert.2007.02.011</pub-id><pub-id pub-id-type="pmid">18249377</pub-id><pub-id pub-id-type="pmcid">PMC4624406</pub-id></element-citation></ref><ref id="ref-21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wirleitner</surname><given-names>B</given-names></name><name name-style="western"><surname>Okhowat</surname><given-names>J</given-names></name><name name-style="western"><surname>Vi&#353;tejnov&#225;</surname><given-names>L</given-names></name><name name-style="western"><surname>Kr&#225;l&#237;&#269;kov&#225;</surname><given-names>M</given-names></name><name name-style="western"><surname>Karl&#237;kov&#225;</surname><given-names>M</given-names></name><name name-style="western"><surname>Vanderzwalmen</surname><given-names>P</given-names></name><etal/></person-group><article-title>Relationship between follicular volume and oocyte competence, blastocyst development and live-birth rate: optimal follicle size for oocyte retrieval.</article-title><source>Ultrasound Obstet Gynecol</source><year iso-8601-date="2018">2018</year><volume>51</volume><issue>1</issue><fpage>118</fpage><lpage>25</lpage><pub-id pub-id-type="pmid">29134715</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/uog.18955</pub-id></element-citation></ref><ref id="ref-22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Clark</surname><given-names>L</given-names></name><name name-style="western"><surname>Stanger</surname><given-names>J</given-names></name><name name-style="western"><surname>Brinsmead</surname><given-names>M</given-names></name></person-group><article-title>Prolonged follicle stimulation decreases pregnancy rates after in vitro fertilization.</article-title><source>Fertil Steril</source><year iso-8601-date="1991">1991</year><volume>55</volume><issue>6</issue><fpage>1192</fpage><lpage>4</lpage><pub-id pub-id-type="doi">10.1016/s0015-0282(16)54374-x</pub-id><pub-id pub-id-type="pmid">2037113</pub-id></element-citation></ref><ref id="ref-23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kolibianakis</surname><given-names>EM</given-names></name><name name-style="western"><surname>Albano</surname><given-names>C</given-names></name><name name-style="western"><surname>Camus</surname><given-names>M</given-names></name><name name-style="western"><surname>Tournaye</surname><given-names>H</given-names></name><name name-style="western"><surname>Van</surname><given-names>Steirteghem AC</given-names></name><name name-style="western"><surname>Devroey</surname><given-names>P</given-names></name></person-group><article-title>Prolongation of the follicular phase in in vitro fertilization results in a lower ongoing pregnancy rate in cycles stimulated with recombinant follicle-stimulating hormone and gonadotropin-releasing hormone antagonists.</article-title><source>Fertil Steril</source><year iso-8601-date="2004">2004</year><volume>82</volume><issue>1</issue><fpage>102</fpage><lpage>7</lpage><pub-id pub-id-type="pmid">15236997</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.fertnstert.2004.01.027</pub-id></element-citation></ref><ref id="ref-24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wu</surname><given-names>YG</given-names></name><name name-style="western"><surname>Barad</surname><given-names>DH</given-names></name><name name-style="western"><surname>Kushnir</surname><given-names>VA</given-names></name><name name-style="western"><surname>Lazzaroni</surname><given-names>E</given-names></name><name name-style="western"><surname>Wang</surname><given-names>Q</given-names></name><name name-style="western"><surname>Albertini</surname><given-names>DF</given-names></name><etal/></person-group><article-title>Aging-related premature luteinization of granulosa cells is avoided by early oocyte retrieval.</article-title><source>J Endocrinol</source><year iso-8601-date="2015">2015</year><volume>226</volume><issue>3</issue><fpage>167</fpage><lpage>80</lpage><pub-id pub-id-type="pmid">26264981</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1530/JOE-15-0246</pub-id></element-citation></ref></ref-list></back><floats-group><fig position="float" id="figure-1" orientation="portrait"><label>Figure 1</label><caption><p>Distribution of premature ovulation cases among different leading follicle sizes on the day of trigger</p></caption><graphic position="float" orientation="portrait" xlink:href="JTurkGerGynecolAssoc-26-3-195-figure-1.jpg"/></fig><fig position="float" id="figure-2" orientation="portrait"><label>Figure 2</label><caption><p>Non-linear quadratic curve estimation for retrieved oocyte and MII oocyte numbers per antral follicle among different leading follicle sizes on the day of trigger. Vertical red lines indicate peak points for tested outcome</p><p>MII: Metaphase II</p></caption><graphic position="float" orientation="portrait" xlink:href="JTurkGerGynecolAssoc-26-3-195-figure-2.jpg"/></fig><fig position="float" id="figure-3" orientation="portrait"><label>Figure 3</label><caption><p>Non-linear quadratic curve estimation for retrieved oocyte and MII oocyte numbers per &gt;11 mm follicle among different leading follicle sizes on the day of trigger. Vertical red lines indicate peak points for tested outcome</p><p>MII: Metaphase II</p></caption><graphic position="float" orientation="portrait" xlink:href="JTurkGerGynecolAssoc-26-3-195-figure-3.jpg"/></fig><table-wrap position="float" id="table-1" orientation="portrait"><label>Table 1. Comparison of baseline and cycle parameters between study and control groups</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Premature ovulation</bold>
+</p>
+<p>
+<bold>n=47</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Control</bold>
+</p>
+<p>
+<bold>n=243</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>p value</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Age, years</p>
+</td><td colspan="1" rowspan="1">
+<p>35.3&#177;6.2</p>
+</td><td colspan="1" rowspan="1">
+<p>35.7&#177;5.4</p>
+</td><td colspan="1" rowspan="1">
+<p>0.736</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Body mass index, kg/m<sup>2</sup></p>
+</td><td colspan="1" rowspan="1">
+<p>25.3&#177;3.1</p>
+</td><td colspan="1" rowspan="1">
+<p>25&#177;2.7</p>
+</td><td colspan="1" rowspan="1">
+<p>0.544</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Baseline estradiol, pg/mL</p>
+</td><td colspan="1" rowspan="1">
+<p>40.2&#177;23.3</p>
+</td><td colspan="1" rowspan="1">
+<p>44.3&#177;19</p>
+</td><td colspan="1" rowspan="1">
+<p>0.273</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Baseline progesterone, ng/mL</p>
+</td><td colspan="1" rowspan="1">
+<p>0.7&#177;0.4</p>
+</td><td colspan="1" rowspan="1">
+<p>0.7&#177;0.6</p>
+</td><td colspan="1" rowspan="1">
+<p>0.913</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Baseline FSH, mIU/mL</p>
+</td><td colspan="1" rowspan="1">
+<p>16&#177;8.7</p>
+</td><td colspan="1" rowspan="1">
+<p>12&#177;5.5</p>
+</td><td colspan="1" rowspan="1">
+<p>0.004</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Baseline LH, mIU/mL</p>
+</td><td colspan="1" rowspan="1">
+<p>8&#177;5.9</p>
+</td><td colspan="1" rowspan="1">
+<p>5.6&#177;3.3</p>
+</td><td colspan="1" rowspan="1">
+<p>0.009</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Baseline TSH, mIU/L</p>
+</td><td colspan="1" rowspan="1">
+<p>2.1&#177;1.2</p>
+</td><td colspan="1" rowspan="1">
+<p>1.9&#177;0.9</p>
+</td><td colspan="1" rowspan="1">
+<p>0.347</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Baseline Prolactin, ng/mL</p>
+</td><td colspan="1" rowspan="1">
+<p>13.3&#177;8.5</p>
+</td><td colspan="1" rowspan="1">
+<p>16.1&#177;11.7</p>
+</td><td colspan="1" rowspan="1">
+<p>0.107</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Baseline AMH, ng/mL</p>
+</td><td colspan="1" rowspan="1">
+<p>0.4&#177;0.3</p>
+</td><td colspan="1" rowspan="1">
+<p>0.5&#177;0.9</p>
+</td><td colspan="1" rowspan="1">
+<p>0.148</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Antral follicle count</p>
+</td><td colspan="1" rowspan="1">
+<p>3.5&#177;2.1</p>
+</td><td colspan="1" rowspan="1">
+<p>4.2&#177;2.2</p>
+</td><td colspan="1" rowspan="1">
+<p>0.031</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>POSEIDON group, n (%)</p>
+<p>&#160;&#160; Group 3</p>
+<p>&#160;&#160; Group 4</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+<p>15 (31.9)</p>
+<p>32 (68.1)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+<p>91 (37.4)</p>
+<p>152 (62.6)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.512</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Number of prior IVF attempts</p>
+</td><td colspan="1" rowspan="1">
+<p>1&#177;1.7</p>
+</td><td colspan="1" rowspan="1">
+<p>1&#177;1.5</p>
+</td><td colspan="1" rowspan="1">
+<p>0.868</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Duration of stimulation, days</p>
+</td><td colspan="1" rowspan="1">
+<p>10.8&#177;4.7</p>
+</td><td colspan="1" rowspan="1">
+<p>9.8&#177;3</p>
+</td><td colspan="1" rowspan="1">
+<p>0.181</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Total dose of gonadotropins, IU</p>
+</td><td colspan="1" rowspan="1">
+<p>2735&#177;1529</p>
+</td><td colspan="1" rowspan="1">
+<p>2750&#177;1080</p>
+</td><td colspan="1" rowspan="1">
+<p>0.947</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Serum estradiol/&gt;11 mm follicle on trigger day, pg/mL</p>
+</td><td colspan="1" rowspan="1">
+<p>262.4&#177;122.5</p>
+</td><td colspan="1" rowspan="1">
+<p>260.3&#177;171.3</p>
+</td><td colspan="1" rowspan="1">
+<p>0.073</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Serum progesterone on trigger day, ng/mL</p>
+</td><td colspan="1" rowspan="1">
+<p>0.98&#177;0.43</p>
+</td><td colspan="1" rowspan="1">
+<p>0.79&#177;0.55</p>
+</td><td colspan="1" rowspan="1">
+<p>0.020</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Serum LH on trigger day, mIU/mL</p>
+</td><td colspan="1" rowspan="1">
+<p>20.5&#177;18.7</p>
+</td><td colspan="1" rowspan="1">
+<p>5.4&#177;5.6</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Leading follicle size on trigger day, mm</p>
+</td><td colspan="1" rowspan="1">
+<p>19.8&#177;2.4</p>
+</td><td colspan="1" rowspan="1">
+<p>18.7&#177;2</p>
+</td><td colspan="1" rowspan="1">
+<p>0.005</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Number of follicles &gt;11 mm</p>
+</td><td colspan="1" rowspan="1">
+<p>2.5&#177;1.8</p>
+</td><td colspan="1" rowspan="1">
+<p>3.6&#177;2</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Number of follicles &gt;17 mm</p>
+</td><td colspan="1" rowspan="1">
+<p>1.4&#177;0.8</p>
+</td><td colspan="1" rowspan="1">
+<p>1.5&#177;1.1</p>
+</td><td colspan="1" rowspan="1">
+<p>0.629</p>
+</td></tr></tbody></table><table-wrap-foot><p>FSH: Follicle stimulating hormone, LH: Luteinizing hormone, TSH: Thyroid stimulating hormone, AMH: Anti-m&#252;llerian hormone, IUI: Intrauterine insemination, IVF: In vitro fertilization, MII: Metaphase II, AFC: Antral follicle count, POSEIDON: Patient-Oriented Strategies Encompassing Individualised Oocyte Number. The mean numbers of oocytes retrieved and MII oocytes are significantly lower in the premature ovulation group, as well as the rates of oocyte/AFC, oocyte/&gt;11 mm follicle, MII/AFC, and MII/&gt;11 mmfollicle</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-2" orientation="portrait"><label>Table 2. Comparison of outcome parameters between study and control groups</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Premature ovulation</bold>
+</p>
+<p>
+<bold>n=47</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Control</bold>
+</p>
+<p>
+<bold>n=243</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>p value</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Number of oocytes retrieved</p>
+</td><td colspan="1" rowspan="1">
+<p>0.9&#177;1.5</p>
+</td><td colspan="1" rowspan="1">
+<p>2.8&#177;1.8</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Number of MII oocytes</p>
+</td><td colspan="1" rowspan="1">
+<p>0.5&#177;0.9</p>
+</td><td colspan="1" rowspan="1">
+<p>2&#177;1.7</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Retrieved oocyte/AFC ratio</p>
+</td><td colspan="1" rowspan="1">
+<p>0.24&#177;0.34</p>
+</td><td colspan="1" rowspan="1">
+<p>0.76&#177;0.6</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Retrieved oocyte/&gt;11 mm follicle ratio</p>
+</td><td colspan="1" rowspan="1">
+<p>0.28&#177;0.4</p>
+</td><td colspan="1" rowspan="1">
+<p>0.87&#177;0.58</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Retrieved oocyte/&gt;17 mm follicle ratio</p>
+</td><td colspan="1" rowspan="1">
+<p>0.55&#177;0.79</p>
+</td><td colspan="1" rowspan="1">
+<p>1.93&#177;1.33</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>MII/AFC ratio</p>
+</td><td colspan="1" rowspan="1">
+<p>0.15&#177;0.27</p>
+</td><td colspan="1" rowspan="1">
+<p>0.53&#177;0.45</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>MII/&gt;11 mm follicle ratio</p>
+</td><td colspan="1" rowspan="1">
+<p>0.21&#177;0.39</p>
+</td><td colspan="1" rowspan="1">
+<p>0.63&#177;0.47</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>MII/&gt;17 mm follicle ratio</p>
+</td><td colspan="1" rowspan="1">
+<p>0.34&#177;0.59</p>
+</td><td colspan="1" rowspan="1">
+<p>1.39&#177;1.07</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr></tbody></table><table-wrap-foot><p>AFC: Antral follicle count, MII: Metaphase II</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-3" orientation="portrait"><label>Table 3. Multivariate logistic regression analysis presenting risk factors for premature ovulation</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Odds ratio</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>95% CI</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>p value</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Baseline serum LH level</p>
+</td><td colspan="1" rowspan="1">
+<p>1.144</p>
+</td><td colspan="1" rowspan="1">
+<p>1.052-1.243</p>
+</td><td colspan="1" rowspan="1">
+<p>0.002</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Number of &gt;11 mm follicles on trigger day</p>
+</td><td colspan="1" rowspan="1">
+<p>0.580</p>
+</td><td colspan="1" rowspan="1">
+<p>0.438-0.767</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Leading follicle size</p>
+</td><td colspan="1" rowspan="1">
+<p>1.361</p>
+</td><td colspan="1" rowspan="1">
+<p>1.130-1.641</p>
+</td><td colspan="1" rowspan="1">
+<p>0.001</p>
+</td></tr></tbody></table><table-wrap-foot><p>LH: Luteinizing hormone, CI: Confidence interval</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-4" orientation="portrait"><label>Table 4. Comparison of outcome parameters between different leading follicle size groups</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>
+<bold>LFS (mm)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>&#8804;15</bold>
+</p>
+<p>
+<bold>n=9</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>15.1-16</bold>
+</p>
+<p>
+<bold>n=20</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>16.1-17</bold>
+</p>
+<p>
+<bold>n=30</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>17.1-18 n=77</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>18.1-19</bold>
+</p>
+<p>
+<bold>n=32</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>19.1-20</bold>
+</p>
+<p>
+<bold>n=60</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>&gt;20</bold>
+</p>
+<p>
+<bold>n=62</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>p value</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Oocyte/AFC</p>
+</td><td colspan="1" rowspan="1">
+<p>0.17&#177;0.25</p>
+</td><td colspan="1" rowspan="1">
+<p>0.48&#177;0.24</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>0.92&#177;0.54</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>0.75&#177;0.55</p>
+</td><td colspan="1" rowspan="1">
+<p>0.63&#177;0.72</p>
+</td><td colspan="1" rowspan="1">
+<p>0.64&#177;0.60</p>
+</td><td colspan="1" rowspan="1">
+<p>0.54&#177;0.55</p>
+</td><td colspan="1" rowspan="1">
+<p>0.003<sup>a</sup></p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Oocyte/&gt;11 mm follicle</p>
+</td><td colspan="1" rowspan="1">
+<p>0.36&#177;0.45</p>
+</td><td colspan="1" rowspan="1">
+<p>0.56&#177;0.24</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>0.83&#177;0.62</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>0.77&#177;0.48</p>
+</td><td colspan="1" rowspan="1">
+<p>0.66&#177;0.43</p>
+</td><td colspan="1" rowspan="1">
+<p>0.82&#177;0.66</p>
+</td><td colspan="1" rowspan="1">
+<p>0.67&#177;0.63</p>
+</td><td colspan="1" rowspan="1">
+<p>0.120</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>MII/AFC</p>
+</td><td colspan="1" rowspan="1">
+<p>0.10&#177;0.15</p>
+</td><td colspan="1" rowspan="1">
+<p>0.40&#177;0.15</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>0.56&#177;0.40</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>0.54&#177;0.43</p>
+</td><td colspan="1" rowspan="1">
+<p>0.31&#177;0.28</p>
+</td><td colspan="1" rowspan="1">
+<p>0.44&#177;0.47</p>
+</td><td colspan="1" rowspan="1">
+<p>0.43&#177;0.42</p>
+</td><td colspan="1" rowspan="1">
+<p>0.012<sup>b</sup></p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>MII/&gt;11 mm follicle</p>
+</td><td colspan="1" rowspan="1">
+<p>0.25&#177;0.43</p>
+</td><td colspan="1" rowspan="1">
+<p>0.50&#177;0.30</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>0.57&#177;0.47</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>0.57&#177;0.43</p>
+</td><td colspan="1" rowspan="1">
+<p>0.38&#177;0.31</p>
+</td><td colspan="1" rowspan="1">
+<p>0.56&#177;0.51</p>
+</td><td colspan="1" rowspan="1">
+<p>0.54&#177;0.45</p>
+</td><td colspan="1" rowspan="1">
+<p>0.214</p>
+</td></tr></tbody></table><table-wrap-foot><p>LFS: Leading follicle siz, AFC: Antral follicle count, MII: Metaphase II. <sup>a</sup>The statistical significance stems from the differences between groups &#8804;15 mm vs. 16.1-17 mm (p=0.010) and groups 16.1-17 mm vs. &gt;20 mm (p=0.039); <sup>b</sup>The statistical significance stems from the differences between groups &#8804;15 mm vs. 16.1-17 mm (p=0.048) and groups &#8804;15 mm vs. 17.1-18 mm (p=0.038)</p></table-wrap-foot></table-wrap></floats-group></article>
+        
+    </metadata>
+</record>
+    </GetRecord>
+
+</OAI-PMH>

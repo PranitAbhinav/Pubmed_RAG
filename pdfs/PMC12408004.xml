@@ -1,0 +1,82 @@
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2025-09-09T14:01:21Z</responseDate>
+    <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:12408004" metadataPrefix="pmc">https://pmc.ncbi.nlm.nih.gov/api/oai/v1/mh/</request>
+    
+    <GetRecord>
+        <record>
+    <header>
+    <identifier>oai:pubmedcentral.nih.gov:12408004</identifier>
+    <datestamp>2025-09-04</datestamp>
+    
+        
+        <setSpec>pmc-open</setSpec>
+        
+    
+</header>
+    <metadata>
+        
+        <article xmlns="https://jats.nlm.nih.gov/ns/archiving/1.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.4/ https://jats.nlm.nih.gov/archiving/1.4/xsd/JATS-archivearticle1-4.xsd" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Res Sq</journal-id><journal-id journal-id-type="pmc-domain-id">3885</journal-id><journal-id journal-id-type="pmc-domain">ressq</journal-id><journal-id journal-id-type="publisher-id">ResearchSquare</journal-id><journal-title-group><journal-title>Research Square</journal-title></journal-title-group><issn pub-type="epub">2693-5015</issn><publisher><publisher-name>American Journal Experts</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12408004</article-id><article-id pub-id-type="pmcid-ver">PMC12408004.1</article-id><article-id pub-id-type="pmcaid">12408004</article-id><article-id pub-id-type="pmcaiid">12408004</article-id><article-id pub-id-type="pmid">40909766</article-id><article-id pub-id-type="doi">10.21203/rs.3.rs-7295611/v1</article-id><article-id pub-id-type="other">10.21203/rs.3.rs-7295611</article-id><article-version-alternatives><article-version article-version-type="pmc-version">1</article-version><article-version article-version-type="status">preprint</article-version><article-version article-version-type="number">1</article-version></article-version-alternatives><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>
+Comparative genomics and transcriptomics of the Spiroplasma glossinidia strain sGff reveal insights into host interaction and trypanosome resistance in Glossina fuscipes fuscipes
+</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Bruzzese</surname><given-names initials="DJ">Daniel J.</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Gst&#246;ttenmayer</surname><given-names initials="F">Fabian</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Weiss</surname><given-names initials="BL">Brian L.</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Khalil</surname><given-names initials="H">Hager</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Mach</surname><given-names initials="R">Robert</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Abd-Alla</surname><given-names initials="AMM">Adly M.M.</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Aksoy</surname><given-names initials="S">Serap</given-names></name></contrib></contrib-group><pub-date pub-type="epub"><day>25</day><month>8</month><year>2025</year></pub-date><issue-id pub-id-type="pmc-issue-id">496187</issue-id><elocation-id>rs.3.rs-7295611</elocation-id><pub-history><event event-type="pmc-release"><date><day>03</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>04</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-05 10:25:38.007"><day>05</day><month>09</month><year>2025</year></date></event></pub-history><permissions><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This work is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ext-link>, which allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="nihpp-rs7295611v1.pdf"/><self-uri xlink:href="https://www.researchsquare.com/article/rs-7295611/v1">https://www.researchsquare.com/article/rs-7295611/v1</self-uri><self-uri content-type="pdf">nihpp-rs7295611v1.pdf</self-uri><abstract><title>Abstract</title><p>
+Tsetse (
+<italic toggle="yes">Glossina</italic>
+spp.) are vectors of African trypanosomes, the causative agents of Human and African Animal trypanosomiases, diseases that remain significant medical and socioeconomic challenges in sub-Saharan Africa. In addition to trypanosomes, tsetse harbor both obligate and facultative symbiotic bacteria that can influence vector competence and reproductive biology. One such facultative symbiont,
+<italic toggle="yes">Spiroplasma glossinidia</italic>
+, infects several tsetse species within the
+<italic toggle="yes">Palpalis</italic>
+subgroup. In
+<italic toggle="yes">Glossina fuscipes fuscipes</italic>
+(
+<italic toggle="yes">Gff</italic>
+), the
+<italic toggle="yes">Spiroplasma glossinidia</italic>
+strain
+<italic toggle="yes">s</italic>
+Gff induces a trypanosome-refractory phenotype and negatively impacts reproductive fitness by reducing female fecundity. However, the mechanisms behind these
+<italic toggle="yes">Spiroplasma</italic>
+-derived phenotypes remain poorly understood. Here, we report successful
+<italic toggle="yes">in vitro</italic>
+cultivation of
+<italic toggle="yes">s</italic>
+Gff and present complete genomes from three sources:
+<italic toggle="yes">in vitro</italic>
+cultured
+<italic toggle="yes">s</italic>
+Gff and
+<italic toggle="yes">s</italic>
+Gff isolated from both laboratory-maintained and wild-caught (Uganda)
+<italic toggle="yes">Gff</italic>
+flies. Comparative genomic analyses revealed a high degree of similarity in gene content and synteny among these
+<italic toggle="yes">s</italic>
+Gff samples, confirming that they represent isolates of the same strain. Phylogenomic analyses placed
+<italic toggle="yes">s</italic>
+Gff within the
+<italic toggle="yes">Spiroplasma poulsonii</italic>
+clade. The
+<italic toggle="yes">s</italic>
+Gff genome is highly dynamic, containing numerous mobile genetic elements. Additionally,
+<italic toggle="yes">in silico</italic>
+annotations indicate that
+<italic toggle="yes">s</italic>
+Gff relies on its host for both lipids and carbohydrates and produces several toxins, all of which could be implicated in the observed trypanosome refractory phenotype. Finally, comparative transcriptomic analysis of
+<italic toggle="yes">s</italic>
+Gff from host hemolymph versus
+<italic toggle="yes">in vitro</italic>
+culture provided insights into potential factors relevant to host-symbiont interactions. Our findings provide a foundation for understanding the nutritional dialogue between
+<italic toggle="yes">s</italic>
+Gff and its host and identify symbiotic products that may contribute to trypanosome resistance. Furthermore, the establishment of an
+<italic toggle="yes">in vitro</italic>
+culture system for
+<italic toggle="yes">s</italic>
+Gff represents a significant resource for future functional studies with potential implications for vector control.
+</p></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front></article>
+        
+    </metadata>
+</record>
+    </GetRecord>
+
+</OAI-PMH>

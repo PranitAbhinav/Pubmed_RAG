@@ -1,0 +1,318 @@
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2025-09-09T13:51:57Z</responseDate>
+    <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:12406969" metadataPrefix="pmc">https://pmc.ncbi.nlm.nih.gov/api/oai/v1/mh/</request>
+    
+    <GetRecord>
+        <record>
+    <header>
+    <identifier>oai:pubmedcentral.nih.gov:12406969</identifier>
+    <datestamp>2025-09-04</datestamp>
+    
+        
+        <setSpec>jtgga</setSpec>
+        
+    
+        
+        <setSpec>pmc-open</setSpec>
+        
+    
+</header>
+    <metadata>
+        
+        <article xmlns="https://jats.nlm.nih.gov/ns/archiving/1.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.4/ https://jats.nlm.nih.gov/archiving/1.4/xsd/JATS-archivearticle1-4.xsd" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Turk Ger Gynecol Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Turk Ger Gynecol Assoc</journal-id><journal-id journal-id-type="pmc-domain-id">2240</journal-id><journal-id journal-id-type="pmc-domain">jtgga</journal-id><journal-title-group><journal-title>Journal of the Turkish German Gynecological Association</journal-title></journal-title-group><issn pub-type="ppub">1309-0399</issn><issn pub-type="epub">1309-0380</issn><publisher><publisher-name>Turkish German Gynecological Association</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12406969</article-id><article-id pub-id-type="pmcid-ver">PMC12406969.1</article-id><article-id pub-id-type="pmcaid">12406969</article-id><article-id pub-id-type="pmcaiid">12406969</article-id><article-id pub-id-type="pmid">40820595</article-id><article-id pub-id-type="doi">10.4274/jtgga.galenos.2025.2025-4-7</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Investigation</subject></subj-group></article-categories><title-group><article-title>Comparison of laparoscopic and laparotomic Burch colposuspension in the treatment of stress urinary incontinence</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8282-1229</contrib-id><name name-style="western"><surname>&#214;zt&#252;rk</surname><given-names initials="B">Bilgin</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2109-1373</contrib-id><name name-style="western"><surname>Atl&#305;han</surname><given-names initials="U">Ufuk</given-names></name><xref rid="aff2" ref-type="aff">2</xref><email>cfl.ufuk@gmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3344-2935</contrib-id><name name-style="western"><surname>Peker</surname><given-names initials="ME">Mehmet Emre</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3046-9996</contrib-id><name name-style="western"><surname>Mungan</surname><given-names initials="MU">Mehmet U&#287;ur</given-names></name><xref rid="aff3" ref-type="aff">3</xref></contrib><aff id="aff1"><label>1</label>Department of Urology, Ba&#351;kent University Training and Research Medical Center, &#304;zmir, T&#252;rkiye</aff><aff id="aff2"><label>2</label>Clinic of Obstetrics and Gynaecology, Manisa Merkezefendi State Hospital, Manisa, T&#252;rkiye</aff><aff id="aff3"><label>3</label>Department of Urology, Dokuz Eyl&#252;l University Faculty of Medicine, &#304;zmir, T&#252;rkiye</aff></contrib-group><pub-date publication-format="print" date-type="pub"><month>9</month><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="pub"><day>03</day><month>9</month><year>2025</year></pub-date><volume>26</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">496164</issue-id><fpage>190</fpage><lpage>194</lpage><history><date date-type="received"><day>30</day><month>4</month><year>2025</year></date><date date-type="accepted"><day>16</day><month>7</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>03</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>04</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-04 10:25:45.023"><day>04</day><month>09</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>Copyright&#169; 2025 The Author. Published by Galenos Publishing House on behalf of Turkish-German Gynecological Association.</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>Journal of the Turkish-German Gynecological Association</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND) International License.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="JTurkGerGynecolAssoc-26-3-190.pdf"/><abstract abstract-type="section"><sec><title>Objective</title><p>To evaluate patients who underwent Burch colposuspension due to stress-type urinary incontinence (SUI) in terms of laparoscopic (L/S) and laparotomy (L/T) approaches.</p></sec><sec><title>Material and Methods</title><p>Women aged 40-70 years who were admitted to our hospital with symptoms of SUI between 2017 and 2024, who underwent surgical treatment for SUI, and who met the inclusion criteria were included. The women were divided into two groups, those who received L/T and those who underwent L/S Burch colposuspension. To assess the impact of SUI on quality of life, several quality-of-life questionnaires, including the urinary distress inventory (UDI-6), the incontinence impact questionnaire (IIQ-7), the short-form-36 (SF-36) physical component summary, and the mental component summary (MCS), were evaluated. Post-operative pain was assessed with a Visual Analog Scale (VAS).</p></sec><sec><title>Results</title><p>The cohort consisted of 74 patients. The surgical time and estimated blood loss in the L/S group was significantly lower than in the L/T group (both p&lt;0.001). The sixth and 48<sup>th</sup>-hour VAS score in the L/S group was significantly lower than in the L/T group (both p&lt;0.001). There was a significant decrease in UDI-6 and IIQ-7 score in patients who underwent L/S-Burch colposuspension and L/T-Burch colposuspension at the 6<sup>th</sup>-month follow-up (p&lt;0.001 and p&lt;0.001, respectively). At the sixth-month follow-up, the SF-36 MCS score was significantly lower in the L/S group compared with the L/T group (p=0.014).</p></sec><sec><title>Conclusion</title><p>In our study, the results of Burch colposuspension methods were consistent with the literature. L/S-Burch colposuspension is superior in terms of surgical time, blood loss, hospital stay, pain management, and recovery time. The significant decrease in UDI-6 and IIQ-7 scores at the 6-month follow-up shows that both methods provide improvement in urinary incontinence symptoms and increase quality of life.</p></sec></abstract><kwd-group><kwd>Burch colposuspension</kwd><kwd>laparoscopy</kwd><kwd>laparotomy</kwd><kwd>stress urinary incontinence</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="introduction"><title>Introduction</title><p>Stress-type urinary incontinence (SUI) is a common health problem among women and negatively affects quality of life (QoL) (<xref rid="ref-1" ref-type="bibr">1</xref>). Surgical treatment offers an effective solution in SUI cases that do not respond to conservative methods. In this context, Burch colposuspension has been preferred as a procedure with proven reliability and effectiveness for many years (<xref rid="ref-2" ref-type="bibr">2</xref>). Traditionally this procedure has been performed via laparotomy (L/T). However, Burch colposuspension can now be performed using minimally invasive methods with the development of laparoscopic (L/S) techniques. Burch colposuspension, performed either through an open or a L/S approach, is an effective surgical treatment for SUI (<xref rid="ref-3" ref-type="bibr">3</xref>). The advantages of L/S surgery, such as smaller incisions, less postoperative pain, faster recovery time and shorter hospital stay, have increased the preference for this method (<xref rid="ref-4" ref-type="bibr">4</xref>). However, the technical difficulties of the L/S approach and the length of the surgical learning curve make it important to compare its effectiveness and safety with the L/T method (<xref rid="ref-5" ref-type="bibr">5</xref>). L/T surgery is still preferred by some surgeons because it offers a wider field of view and requires relatively less experience. Evaluation of the advantages and disadvantages of L/S and L/T Burch colposuspension procedures may contribute to determining the optimal approach in the surgical treatment of SUI (<xref rid="ref-6" ref-type="bibr">6</xref>). Thus, the aim of the present study was to evaluate and compare patients who underwent Burch colposuspension for SUI using either the L/S or L/T approaches.</p></sec><sec><title>Material and Methods</title><p>This study was a retrospective, observational study. This study was approved by the Ba&#351;kent University Rectorate Medical and Health Sciences Research Board (approval number: KA25/70, date: 10.04.2025). The study complied with the Helsinki Declaration and informed consent was obtained from all patients. Women aged 40-70 years who were admitted to our hospital with symptoms of SUI between 2017 and 2024, who underwent surgical treatment for SUI, and who met the inclusion criteria were included. The women were divided into two groups, those who received L/T and those who received L/S Burch colposuspension. Classified as L/S-Burch colposuspension surgery (group 1) and L/T-Burch colposuspension surgery (group 2). In patient selection, previous pelvic surgery, active pelvic infection, medical treatment history in the preceding six months, neurogenic bladder, history of malignancy and current pregnancy were considered as exclusion criteria. All surgeries were performed by experienced pelvic surgeons and the same surgical protocols were followed. The presence of preoperative SUI in all women participating in the study was confirmed from patient files. Anamnesis, physical examination, cystourethroscopy and urinalysis data of all women were evaluated retrospectively. Physical examinations included bimanual pelvic examination and focused neurologic examinations. SUI was defined as the involuntary loss of urine through the urethra attributable to a sudden increase in intra-abdominal pressure. All patients were evaluated for the type of incontinence, presence and degree of cystocele, rectocele, enterocele, and other pelvic floor abnormalities, such as uterine hypermobility. All data, including age, parity, body mass index (BMI), menopausal status, hormone replacement status, delivery type, incontinence type, concomitant diseases, surgical time, intraoperative blood loss, intraoperative fluid requirements, preoperative and postoperative hematocrit, postoperative analgesic requirements, length of hospital stay, and complications, were obtained from patient records. Exclusion criteria were: history of SUI surgery; intrinsic sphincter deficiency in SUI; urinary retention; neurogenic bladder; suspected malignancy; urge incontinence only; chronic cystitis; pelvic inflammatory diseases; urinary tract infection; use of anticoagulant drugs and/or anti-psychiatric drugs; and coagulation disorders.</p><p>Visual Analog Scale (VAS) scores were recorded six and 48 hours after the procedure to assess postoperative pain. On the VAS scale, 0 represents no pain and 10 represents the worst conceivable pain. Dyspareunia was scored by participants on a range of 0 to 10 (<xref rid="ref-7" ref-type="bibr">7</xref>). In the clinical examination, cough stress test data were evaluated during the sixth month postoperative follow-up to evaluate the response to treatment. In addition, at the sixth month follow-up, the urinary distress inventory (UDI-6) and incontinence impact questionnaire (IIQ-7) data were examined to evaluate the subjective response to treatment (<xref rid="ref-8" ref-type="bibr">8</xref>). The short-form-36 (SF-36) QoL questionnaire was used to evaluate baseline and six months postoperative subjective QoL for the patients (<xref rid="ref-9" ref-type="bibr">9</xref>). This form compares eight scales that can be combined into two summary measures assessing physical and mental health. These are the physical component summary (PCS) and mental component summary (MCS), respectively. In addition, the SF-36 has a general health question (excellent, very good, good, fair, and poor). Only the summary scales and the general health question are reported for the present study (<xref rid="ref-10" ref-type="bibr">10</xref>). Lower scores using the SF-36 questionnaire indicate better general, physical, and mental health. These instruments assess symptom distress and life impact of urinary incontinence, respectively. The Genitourinary Treatment Satisfaction Scale (GUTSS) was used to evaluate satisfaction with the surgery at the sixth month postoperative follow-up (<xref rid="ref-10" ref-type="bibr">10</xref>). The GUTSS consists of 10 items on two scales measuring satisfaction with care and outcome. The scale range is 0-32, with higher scores indicating greater satisfaction.</p><sec><title>Statistical analysis</title><p>Statistical analysis was performed using SPSS, version 26.0 (IBM Inc., Armonk, NY, USA). The normality of data distribution was measured using the Kolmogorov-Smirnov test. Quantitative data are reported as mean &#177; standard deviation. Numbers (n) and percentages (%) were used for describing categorical data. The independent samples t-test was used to compare paired groups, the matched test was used to ascertain the changes that occurred before and after the treatment, and the chi-square test was used to compare qualitative data. The results were evaluated at a 95% confidence interval so a p-value of &lt;0.05 was considered to indicate statistical significance.</p></sec></sec><sec sec-type="results"><title>Results</title><p>A total of 74 women were included with a mean age of 49.58&#177;7.16 years, and mean BMI of 25.57&#177;4.45 kg/m<sup>2</sup>. The mean parity of the women was 3.05&#177;1.12, and the mean gravidity was 3.61&#177;1.35. No significant difference was found between the L/S group (n=34) and the L/T group (n=40) in terms of demographic or obstetrics characteristics (<xref rid="table-1" ref-type="table">Table 1</xref>).</p><p>Several variables were significantly improved in the L/S group compared to the L/T group (<xref rid="table-2" ref-type="table">Table 2</xref>). These included operation time, blood loss, duration of hospital stay, sixth hour and 48<sup>th</sup> hour VAS scores, and time to return to normal activity (all p&lt;0.001 except for duration of hospital stay when p=0.036).</p><p>There was a significant decrease in UDI-6 scores in patients who underwent L/S-Burch colposuspension and L/T-Burch colposuspension at the 6<sup>th</sup>-month follow-up (p&lt;0.001 and p&lt;0.001, respectively). There was also a significant decrease in IIQ-7 scores in patients who underwent L/S-Burch colposuspension and L/T-Burch colposuspension at the sixth-month follow-up (p&lt;0.001 and p&lt;0.001, respectively). However, there was no significant baseline to follow-up improvement in general health. There was a significant increase in SF-36 PCS scores in patients who underwent either L/S-Burch colposuspension or L/T-Burch colposuspension at the sixth-month follow-up (p=0.014 and p=0.046, respectively). At baseline, the SF-36 MCS score was significantly lower (43.26&#177;10.18) in the L/S-Burch colposuspension group compared with the L/T-Burch colposuspension group (47.38&#177;10.36) (p=0.018). At the sixth-month follow-up, the SF-36 MCS score remained significantly lower (43.68&#177;10.26) in the L/S-Burch colposuspension group compared with the L/T-Burch colposuspension group (47.88&#177;10.42) (p=0.014). No significant difference was found between the groups in terms of GUTSS at the sixth-month follow-up (<xref rid="table-3" ref-type="table">Table 3</xref>).</p></sec><sec sec-type="discussion"><title>Discussion</title><p>Although there are many published studies about Burch colposuspension, there are limited comprehensive evaluations of L/S-Burch versus L/T-Burch procedures in terms of patient satisfaction in the postoperative period. The findings of the present study showed that both methods effectively reduced urinary incontinence symptoms and improved patients&#8217; QoL. However, the L/S method was found to be superior to the L/T method in terms of surgical time, estimated blood loss, length of hospital stay, and postoperative pain management, supporting the findings of Dean et al. (<xref rid="ref-6" ref-type="bibr">6</xref>) who showed a trend toward fewer perioperative complications, less postoperative pain, and shorter hospital stay for L/S compared with open colposuspension. There was no significant difference in the reported short and long-term subjective recovery rates of the two procedures. We also observed no significant differences in postoperative evacuation dysfunction or perioperative complications. There was a significantly longer surgical time and hospital stay for L/S colposuspension.</p><p>The minimally invasive technique used in the L/S approach is seen as one of the main advantages of this method. In addition, patients are able to return to their daily activities more quickly following L/S surgery supports the benefits of this method in terms of patient comfort and satisfaction. In the literature no significant difference was found between the groups in terms of surgical time. However, intraoperative blood loss and postoperative analgesic requirements were lower in the L/S group than in the L/T group. The duration of hospital stay was also significantly shorter in the L/S group. Similarly, Obaid et al. (<xref rid="ref-11" ref-type="bibr">11</xref>) reported that L/S-Burch colposuspension provided advantages, such as shorter hospital stay, less estimated blood loss, less postoperative pain, and faster recovery time compared with L/T-Burch colposuspension for the treatment of SUI. However, in contrast to the present study, the surgical time was found to be longer in the L/S method (<xref rid="ref-12" ref-type="bibr">12</xref>). The significant decrease in UDI-6 and IIQ-7 scores in both groups at the 6<sup>th</sup>-month follow-up indicated that both methods improved urinary incontinence symptoms and improved patients&#8217; QoL.</p><p>&#220;nal and Karadeniz (<xref rid="ref-12" ref-type="bibr">12</xref>) found no significant differences between the groups in terms of subjective recovery rates (UDI-6 and IIQ-7) in the postoperative period of L/S and L/T-Burch colposuspension surgeries (<xref rid="ref-13" ref-type="bibr">13</xref>). The SF-36 PCS showed a significant increase in both groups. However, the SF-36 MCS, which was lower at the beginning in the L/S method, was also lower at six months compared with the L/T method. This suggests that psychological recovery after L/S surgery may progress more slowly and should be evaluated in more detail. In the study by Carey et al. (<xref rid="ref-13" ref-type="bibr">13</xref>), at baseline, the L/T group reported significantly better general health and better mental health by SF-36 compared with the L/S group. The baseline differences in general health between the L/T and L/S groups were maintained at follow-up. In the present study, no significant differences were found between the groups in terms of GUTSS scores at the sixth-month follow-up. These results show that both methods have similar effects on general satisfaction and lower urinary tract symptoms. Carey et al. (<xref rid="ref-13" ref-type="bibr">13</xref>) also used GUTSS to assess their cohort and reported that scores were high in both groups in terms of satisfaction with treatment results at the sixth month follow-up, and no difference was found between the treatment groups.</p><sec><title>Study limitations</title><p>The main limitation of our study is that it was retrospective, and only the post-treatment 6<sup>th</sup>-month data of all patients in the surgical treatment groups were available. Another limitation was that the data on the long-term effectiveness of the treatment methods within and between groups are not yet available. When the cost difference between the two surgical methods was compared, although it was higher in the L/S group, cost-effectiveness could not be evaluated as a factor due to its retrospective nature. The strengths of this study are the use of various QoL questionnaires (UDI-6, IIQ-7, PCS, and MCS) and the assessment of how treatment effects affect symptom control and the patient&#8217;s overall QoL.</p></sec></sec><sec sec-type="conclusion"><title>Conclusion</title><p>The present study compared the short- and mid-term clinical results of L/S and L/T-Burch colposuspension methods. The findings were consistent with the existing literature. L/S-Burch colposuspension was superior to the L/T method in terms of surgical time, blood loss, hospital stay, pain management, and recovery time. The significant decrease in UDI-6 and IIQ-7 scores in both groups at the six-month follow-up showed that both methods provided improvement in urinary incontinence symptoms and increased the QoL of all patients. However, prospective studies are needed to evaluate long-term outcomes for both procedures with larger patient groups.</p></sec><sec><title>Ethics</title><p>
+<bold>
+<italic toggle="yes">Ethics Committee Approval:</italic>
+</bold>
+<italic toggle="yes"> This study was approved by the Ba&#351;kent University Rectorate Medical and Health Sciences Research Board (approval number: KA25/70, date: 10.04.2025).</italic>
+</p><p>
+<bold>
+<italic toggle="yes">Informed Consent:</italic>
+</bold>
+<italic toggle="yes"> The study complied with the Helsinki Declaration and informed consent was obtained from all patients.</italic>
+</p></sec></body><back><fn-group><fn id="fn-1" fn-type="author-contributions"><p>
+<bold>
+<italic toggle="yes">Author Contributions:</italic>
+</bold>
+<italic toggle="yes"> Surgical and Medical Practices:&#160;U.A., M.U.M., Concept:&#160;M.E.P., Design:&#160;B.&#214;., Data Collection or Processing:&#160;U.A., Analysis or Interpretation:&#160;U.A., Literature Search:&#160;U.A., Writing:&#160;U.A.</italic>
+</p></fn><fn id="fn-2" fn-type="COI-statement"><p>
+<bold>
+<italic toggle="yes">Conflict of Interest:</italic>
+</bold>
+<italic toggle="yes"> No conflict of interest is declared by the authors.</italic>
+</p></fn><fn id="fn-3" fn-type="financial-disclosure"><p>
+<bold>
+<italic toggle="yes">Financial Disclosure:</italic>
+</bold>
+<italic toggle="yes"> The authors declared that this study received no financial support.</italic>
+</p></fn></fn-group><ref-list><title>References</title><ref id="ref-1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Aoki</surname><given-names>Y</given-names></name><name name-style="western"><surname>Brown</surname><given-names>HW</given-names></name><name name-style="western"><surname>Brubaker</surname><given-names>L</given-names></name><name name-style="western"><surname>Cornu</surname><given-names>JN</given-names></name><name name-style="western"><surname>Daly</surname><given-names>JO</given-names></name><name name-style="western"><surname>Cartwright</surname><given-names>R</given-names></name></person-group><article-title>Urinary incontinence in women.</article-title><source>Nat Rev Dis Primers</source><year iso-8601-date="2017">2017</year><volume>3</volume><fpage>17042</fpage><pub-id pub-id-type="doi">10.1038/nrdp.2017.42</pub-id><pub-id pub-id-type="pmid">28681849</pub-id><pub-id pub-id-type="pmcid">PMC5878864</pub-id></element-citation></ref><ref id="ref-2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lapitan</surname><given-names>MCM</given-names></name><name name-style="western"><surname>Cody</surname><given-names>JD</given-names></name><name name-style="western"><surname>Mashayekhi</surname><given-names>A</given-names></name></person-group><article-title>Open retropubic colposuspension for urinary incontinence in women.</article-title><source>Cochrane Database Syst Rev</source><year iso-8601-date="2017">2017</year><volume>7</volume><issue>7</issue><fpage>CD002912</fpage><pub-id pub-id-type="doi">10.1002/14651858.CD002912.pub7</pub-id><pub-id pub-id-type="pmid">28741303</pub-id><pub-id pub-id-type="pmcid">PMC6483458</pub-id></element-citation></ref><ref id="ref-3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Veit-Rubin</surname><given-names>N</given-names></name><name name-style="western"><surname>Dubuisson</surname><given-names>J</given-names></name><name name-style="western"><surname>Ford</surname><given-names>A</given-names></name><name name-style="western"><surname>Dubuisson</surname><given-names>JB</given-names></name><name name-style="western"><surname>Mourad</surname><given-names>S</given-names></name><name name-style="western"><surname>Digesu</surname><given-names>A</given-names></name></person-group><article-title>Burch colposuspension.</article-title><source>Neurourol Urodyn</source><year iso-8601-date="2019">2019</year><volume>38</volume><issue>2</issue><fpage>553</fpage><lpage>62</lpage><pub-id pub-id-type="doi">10.1002/nau.23905</pub-id><pub-id pub-id-type="pmid">30620096</pub-id><pub-id pub-id-type="pmcid">PMC6850136</pub-id></element-citation></ref><ref id="ref-4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Alkatout</surname><given-names>I</given-names></name><name name-style="western"><surname>Mechler</surname><given-names>U</given-names></name><name name-style="western"><surname>Mettler</surname><given-names>L</given-names></name><name name-style="western"><surname>Pape</surname><given-names>J</given-names></name><name name-style="western"><surname>Maass</surname><given-names>N</given-names></name><name name-style="western"><surname>Biebl</surname><given-names>M</given-names></name><etal/></person-group><article-title>The development of laparoscopy - a historical overview.</article-title><source>Front Surg</source><year iso-8601-date="2021">2021</year><volume>8</volume><fpage>799442</fpage><pub-id pub-id-type="pmid">34977146</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fsurg.2021.799442</pub-id><pub-id pub-id-type="pmcid">PMC8714650</pub-id></element-citation></ref><ref id="ref-5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Malanowska-Jarema</surname><given-names>E</given-names></name><name name-style="western"><surname>Osnytska</surname><given-names>Y</given-names></name><name name-style="western"><surname>Starczewski</surname><given-names>A</given-names></name><name name-style="western"><surname>Balzarro</surname><given-names>M</given-names></name><name name-style="western"><surname>Rubilotta</surname><given-names>E</given-names></name></person-group><article-title>A comparative study in learning curves of laparoscopic lateral suspension vs. laparoscopic sacrocolpopexy: preliminary results.</article-title><source>Front Surg</source><year iso-8601-date="2023">2023</year><volume>10</volume><fpage>1274178</fpage><pub-id pub-id-type="pmid">38125583</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fsurg.2023.1274178</pub-id><pub-id pub-id-type="pmcid">PMC10731022</pub-id></element-citation></ref><ref id="ref-6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dean</surname><given-names>N</given-names></name><name name-style="western"><surname>Ellis</surname><given-names>G</given-names></name><name name-style="western"><surname>Herbison</surname><given-names>GP</given-names></name><name name-style="western"><surname>Wilson</surname><given-names>D</given-names></name><name name-style="western"><surname>Mashayekhi</surname><given-names>A</given-names></name></person-group><article-title>Laparoscopic colposuspension for urinary incontinence in women.</article-title><source>Cochrane Database Syst Rev</source><year iso-8601-date="2017">2017</year><volume>7</volume><issue>7</issue><fpage>CD002239</fpage><pub-id pub-id-type="doi">10.1002/14651858.CD002239.pub3</pub-id><pub-id pub-id-type="pmid">30059147</pub-id><pub-id pub-id-type="pmcid">PMC6483456</pub-id></element-citation></ref><ref id="ref-7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Inal</surname><given-names>FY</given-names></name><name name-style="western"><surname>Gul</surname><given-names>K</given-names></name><name name-style="western"><surname>Yilmaz</surname><given-names>Camgoz Y</given-names></name><name name-style="western"><surname>Daskaya</surname><given-names>H</given-names></name><name name-style="western"><surname>Kocoglu</surname><given-names>H</given-names></name></person-group><article-title>Validation of the Turkish version of the pain sensitivity questionnaire in patients with chronic pain.</article-title><source>J Int Med Res</source><year iso-8601-date="2021">2021</year><volume>49</volume><issue>12</issue><fpage>3000605211060158</fpage><pub-id pub-id-type="doi">10.1177/03000605211060158</pub-id><pub-id pub-id-type="pmid">34855531</pub-id><pub-id pub-id-type="pmcid">PMC8646826</pub-id></element-citation></ref><ref id="ref-8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Skorupska</surname><given-names>K</given-names></name><name name-style="western"><surname>Grzybowska</surname><given-names>ME</given-names></name><name name-style="western"><surname>Kubik-Komar</surname><given-names>A</given-names></name><name name-style="western"><surname>Rechberger</surname><given-names>T</given-names></name><name name-style="western"><surname>Miotla</surname><given-names>P</given-names></name></person-group><article-title>Identification of the urogenital distress inventory-6 and the incontinence impact questionnaire-7 cut-off scores in urinary incontinent women.</article-title><source>Health Qual Life Outcomes</source><year iso-8601-date="2021">2021</year><volume>19</volume><issue>1</issue><fpage>87</fpage><pub-id pub-id-type="doi">10.1186/s12955-021-01721-z</pub-id><pub-id pub-id-type="pmid">33726776</pub-id><pub-id pub-id-type="pmcid">PMC7962285</pub-id></element-citation></ref><ref id="ref-9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Pizzol</surname><given-names>D</given-names></name><name name-style="western"><surname>Demurtas</surname><given-names>J</given-names></name><name name-style="western"><surname>Celotto</surname><given-names>S</given-names></name><name name-style="western"><surname>Maggi</surname><given-names>S</given-names></name><name name-style="western"><surname>Smith</surname><given-names>L</given-names></name><name name-style="western"><surname>Angiolelli</surname><given-names>G</given-names></name><etal/></person-group><article-title>Urinary incontinence and quality of life: a systematic review and meta-analysis.</article-title><source>Aging Clin Exp Res</source><year iso-8601-date="2021">2021</year><volume>33</volume><issue>1</issue><fpage>25</fpage><lpage>35</lpage><pub-id pub-id-type="doi">10.1007/s40520-020-01712-y</pub-id><pub-id pub-id-type="pmid">32964401</pub-id><pub-id pub-id-type="pmcid">PMC7897623</pub-id></element-citation></ref><ref id="ref-10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Silva</surname><given-names>D</given-names></name><name name-style="western"><surname>Samarakkodi</surname><given-names>S</given-names></name><name name-style="western"><surname>Rajakaruna</surname><given-names>M</given-names></name><name name-style="western"><surname>Adeesha</surname><given-names>S</given-names></name><name name-style="western"><surname>Edirisinghe</surname><given-names>R</given-names></name></person-group><article-title>Effectiveness and the quality of life following laparoscopic Burch colposuspension for genuine urinary stress incontinence: six and twelve months follow up.</article-title><source>Sri Lanka Journal of Obstetrics and Gynaecology</source><year iso-8601-date="2021">2021</year><volume>43</volume><fpage>284</fpage><lpage>91</lpage></element-citation></ref><ref id="ref-11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Obaid</surname><given-names>AA</given-names></name><name name-style="western"><surname>Al-Hamzawi</surname><given-names>SA</given-names></name><name name-style="western"><surname>Alwan</surname><given-names>AA</given-names></name></person-group><article-title>Laparoscopic and open burch colposuspension for stress urinary incontinence: advantages and disadvantages.</article-title><source>J Popul Ther Clin Pharmacol</source><year iso-8601-date="2022">2022</year><volume>16</volume><issue>2</issue><fpage>e20</fpage><lpage>e26</lpage><pub-id pub-id-type="doi">10.47750/jptcp.2022.926</pub-id><pub-id pub-id-type="pmid">35848193</pub-id></element-citation></ref><ref id="ref-12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>&#220;nal</surname><given-names>&#214;</given-names></name><name name-style="western"><surname>Karadeniz</surname><given-names>O</given-names></name></person-group><article-title>Comparison of laparoscopic versus open Burch colposuspension techniques for female stress or mixed urinary incontinence: a ten-year experience in a tertiary center.</article-title><source>J Med Palliat Care</source><year iso-8601-date="2023">2023</year><volume>4</volume><fpage>189</fpage><lpage>95</lpage></element-citation></ref><ref id="ref-13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Carey</surname><given-names>MP</given-names></name><name name-style="western"><surname>Goh</surname><given-names>JT</given-names></name><name name-style="western"><surname>Rosamilia</surname><given-names>A</given-names></name><name name-style="western"><surname>Cornish</surname><given-names>A</given-names></name><name name-style="western"><surname>Gordon</surname><given-names>I</given-names></name><name name-style="western"><surname>Hawthorne</surname><given-names>G</given-names></name><etal/></person-group><article-title>Laparoscopic versus open Burch colposuspension: a randomised controlled trial.</article-title><source>BJOG</source><year iso-8601-date="2006">2006</year><volume>113</volume><fpage>999</fpage><lpage>1006</lpage><pub-id pub-id-type="pmid">16956331</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1471-0528.2006.01037.x</pub-id></element-citation></ref></ref-list></back><floats-group><table-wrap position="float" id="table-1" orientation="portrait"><label>
+Table 1. Comparison of demographic and obstetric characteristics of the participants
+</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>L/S-Burch colposuspension</bold>
+</p>
+<p>
+<bold>n=34</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>L/T-Burch colposuspension</bold>
+</p>
+<p>
+<bold>n=40</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>p-value</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Age (year)</p>
+</td><td colspan="1" rowspan="1">
+<p>49.76&#177;7.38</p>
+</td><td colspan="1" rowspan="1">
+<p>49.44&#177;6.98</p>
+</td><td colspan="1" rowspan="1">
+<p>0.82</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>BMI (kg/m<sup>2</sup>)</p>
+</td><td colspan="1" rowspan="1">
+<p>25.62&#177;4.58</p>
+</td><td colspan="1" rowspan="1">
+<p>25.52&#177;4.34</p>
+</td><td colspan="1" rowspan="1">
+<p>0.84</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Gravidity</p>
+</td><td colspan="1" rowspan="1">
+<p>3.68&#177;1.42</p>
+</td><td colspan="1" rowspan="1">
+<p>3.56&#177;1.32</p>
+</td><td colspan="1" rowspan="1">
+<p>0.56</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Parity</p>
+</td><td colspan="1" rowspan="1">
+<p>3.06&#177;1.08</p>
+</td><td colspan="1" rowspan="1">
+<p>3.04&#177;1.15</p>
+</td><td colspan="1" rowspan="1">
+<p>0.62</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Smoking, n (%)</p>
+</td><td colspan="1" rowspan="1">
+<p>16 (47%)</p>
+</td><td colspan="1" rowspan="1">
+<p>20 (50%)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.36</p>
+</td></tr><tr><td colspan="3" rowspan="1">
+<p>*Type of delivery, n (%)</p>
+</td><td colspan="1" rowspan="3">
+<p>0.32</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>NSVD</p>
+</td><td colspan="1" rowspan="1">
+<p>27 (79.4%)</p>
+</td><td colspan="1" rowspan="1">
+<p>33 (82.5%)</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>C/S</p>
+</td><td colspan="1" rowspan="1">
+<p>7 (20.6%)</p>
+</td><td colspan="1" rowspan="1">
+<p>7 (17.5%)</p>
+</td></tr></tbody></table><table-wrap-foot><p>Data are mean &#177;&#160; SD or n (%) unless otherwise speciified</p><p>BMI: Body mass index, NSVD: Normal spontaneous vaginal delivery, C/S: Cesarean section, SD: Standard deviation, L/S: Laparoscopic, L/T: Laparotomy</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-2" orientation="portrait"><label>
+Table 2. Comparison of the surgical and postoperative characteristics of the participants
+</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>L/S-Burch colposuspension</bold>
+</p>
+<p>
+<bold>n=34</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>L/T-Burch colposuspension</bold>
+</p>
+<p>
+<bold>n=40</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>p-value</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Operation time (min)</p>
+</td><td colspan="1" rowspan="1">
+<p>94.38&#177;11.46</p>
+</td><td colspan="1" rowspan="1">
+<p>62.18&#177;12.58</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Estimated blood loss (mL)</p>
+</td><td colspan="1" rowspan="1">
+<p>74.26&#177;21.58</p>
+</td><td colspan="1" rowspan="1">
+<p>108.58&#177;20.52</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Hospital stays (days)</p>
+</td><td colspan="1" rowspan="1">
+<p>2.08&#177;0.88</p>
+</td><td colspan="1" rowspan="1">
+<p>2.56&#177;0.78</p>
+</td><td colspan="1" rowspan="1">
+<p>0.036</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>6<sup>th</sup> hour VAS (pain)</p>
+</td><td colspan="1" rowspan="1">
+<p>5.12&#177;0.76</p>
+</td><td colspan="1" rowspan="1">
+<p>7.22&#177;0.82</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>48<sup>th</sup> hour VAS (pain)</p>
+</td><td colspan="1" rowspan="1">
+<p>3.12&#177;0.56</p>
+</td><td colspan="1" rowspan="1">
+<p>5.82&#177;0.64</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Return to normal activity time (days)</p>
+</td><td colspan="1" rowspan="1">
+<p>18.26&#177;2.36</p>
+</td><td colspan="1" rowspan="1">
+<p>25.32&#177;3.28</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.001</p>
+</td></tr></tbody></table><table-wrap-foot><p>Data are mean &#177;&#160; SD or n (%) unless otherwise speciified</p><p>VAS: Visual Analog Scale, min: Minutes, SD: Standard deviation, L/S: Laparoscopic, L/T: Laparotomy</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-3" orientation="portrait"><label>
+Table 3. Comparison of intergroup and intragroup results before and after treatment
+</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="2" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>L/S-Burch colposuspension</bold>
+</p>
+<p>
+<bold>n=34</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>L/T-Burch colposuspension</bold>
+</p>
+<p>
+<bold>n=40</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>p-value</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>UDI-6</p>
+</td><td colspan="1" rowspan="1">
+<p>Baseline</p>
+<p>6 months later</p>
+</td><td colspan="1" rowspan="1">
+<p>51.16&#177;18.92</p>
+<p>24.86&#177;11.62</p>
+<p>p&lt;0.001***</p>
+</td><td colspan="1" rowspan="1">
+<p>50.32&#177;19.26</p>
+<p>25.12&#177;10.92</p>
+<p>p&lt;0.001***</p>
+</td><td colspan="1" rowspan="1">
+<p>0.68**</p>
+<p>0.72**</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>IIQ-7</p>
+</td><td colspan="1" rowspan="1">
+<p>Baseline</p>
+<p>6 months later</p>
+</td><td colspan="1" rowspan="1">
+<p>49.82&#177;19.84</p>
+<p>24.12&#177;10.71</p>
+<p>p&lt;0.001***</p>
+</td><td colspan="1" rowspan="1">
+<p>49.52&#177;19.52</p>
+<p>23.82&#177;11.12</p>
+<p>p&lt;0.001***</p>
+</td><td colspan="1" rowspan="1">
+<p>0.84**</p>
+<p>0.78**</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>General health</p>
+</td><td colspan="1" rowspan="1">
+<p>Baseline</p>
+<p>6 months later</p>
+</td><td colspan="1" rowspan="1">
+<p>2.82&#177;1.12</p>
+<p>2.71&#177;1.03</p>
+<p>p=0.11***</p>
+</td><td colspan="1" rowspan="1">
+<p>2.42&#177;1.21</p>
+<p>2.32&#177;1.06</p>
+<p>p=0.08***</p>
+</td><td colspan="1" rowspan="1">
+<p>0.016**</p>
+<p>0.012**</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>SF-36 PCS</p>
+</td><td colspan="1" rowspan="1">
+<p>Baseline</p>
+<p>6 months later</p>
+</td><td colspan="1" rowspan="1">
+<p>44.26&#177;11.84</p>
+<p>47.36&#177;10.92</p>
+<p>p=0.014***</p>
+</td><td colspan="1" rowspan="1">
+<p>44.42&#177;11.78</p>
+<p>47.24&#177;10.68</p>
+<p>p=0.046***</p>
+</td><td colspan="1" rowspan="1">
+<p>0.76**</p>
+<p>0.82**</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>SF-36 MCS</p>
+</td><td colspan="1" rowspan="1">
+<p>Baseline</p>
+<p>6 months later</p>
+</td><td colspan="1" rowspan="1">
+<p>43.26&#177;10.18</p>
+<p>43.68&#177;10.26</p>
+<p>0.76***</p>
+</td><td colspan="1" rowspan="1">
+<p>47.38&#177;10.36</p>
+<p>47.88&#177;10.42</p>
+<p>0.82***</p>
+</td><td colspan="1" rowspan="1">
+<p>0.018**</p>
+<p>0.014**</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>GUTSS</p>
+<p>(Median-IQR)</p>
+</td><td colspan="1" rowspan="1">
+<p>6months later</p>
+</td><td colspan="1" rowspan="1">
+<p>28.5&#177;6.8</p>
+</td><td colspan="1" rowspan="1">
+<p>28.1&#177;7.2</p>
+</td><td colspan="1" rowspan="1">
+<p>0.56**</p>
+</td></tr></tbody></table><table-wrap-foot><p>Data are mean &#177;&#160; SD or n (%) unless otherwise speciified</p><p>**Independent Samples t-test, ***Match t-test, UDI-6: Urinary distress inventory, IIQ-7: Incontinence impact questionnaire, SF-36 PCS: Physical component summary, SF-36 MCS: Mental component summary, GUTSS: Genitourinary Treatment Satisfaction Scale, IQR: Interquartile range, SD: Standard deviation, L/S: Laparoscopic, L/T: Laparotomy, SF-36: Short-form-36 </p></table-wrap-foot></table-wrap></floats-group></article>
+        
+    </metadata>
+</record>
+    </GetRecord>
+
+</OAI-PMH>

@@ -1,0 +1,50 @@
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2025-09-09T14:01:29Z</responseDate>
+    <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:12407781" metadataPrefix="pmc">https://pmc.ncbi.nlm.nih.gov/api/oai/v1/mh/</request>
+    
+    <GetRecord>
+        <record>
+    <header>
+    <identifier>oai:pubmedcentral.nih.gov:12407781</identifier>
+    <datestamp>2025-09-04</datestamp>
+    
+        
+        <setSpec>pmc-open</setSpec>
+        
+    
+</header>
+    <metadata>
+        
+        <article xmlns="https://jats.nlm.nih.gov/ns/archiving/1.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.4/ https://jats.nlm.nih.gov/archiving/1.4/xsd/JATS-archivearticle1-4.xsd" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">bioRxiv</journal-id><journal-id journal-id-type="pmc-domain-id">3848</journal-id><journal-id journal-id-type="pmc-domain">biorxiv</journal-id><journal-id journal-id-type="publisher-id">BIORXIV</journal-id><journal-title-group><journal-title>bioRxiv</journal-title></journal-title-group><issn pub-type="epub">2692-8205</issn><publisher><publisher-name>Cold Spring Harbor Laboratory Preprints</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12407781</article-id><article-id pub-id-type="pmcid-ver">PMC12407781.1</article-id><article-id pub-id-type="pmcaid">12407781</article-id><article-id pub-id-type="pmcaiid">12407781</article-id><article-id pub-id-type="pmid">40909738</article-id><article-id pub-id-type="doi">10.1101/2025.08.24.672014</article-id><article-version-alternatives><article-version article-version-type="pmc-version">1</article-version><article-version article-version-type="status">preprint</article-version><article-version article-version-type="number">1</article-version></article-version-alternatives><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>
+Adipocyte-Derived Amino Acid Storage Proteins are Required for Germline Stem Cell Maintenance in Adult
+<italic toggle="yes">Drosophila</italic>
+Females
+</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Zike</surname><given-names initials="AB">Anna B.</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Abel</surname><given-names initials="MG">Madison G.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0009-0001-1211-9469</contrib-id></contrib><contrib contrib-type="author"><name name-style="western"><surname>Eisman</surname><given-names initials="RC">Robert C.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4126-9116</contrib-id></contrib><contrib contrib-type="author"><name name-style="western"><surname>Weaver</surname><given-names initials="LN">Lesley N.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-3120-8301</contrib-id></contrib></contrib-group><pub-date pub-type="epub"><day>25</day><month>8</month><year>2025</year></pub-date><issue-id pub-id-type="pmc-issue-id">496186</issue-id><elocation-id>2025.08.24.672014</elocation-id><pub-history><event event-type="pmc-release"><date><day>03</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>04</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-05 09:25:55.133"><day>05</day><month>09</month><year>2025</year></date></event></pub-history><permissions><license><ali:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This work is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</ext-link>, which allows reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="nihpp-2025.08.24.672014v1.pdf"/><self-uri xlink:href="http://biorxiv.org/lookup/doi/10.1101/2025.08.24.672014">http://biorxiv.org/lookup/doi/10.1101/2025.08.24.672014</self-uri><self-uri content-type="pdf">nihpp-2025.08.24.672014.pdf</self-uri><abstract><title>ABSTRACT</title><p>
+Tissue homeostasis is dependent on precise coordination between endocrine organs in response to changes in organism physiology. Secreted circulating factors from adipocytes (called adipokines) regulate the behavior of stem cell lineages in peripheral tissues in multiple organisms. In addition to their endocrine roles,
+<italic toggle="yes">Drosophila</italic>
+adipocytes store and secrete amino acid storage proteins throughout development. During the larval feeding period, adipocytes secrete storage proteins into the hemolymph, which are reabsorbed by the adipose tissue during metamorphosis to control adult organ size and fertility. Despite the known functions for storage proteins during the larval stages, their requirement during
+<italic toggle="yes">Drosophila</italic>
+adulthood and reproduction are uncharacterized. We discover that adipocyte-specific knockdown of the storage proteins
+<italic toggle="yes">Larval serum protein 1</italic>
+(
+<italic toggle="yes">Lsp1</italic>
+)
+<italic toggle="yes">&#945;/&#946;/&#947;</italic>
+and
+<italic toggle="yes">Larval serum protein 2</italic>
+(
+<italic toggle="yes">Lsp2</italic>
+) results in a decrease in GSC maintenance. We further reveal that decreased GSC number is due to downregulation of Target of Rapamycin (TOR) signaling in GSCs, suggesting compromised amino acid sensing directly in GSCs. We also find that the proteins that mediate storage protein adipocyte reabsorption, Fat body protein 1 (Fbp1) and Fat body protein 2 (Fbp2), are expressed in ovarian follicle cells. Intriguingly, Fbp1 nor Fbp2 appear to be required in follicle cells for GSC maintenance, suggesting undiscovered requirements for amino acid storage proteins in oogenesis. Our results highlight a novel role for
+<italic toggle="yes">Drosophila</italic>
+amino acid storage proteins during adulthood and in regulating tissue stem cell lineages.
+</p></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front></article>
+        
+    </metadata>
+</record>
+    </GetRecord>
+
+</OAI-PMH>

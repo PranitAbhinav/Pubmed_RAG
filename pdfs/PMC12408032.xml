@@ -1,0 +1,66 @@
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2025-09-09T14:01:14Z</responseDate>
+    <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:12408032" metadataPrefix="pmc">https://pmc.ncbi.nlm.nih.gov/api/oai/v1/mh/</request>
+    
+    <GetRecord>
+        <record>
+    <header>
+    <identifier>oai:pubmedcentral.nih.gov:12408032</identifier>
+    <datestamp>2025-09-04</datestamp>
+    
+        
+        <setSpec>pmc-open</setSpec>
+        
+    
+</header>
+    <metadata>
+        
+        <article xmlns="https://jats.nlm.nih.gov/ns/archiving/1.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.4/ https://jats.nlm.nih.gov/archiving/1.4/xsd/JATS-archivearticle1-4.xsd" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Res Sq</journal-id><journal-id journal-id-type="pmc-domain-id">3885</journal-id><journal-id journal-id-type="pmc-domain">ressq</journal-id><journal-id journal-id-type="publisher-id">ResearchSquare</journal-id><journal-title-group><journal-title>Research Square</journal-title></journal-title-group><issn pub-type="epub">2693-5015</issn><publisher><publisher-name>American Journal Experts</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12408032</article-id><article-id pub-id-type="pmcid-ver">PMC12408032.1</article-id><article-id pub-id-type="pmcaid">12408032</article-id><article-id pub-id-type="pmcaiid">12408032</article-id><article-id pub-id-type="pmid">40909777</article-id><article-id pub-id-type="doi">10.21203/rs.3.rs-7303372/v1</article-id><article-id pub-id-type="other">10.21203/rs.3.rs-7303372</article-id><article-version-alternatives><article-version article-version-type="pmc-version">1</article-version><article-version article-version-type="status">preprint</article-version><article-version article-version-type="number">1</article-version></article-version-alternatives><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>
+Pyrethroid Insecticide Resistance of Aedes albopictus and Aedes aegypti (Diptera: Culicidae) across the Hawaiian Islands
+</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Seok</surname><given-names initials="S">Sangwoo</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>McCollum</surname><given-names initials="MT">Miles T.</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Jacobsen</surname><given-names initials="CM">Christopher M.</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Akbari</surname><given-names initials="OS">Omar S.</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Mathias</surname><given-names initials="DK">Derrick K.</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Lee</surname><given-names initials="Y">Yoosook</given-names></name></contrib></contrib-group><pub-date pub-type="epub"><day>25</day><month>8</month><year>2025</year></pub-date><issue-id pub-id-type="pmc-issue-id">496187</issue-id><elocation-id>rs.3.rs-7303372</elocation-id><pub-history><event event-type="pmc-release"><date><day>03</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>04</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-05 10:25:38.007"><day>05</day><month>09</month><year>2025</year></date></event></pub-history><permissions><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This work is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ext-link>, which allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="nihpp-rs7303372v1.pdf"/><self-uri xlink:href="https://www.researchsquare.com/article/rs-7303372/v1">https://www.researchsquare.com/article/rs-7303372/v1</self-uri><self-uri content-type="pdf">nihpp-rs7303372v1.pdf</self-uri><abstract><title>Abstract</title><p>
+Background
+<italic toggle="yes">Aedes albopictus</italic>
+(Skuse, 1894) and
+<italic toggle="yes">Aedes aegypti</italic>
+(Linnaeus, 1762) (Diptera: Culicidae) are invasive species in the Hawaiian Islands as well as other islands of the Pacific and serve as the primary vectors of arboviruses like dengue virus. Despite its significance to public health, data on their insecticide resistance remains limited. Knowledge of the level of insecticide resistance is critical in developing effective mosquito control strategies, especially when an arboviral disease outbreak occurs.
+Methods
+This study investigated the phenotypic and genotypic resistance of Hawaiian
+<italic toggle="yes">Ae. albopictus</italic>
+and
+<italic toggle="yes">Ae. aegypti</italic>
+to permethrin, one of the commonly used pyrethroids. Genomic sequences of 93
+<italic toggle="yes">Ae. albopictus</italic>
+samples from four Hawaiian Islands (Kaua&#8216;i, O&#8216;ahu, Maui, and the Island of Hawai&#8216;i) were screened for non-synonymous mutations in the voltage-gated sodium channel (VGSC) gene (chromosome 3: 345,142,499&#8201;&#8722;&#8201;345,663,668). Phenotypic resistance to permethrin was assessed using a modified Centers for Disease Control and Prevention (CDC) bottle bioassay on
+<italic toggle="yes">Ae. albopictus</italic>
+and
+<italic toggle="yes">Ae. aegypti</italic>
+collected from two socio-environmentally distinct sites.
+Results
+Among 4,101 single-nucleotide polymorphisms (SNPs) identified in the VGSC region of
+<italic toggle="yes">Ae. albopictus</italic>
+genomes from for Hawaiian Islands, 61 were classified as synonymous. No non-synonymous mutations were found, suggesting an absence of genotypic resistance to pyrethroids in these populations. In phenotypic assays, over 97% of
+<italic toggle="yes">Ae. albopictus</italic>
+and all
+<italic toggle="yes">Ae. aegypti</italic>
+individuals were knocked down within 10 minutes of permethrin exposure. These high knockdown rates indicate that both species remain phenotypically susceptible to permethrin.
+Conclusions
+This study is the first study reporting the phenotypic insecticide resistance profile of Hawaiian
+<italic toggle="yes">Aedes</italic>
+mosquitoes. Hawaiian populations of
+<italic toggle="yes">Ae. albopictus</italic>
+and
+<italic toggle="yes">Ae. aegypti</italic>
+remain susceptible to pyrethroids, as demonstrated by the absence of VGSC mutations and high knockdown rates in permethrin bioassays. While no genotypic and phenotypic resistance was detected in these two
+<italic toggle="yes">Aedes</italic>
+species, monitoring for resistance in other mosquito species and through alternative mechanisms is needed.
+</p></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front></article>
+        
+    </metadata>
+</record>
+    </GetRecord>
+
+</OAI-PMH>

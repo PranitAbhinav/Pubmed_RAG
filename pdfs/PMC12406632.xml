@@ -1,0 +1,650 @@
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2025-09-09T13:52:24Z</responseDate>
+    <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:12406632" metadataPrefix="pmc">https://pmc.ncbi.nlm.nih.gov/api/oai/v1/mh/</request>
+    
+    <GetRecord>
+        <record>
+    <header>
+    <identifier>oai:pubmedcentral.nih.gov:12406632</identifier>
+    <datestamp>2025-09-04</datestamp>
+    
+        
+        <setSpec>turkjsurgery</setSpec>
+        
+    
+        
+        <setSpec>pmc-open</setSpec>
+        
+    
+</header>
+    <metadata>
+        
+        <article xmlns="https://jats.nlm.nih.gov/ns/archiving/1.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.4/ https://jats.nlm.nih.gov/archiving/1.4/xsd/JATS-archivearticle1-4.xsd" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Turk J Surg</journal-id><journal-id journal-id-type="iso-abbrev">Turk J Surg</journal-id><journal-id journal-id-type="pmc-domain-id">3226</journal-id><journal-id journal-id-type="pmc-domain">turkjsurgery</journal-id><journal-title-group><journal-title>Turkish Journal of Surgery</journal-title></journal-title-group><issn pub-type="ppub">2564-6850</issn><issn pub-type="epub">2564-7032</issn><publisher><publisher-name>Turkish Surgical Society</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12406632</article-id><article-id pub-id-type="pmcid-ver">PMC12406632.1</article-id><article-id pub-id-type="pmcaid">12406632</article-id><article-id pub-id-type="pmcaiid">12406632</article-id><article-id pub-id-type="pmid">40788068</article-id><article-id pub-id-type="doi">10.47717/turkjsurg.2025.2025-5-13</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Factors affecting the formation of lymphedema due to breast cancer (Is primary systemic treatment an independent factor in the formation of breast cancer related lymphedema?)</article-title></title-group><contrib-group><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-3304-7871</contrib-id><name name-style="western"><surname>Kumcuo&#287;lu</surname><given-names initials="M">Melek</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6845-658X</contrib-id><name name-style="western"><surname>G&#252;nay</surname><given-names initials="S">Semra</given-names></name><xref rid="aff2" ref-type="aff">2</xref><email>gunaysemra@gmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9989-4152</contrib-id><name name-style="western"><surname>G&#246;k&#231;ek</surname><given-names initials="B">Berk</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><aff id="aff1"><label>1</label>Department of General Surgery, University of Health Sciences T&#252;rkiye, Prof. Dr. Cemil Ta&#351;c&#305;o&#287;lu City Hospital, &#304;stanbul, T&#252;rkiye</aff><aff id="aff2"><label>2</label>Department of General Surgery, &#304;stanbul Okan University Faculty of Medicine, &#304;stanbul, T&#252;rkiye</aff></contrib-group><pub-date publication-format="electronic" date-type="collection"><month>9</month><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="pub"><day>03</day><month>9</month><year>2025</year></pub-date><volume>41</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">496151</issue-id><fpage>248</fpage><lpage>254</lpage><history><date date-type="received"><day>16</day><month>5</month><year>2025</year></date><date date-type="accepted"><day>28</day><month>7</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>03</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>04</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-04 10:25:45.023"><day>04</day><month>09</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>Copyright&#169; 2025 The Author. Published by Galenos Publishing House on behalf of Turkish Surgical Society.</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>Turkish Journal of Surgery</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbynclicense">https://creativecommons.org/licenses/by-nc/4.0/</ali:license_ref><license-p>This is an open access article under the Creative Commons AttributionNonCommercial 4.0 International (CC BY-NC 4.0) License.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="TurkJSurg-41-3-248.pdf"/><abstract abstract-type="section"><sec><title>Objective</title><p>This study aimed to evaluate the local and systemic risk factors associated with breast cancer-related lymphedema (BCRL), with a focus on whether primary systemic treatment (PST), particularly taxane-based chemotherapy, is an independent risk factor.</p></sec><sec><title>Material and Methods</title><p>A prospective clinical study was conducted on 80 breast cancer patients discussed at our institution&#8217;s weekly breast cancer council. Patients were grouped based on PST status. Clinical examinations and measurements were performed preoperatively and postoperatively at 1, 6, 12, 18, and 24 months. Only the operated arm was assessed using tape measurements and the truncated cone formula. Arm volumes were calculated, and lymphedema (LE) was diagnosed based on a volume difference (&#8805;200 mL or &#8805;2 cm circumference).</p></sec><sec><title>Results</title><p>No statistically significant differences were found between PST and non-PST groups regarding age, body mass index, menopausal status, smoking, or tumor characteristics. LE was detected in 7 (8.8%) patients, all Stage 1. PST and taxane-based chemotherapy were not significantly associated with LE development. However, seroma presence (p=0.038) and axillary radiotherapy (p=0.043) were significantly associated with LE. Arm volume increase was most significant at 1 and 18 months postoperatively (p=0.055 and p=0.044, respectively).</p></sec><sec><title>Conclusion</title><p>PST, including taxane-based chemotherapy, does not appear to be an independent risk factor for BCRL. In contrast, postoperative seroma and axillary radiotherapy are significantly associated with LE development. Early identification and management strategies should target these modifiable factors to reduce the risk of LE.</p></sec></abstract><kwd-group><kwd>Breast cancer</kwd><kwd>primary systemic treatment</kwd><kwd>lymphedema</kwd><kwd>radiotherapy</kwd><kwd>sentinel lymph node biopsy</kwd><kwd>risk factors</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="introduction"><title>INTRODUCTION</title><p>Breast cancer is the most prevalent malignancy among women. Increased survival rates due to early detection and systemic treatment have led to a rise in treatment-related complications, particularly lymphedema (LE), which is influenced by multiple factors, including obesity, surgical intervention, radiotherapy (RT), and possibly primary systemic treatment (PST), and significantly impairs quality of life (<xref rid="ref-1" ref-type="bibr">1</xref>). The role of PST, especially taxane-based regimens, in LE development remains controversial (<xref rid="ref-1" ref-type="bibr">1</xref>, <xref rid="ref-2" ref-type="bibr">2</xref>, <xref rid="ref-3" ref-type="bibr">3</xref>).</p><p>This study investigates whether PST is an independent risk factor for LE, and identifies other potential predictors by comparing patients who did and did not receive PST.</p></sec><sec><title>MATERIAL and METHODS</title><sec><title>
+Study Population and Design
+</title><p>Patients diagnosed with breast cancer are evaluated in the breast council and their treatments are planned. Among these patients, those who agreed to participate in the study, accepted the necessary follow-up and measurements to be made at the required time intervals and were included in the study. After Ethics Committee approval from the University of Health Sciences T&#252;rkiye, Prof. Dr. Cemil Ta&#351;c&#305;o&#287;lu City Hospital (decision no.: 69/21, date: 10 May 2022), 80 patients were prospectively enrolled. Participants were grouped based on PST status. According to the treatment plan, LE follow-up, examination, and measurements were recorded at 1, 6, 12, 18, and 24 months before and after PST (n=40) and/or surgery (n=40) (<xref rid="figure-1" ref-type="fig">Figure 1</xref>). All patients came for follow-up for at least 2 years.</p></sec><sec><title>
+Measurements
+</title><p>Arm volume of the operated side was calculated using circumferential tape measurements at 7 cm intervals and the truncated cone formula.</p><p>Circumferential measurements were initiated at the ulnar styloid process, with subsequent measurements taken at 7-cm intervals. The volume of each conical segment was calculated using the following formula, and the differences in volume between the arms were <xref rid="figure-5" ref-type="fig">analyzed</xref>:</p><p>&#8226; V: upper extremity volume</p><p>&#8226; C: circumference of the lower segment</p><p>&#8226; c: circumference of the upper segment</p><p>&#8226; &#960;: 3.14</p><p>&#8226; h: distance between the measurements (set as 7 cm in this study).</p><p>LE was defined by a volume difference of &#8805;200 mL or a circumference difference &#8805;2 cm. Arm volume differences over time were also analyzed.</p></sec><sec><title>
+Statistical Analysis
+</title><p>Data were analyzed using SPSS v25. Descriptive statistics, t-tests, Mann-Whitney U, chi-square, and repeated measures ANOVA were employed. P&lt;0.05 was considered significant</p><p>All statistical analyses were performed using the Statistical Package for Social Sciences for Windows, version 25.0.</p></sec></sec><sec sec-type="results"><title>RESULTS</title><p>Among 80 patients, LE was detected in 7 (8.8%), all of whom had Stage 1 LE (<xref rid="ref-1" ref-type="bibr">1</xref>, <xref rid="ref-4" ref-type="bibr">4</xref>). These patients were advised to elevate their limbs, to receive manual massage, and were followed up clinically, without any progression of their condition. The characteristics of the surgical techniques employed and the distribution of lymph nodes and tumor types are summarized in <xref rid="table-1" ref-type="table">Table 1</xref>. When PST status, chemotherapy, and hormone therapy were evaluated separately, no statistically significant differences were observed between patients with and without LE. Likewise, the diagnostic and therapeutic approaches regarding LE did not differ significantly (<xref rid="table-2" ref-type="table">Table 2</xref>).</p><p>Axillary RT (71.4% in LE group vs. 32.9% in non-LE group; p=0.043) and seroma (85.7% vs. 38.4%; p=0.038) were significantly associated with LE (<xref rid="table-3" ref-type="table">Table 3</xref>).</p><p>When the measurements of both arms were considered during both the preoperative and postoperative periods, an increase in the left arm measurement was observed in patients with LE at 1 month postoperatively (<xref rid="table-4" ref-type="table">Table 4</xref>). Moreover, when the relationship between inter-arm volume difference and LE was examined, the values at 1 and 18 months postoperatively were found to be significantly different (<xref rid="table-5" ref-type="table">Table 5</xref>).</p><p>Volume differences in the operated arm were observed at 1 and 18 months in the LE group (p=0.055 and 0.044, respectively).</p><p>In all patients diagnosed with LE (whether right or left), the dominant side was the right. In the subgroup of patients with a right dominant arm, the measurements and their corresponding arm volumes for both right and left arms for patients with and without LE are illustrated in <xref rid="figure-2" ref-type="fig">Figures 2</xref> and <xref rid="figure-3" ref-type="fig">3</xref>. Although the median values did not reveal a significant difference overall, the 1- and 18-month time points were particularly notable.</p><p>At 1 month postoperatively, total arm volume was higher in patients with LE, reaching borderline statistical significance (p=0.055). At 18 months, the volume difference in patients with LE was significantly higher (p=0.044) (<xref rid="figure-4" ref-type="fig">Figure 4</xref>).</p></sec><sec sec-type="discussion"><title>DISCUSSION</title><p>The incidence of breast cancer is increasing, and advances in diagnosis and treatment are prolonging patient survival, while breast cancer treatment-related LE ranges from 8.4% to 21.4%, consistent with figures reported in the literature (<xref rid="ref-4" ref-type="bibr">4</xref>, <xref rid="ref-5" ref-type="bibr">5</xref>, <xref rid="ref-6" ref-type="bibr">6</xref>). Furthermore, its relationship with age has been examined, and age is not directly associated with the development of LE (<xref rid="ref-7" ref-type="bibr">7</xref>, <xref rid="ref-8" ref-type="bibr">8</xref>). A retrospective study by Donahue et al. (<xref rid="ref-8" ref-type="bibr">8</xref>) found that smoking did not affect the development of breast cancer-related LE over a 3-year follow-up period. These findings are consistent with our results.</p><p>Although direct comparisons of LE rates have not been made in studies that have focused predominantly on non-invasive methods for axillary staging, there is strong evidence to support the idea that even minimal surgical interventions in the axilla may affect the planning of diagnostic and treatment strategies. However, no significant differences were detected (<xref rid="ref-9" ref-type="bibr">9</xref>, <xref rid="ref-10" ref-type="bibr">10</xref>). A study by Nakagawa et al. (<xref rid="ref-11" ref-type="bibr">11</xref>) suggested that Chemotherapy may be a causal factor for LE. Their aimed was to determine whether chemotherapy affects the lymphatic vessels and blood vessels in the skin and subcutaneous fat and to investigate how these Changes relate to the degree of edema after Chemotherapy. In contrast, several studies have shown that neoadjuvant chemotherapy, especially taxane-based agents, plays a role in the development of breast cancer-associated LE by increasing capillary permeability and promoting protein accumulation in the interstitial space. In a prospective study conducted by Nguyen Stringer et al. (<xref rid="ref-12" ref-type="bibr">12</xref>), only 74 out of 273 patients who underwent an axillary lymph node dissection (ALND) developed breast cancer-associated LE. Notably, all of these patients received taxane-based chemotherapy. The risk of developing LE was found to be three times higher in patients who received taxane-based chemotherapy than in those who did not (<xref rid="ref-12" ref-type="bibr">12</xref>, <xref rid="ref-13" ref-type="bibr">13</xref>, <xref rid="ref-14" ref-type="bibr">14</xref>). In contrast, in a prospective cohort study conducted by Montagna et al. (<xref rid="ref-15" ref-type="bibr">15</xref>), when the risk and findings were analyzed, no statistically significant difference was observed in the rates of LE according to the chemotherapy regimen. When taxane-based regimens were evaluated as a separate group (n=31), statistical analysis yielded a p-value of 0.490. In our series, no significant difference was found between the groups receiving and not receiving Taxane-based chemotherapy.</p><p>The risk of breast cancer-associated LE was strongly associated with ALND. There are different results in studies on this subject, and it is known that routine ALND increases the rate of LE when it is performed for curettage rather than for staging purposes. No relationship was observed between axillary surgery for diagnosis or staging purposes and LE in our series. A large prospective study by Warren et al. (<xref rid="ref-16" ref-type="bibr">16</xref>) showed that axillary RT significantly increased the risk of LE compared with whole breast/chest wall irradiation. Similarly, a 15-year follow-up study by Poortmans et al. (<xref rid="ref-17" ref-type="bibr">17</xref>).</p><p>Breast cancer LE as a risk factor for RT. Axillary RT was a risk factor for LE (p=0.043), while RT to the whole breast and chest wall was not associated with a risk of LE (p=1.00). Axillary management and its universal approaches have become a focus in recent years. Numerous studies, along with relevant reviews and meta-analyses, emphasize minimizing the extent of axillary surgery (<xref rid="ref-18" ref-type="bibr">18</xref>). The risk of breast cancer-associated LE was most strongly associated with ALND. There are different results in studies on this subject, it is known that routine ALND increases the rate of LE when performed for curettage rather than staging purposes (<xref rid="ref-18" ref-type="bibr">18</xref>). It is widely accepted that the origin of breast cancer LE is multifactorial (<xref rid="ref-19" ref-type="bibr">19</xref>, <xref rid="ref-20" ref-type="bibr">20</xref>) and can be modified by the city, surgical techniques, and extent of lymph node dissection after surgery.</p><p>A study published in 2019 showed that lymph node metastasis is a significant risk factor for the development of LE in breast cancer patients. In addition, the risk of LE was associated with the number and characteristics of metastatic lymph nodes. In independent lymphadenectomy (LE) with 10 or more metastatic lymph nodes, the risk was 1.78 times higher than in those with three or fewer metastatic lymph nodes and 2.17 times higher than in those without lymph node metastasis (<xref rid="ref-21" ref-type="bibr">21</xref>). Similar studies with a 5 year follow-up have shown that both axillary lymph node metastases and advanced cancer stage are associated with LE (<xref rid="ref-22" ref-type="bibr">22</xref>, <xref rid="ref-23" ref-type="bibr">23</xref>). In our series, the detection of LE was more frequent in patients who received PST, which is consistent with information about the relationship between cancer stage and LE. However, an analysis was not performed on this relationship. No relationship was observed between axillary surgery for diagnosis or staging purposes and LE. Additionally, when considered in terms of the number of LE nodes, no association with LE was detected in our patients who underwent axillary surgery for staging purposes, and the number of lymph nodes was limited.</p><p>In a retrospective cohort study conducted by Toyserkani et al. (<xref rid="ref-24" ref-type="bibr">24</xref>), involving all unilateral breast cancer patients treated between 2008 and 2014, LE was developed in 291 out of 1,822 patients, with seroma being identified as an independent risk factor. In contrast, a prospective study by Koelmeyer et al. (<xref rid="ref-25" ref-type="bibr">25</xref>) found no significant association between seroma and breast cancer-related LE. The surgeon&#8217;s patient volume and experience may be effective in this regard (<xref rid="ref-26" ref-type="bibr">26</xref>). Our patients were operated on by physicians experienced in breast surgery; however, only two of the patients diagnosed with LE (25%) were operated on specifically by a breast surgeon.</p><p>To summarize, the LE incidence rate of 8.8% aligns with prior literature. Although some studies implicate PST and taxanes in LE development, our findings do not support this association. Axillary RT and postoperative seroma were the only modifiable risk factors significantly linked to LE. Dominant arm status and surgeon experience were also explored, though conclusions were limited by sample size. With close and regular follow-up, early diagnosis and a conservative approach, LE can be kept under control. In our very limited series of patients, the stage in terms of LE remained the same during follow-up.</p><sec><title>Study Limitations</title><p>The study&#8217;s prospective design and consistent measurement protocol strengthens its findings, though the small number of LE cases and limited statistical power remain limitations.</p></sec></sec><sec sec-type="conclusion"><title>CONCLUSION</title><p>This study aimed to determine to determine whether PST (especially taxane-based neoadjuvant chemotherapy) is an independent risk factor for breast cancer-associated LE and to evaluate the impact of early diagnosis and prevention on quality of life.</p><p>Our results did not reveal a statistically significant association between PST or taxane-based chemotherapy and LE. However, postoperative seroma and axillary RT were significantly associated with the development of LE.</p><p>We conclude that early LE may be related to surgical factors and seroma, while later LE is likely related to RT. Emphasis should be placed on longer follow-up of patients and on early diagnosis and preventive strategies.</p></sec><sec><title>Ethics</title><p><bold>Ethics Committee Approval:</bold> After Ethics Committee approval from the University of Health Sciences T&#252;rkiye, Prof. Dr. Cemil Ta&#351;c&#305;o&#287;lu City Hospital (decision no.: 69/21, date: 10 May 2022), 80 patients were prospectively enrolled.</p><p><bold>Informed Consent:</bold>&#160;Informed consent documents, obtained before treatment from each patient are available in patient files.</p></sec></body><back><ack><p>The Authors declared that the research was conducted according to the principles of the World Medical Association Declaration of Helsinki &#8220;Ethical Principles for Medical Research Involving Human Subjects&#8221;, (amended in October 2013).</p></ack><fn-group><fn id="fn-2" fn-type="author-contributions"><p><bold>Author Contributions:</bold> Concept - M.K., S.G.; Design - M.K., S.G.; Data Collection or Processing - S.G.; Analysis or Interpretation - S.G., B.G.; Literature Search - M.K., S.G., B.G.; Writing - M.K., S.G.</p><p>The authors would like to thank ENAGO&#8211; https://www.enago.com.tr/ceviri/ for the English language review and their assistance in manuscript editing.</p></fn><fn id="fn-3" fn-type="COI-statement"><p><bold>Conflict of Interest:</bold> No conflict of interest was declared by the authors.</p></fn><fn id="fn-4" fn-type="financial-disclosure"><p><bold>Financial Disclosure:</bold> The authors declared that this study received no financial support.</p></fn></fn-group><ref-list><title>References</title><ref id="ref-1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>McLaughlin</surname><given-names>SA</given-names></name><name name-style="western"><surname>Brunelle</surname><given-names>CL</given-names></name><name name-style="western"><surname>Taghian</surname><given-names>A</given-names></name></person-group><article-title>Breast cancer-related lymphedema: risk factors, screening, management, and the impact of locoregional treatment.</article-title><source>J Clin Oncol</source><year iso-8601-date="2020">2020</year><volume>38</volume><issue>20</issue><fpage>2341</fpage><lpage>2350</lpage><pub-id pub-id-type="doi">10.1200/JCO.19.02896</pub-id><pub-id pub-id-type="pmid">32442064</pub-id><pub-id pub-id-type="pmcid">PMC7343436</pub-id></element-citation></ref><ref id="ref-2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kim</surname><given-names>JS</given-names></name><name name-style="western"><surname>Kim</surname><given-names>JH</given-names></name><name name-style="western"><surname>Chang</surname><given-names>JH</given-names></name><name name-style="western"><surname>Kim</surname><given-names>DW</given-names></name><name name-style="western"><surname>Shin</surname><given-names>KH</given-names></name></person-group><article-title>Prediction of breast cancer-related lymphedema risk after postoperative radiotherapy via multivariable logistic regression analysis.</article-title><source>Front Oncol</source><year iso-8601-date="2022">2022</year><volume>12</volume><fpage>1026043</fpage><pub-id pub-id-type="doi">10.3389/fonc.2022.1026043</pub-id><pub-id pub-id-type="pmid">36387231</pub-id><pub-id pub-id-type="pmcid">PMC9643832</pub-id></element-citation></ref><ref id="ref-3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Park</surname><given-names>S</given-names></name><name name-style="western"><surname>Lee</surname><given-names>JE</given-names></name><name name-style="western"><surname>Yu</surname><given-names>J</given-names></name><name name-style="western"><surname>Paik</surname><given-names>HJ</given-names></name><name name-style="western"><surname>Ryu</surname><given-names>JM</given-names></name><name name-style="western"><surname>Kim</surname><given-names>I</given-names></name><etal/></person-group><article-title>Risk factors affecting breast cancer-related lymphedema: serial body weight change during neoadjuvant anthracycline plus cyclophosphamide followed by taxane.</article-title><source>Clin Breast Cancer</source><year iso-8601-date="2018">2018</year><volume>18</volume><issue>1</issue><fpage>e49</fpage><lpage>e54</lpage><pub-id pub-id-type="doi">10.1016/j.clbc.2017.06.003</pub-id><pub-id pub-id-type="pmid">28705541</pub-id></element-citation></ref><ref id="ref-4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>DiSipio</surname><given-names>T</given-names></name><name name-style="western"><surname>Rye</surname><given-names>S</given-names></name><name name-style="western"><surname>Newman</surname><given-names>B</given-names></name><name name-style="western"><surname>Hayes</surname><given-names>S</given-names></name></person-group><article-title>Incidence of unilateral arm lymphoedema after breast cancer: a systematic review and meta-analysis.</article-title><source>Lancet Oncol</source><year iso-8601-date="2013">2013</year><volume>14</volume><issue>6</issue><fpage>500</fpage><lpage>515</lpage><pub-id pub-id-type="doi">10.1016/S1470-2045(13)70076-7</pub-id><pub-id pub-id-type="pmid">23540561</pub-id></element-citation></ref><ref id="ref-5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lawenda</surname><given-names>BD</given-names></name><name name-style="western"><surname>Mondry</surname><given-names>TE</given-names></name><name name-style="western"><surname>Johnstone</surname><given-names>PA</given-names></name></person-group><article-title>Lymphedema: a primer on the identification and management of a chronic condition in oncologic treatment.</article-title><source>CA Cancer J Clin</source><year iso-8601-date="2009">2009</year><volume>59</volume><issue>1</issue><fpage>8</fpage><lpage>24</lpage><pub-id pub-id-type="doi">10.3322/caac.20001</pub-id><pub-id pub-id-type="pmid">19147865</pub-id></element-citation></ref><ref id="ref-6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hayes</surname><given-names>SC</given-names></name><name name-style="western"><surname>Janda</surname><given-names>M</given-names></name><name name-style="western"><surname>Cornish</surname><given-names>B</given-names></name><name name-style="western"><surname>Battistutta</surname><given-names>D</given-names></name><name name-style="western"><surname>Newman</surname><given-names>B</given-names></name></person-group><article-title>Lymphedema after breast cancer: incidence, risk factors, and effect on upper body function.</article-title><source>J Clin Oncol</source><year iso-8601-date="2008">2008</year><volume>26</volume><issue>21</issue><fpage>3536</fpage><lpage>3542</lpage><pub-id pub-id-type="doi">10.1200/JCO.2007.14.4899</pub-id><pub-id pub-id-type="pmid">18640935</pub-id></element-citation></ref><ref id="ref-7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ahn</surname><given-names>HR</given-names></name><name name-style="western"><surname>Jeong</surname><given-names>HE</given-names></name><name name-style="western"><surname>Jeong</surname><given-names>C</given-names></name><name name-style="western"><surname>Kang</surname><given-names>SY</given-names></name><name name-style="western"><surname>Jung</surname><given-names>SH</given-names></name><name name-style="western"><surname>Youn</surname><given-names>HJ</given-names></name><etal/></person-group><article-title>Incidence and risk factors of breast cancer-related lymphedema in Korea: a nationwide retrospective cohort study.</article-title><source>Int J Surg</source><year iso-8601-date="2024">2024</year><volume>110</volume><fpage>3518</fpage><lpage>3526</lpage><pub-id pub-id-type="pmid">38477155</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1097/JS9.0000000000001278</pub-id><pub-id pub-id-type="pmcid">PMC11175813</pub-id></element-citation></ref><ref id="ref-8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Donahue</surname><given-names>PMC</given-names></name><name name-style="western"><surname>MacKenzie</surname><given-names>A</given-names></name><name name-style="western"><surname>Filipovic</surname><given-names>A</given-names></name><name name-style="western"><surname>Koelmeyer</surname><given-names>L</given-names></name></person-group><article-title>Advances in the prevention and treatment of breast cancer-related lymphedema.</article-title><source>Breast Cancer Res Treat</source><year iso-8601-date="2023">2023</year><volume>200</volume><issue>1</issue><fpage>1</fpage><lpage>14</lpage><pub-id pub-id-type="doi">10.1007/s10549-023-06947-7</pub-id><pub-id pub-id-type="pmid">37103598</pub-id><pub-id pub-id-type="pmcid">PMC10224871</pub-id></element-citation></ref><ref id="ref-9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Noguchi</surname><given-names>M</given-names></name><name name-style="western"><surname>Inokuchi</surname><given-names>M</given-names></name><name name-style="western"><surname>Yokoi-Noguchi</surname><given-names>M</given-names></name><name name-style="western"><surname>Morioka</surname><given-names>E</given-names></name><name name-style="western"><surname>Haba</surname><given-names>Y</given-names></name></person-group><article-title>Conservative axillary surgery may prevent arm lymphedema without increasing axillary recurrence in the surgical management of breast cancer.</article-title><source>Cancers (Basel)</source><year iso-8601-date="2023">2023</year><volume>15</volume><issue>22</issue><fpage>5353</fpage><pub-id pub-id-type="doi">10.3390/cancers15225353</pub-id><pub-id pub-id-type="pmid">38001613</pub-id><pub-id pub-id-type="pmcid">PMC10670757</pub-id></element-citation></ref><ref id="ref-10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Xia</surname><given-names>Y</given-names></name><name name-style="western"><surname>Zheng</surname><given-names>M</given-names></name><name name-style="western"><surname>Chen</surname><given-names>L</given-names></name><name name-style="western"><surname>Cui</surname><given-names>Y</given-names></name><name name-style="western"><surname>Huang</surname><given-names>H</given-names></name><name name-style="western"><surname>Kong</surname><given-names>P</given-names></name><etal/></person-group><article-title>Changes of lymphatic flow caused by core needle biopsy of axillary sentinel lymph node in a rabbit model.</article-title><source>Ann Palliat Med</source><year iso-8601-date="2021">2021</year><volume>10</volume><fpage>1480</fpage><lpage>1487</lpage><pub-id pub-id-type="pmid">33183033</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.21037/apm-20-882</pub-id></element-citation></ref><ref id="ref-11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nakagawa</surname><given-names>A</given-names></name><name name-style="western"><surname>Fujimoto</surname><given-names>H</given-names></name><name name-style="western"><surname>Nagashima</surname><given-names>T</given-names></name><name name-style="western"><surname>Sangai</surname><given-names>T</given-names></name><name name-style="western"><surname>Takada</surname><given-names>M</given-names></name><name name-style="western"><surname>Masuda</surname><given-names>T</given-names></name><etal/></person-group><article-title>Histological features of skin and subcutaneous tissue in patients with breast cancer who have received neoadjuvant chemotherapy and their relationship to post-treatment edema.</article-title><source>Breast Cancer</source><year iso-8601-date="2020">2020</year><volume>27</volume><issue>1</issue><fpage>77</fpage><lpage>84</lpage><pub-id pub-id-type="doi">10.1007/s12282-019-00996-x</pub-id><pub-id pub-id-type="pmid">31346921</pub-id></element-citation></ref><ref id="ref-12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nguyen</surname><given-names>TT</given-names></name><name name-style="western"><surname>Hoskin</surname><given-names>TL</given-names></name><name name-style="western"><surname>Habermann</surname><given-names>EB</given-names></name><name name-style="western"><surname>Cheville</surname><given-names>AL</given-names></name><name name-style="western"><surname>Boughey</surname><given-names>JC</given-names></name></person-group><article-title>Breast cancer-related lymphedema risk is related to multidisciplinary treatment and not surgery alone: results from a large cohort study.</article-title><source>Ann Surg Oncol</source><year iso-8601-date="2017">2017</year><volume>24</volume><fpage>2972</fpage><lpage>2980</lpage><pub-id pub-id-type="pmid">28766228</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1245/s10434-017-5960-x</pub-id><pub-id pub-id-type="pmcid">PMC5737818</pub-id></element-citation></ref><ref id="ref-13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lee</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Beith</surname><given-names>J</given-names></name><name name-style="western"><surname>Ward</surname><given-names>L</given-names></name><name name-style="western"><surname>Kilbreath</surname><given-names>S</given-names></name></person-group><article-title>Lymphedema following taxane-based chemotherapy in women with early breast cancer.</article-title><source>Lymphat Res Biol</source><year iso-8601-date="2014">2014</year><volume>12</volume><issue>4</issue><fpage>282</fpage><lpage>288</lpage><pub-id pub-id-type="doi">10.1089/lrb.2014.0030</pub-id><pub-id pub-id-type="pmid">25411764</pub-id></element-citation></ref><ref id="ref-14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Swaroop</surname><given-names>MN</given-names></name><name name-style="western"><surname>Ferguson</surname><given-names>CM</given-names></name><name name-style="western"><surname>Horick</surname><given-names>NK</given-names></name><name name-style="western"><surname>Skolny</surname><given-names>MN</given-names></name><name name-style="western"><surname>Miller</surname><given-names>CL</given-names></name><name name-style="western"><surname>Jammallo</surname><given-names>LS</given-names></name><etal/></person-group><article-title>Impact of adjuvant taxane-based chemotherapy on development of breast cancer-related lymphedema: results from a large prospective cohort.</article-title><source>Breast Cancer Res Treat</source><year iso-8601-date="2015">2015</year><volume>151</volume><issue>2</issue><fpage>393</fpage><lpage>403</lpage><pub-id pub-id-type="doi">10.1007/s10549-015-3408-1</pub-id><pub-id pub-id-type="pmid">25940996</pub-id><pub-id pub-id-type="pmcid">PMC4432026</pub-id></element-citation></ref><ref id="ref-15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Montagna</surname><given-names>G</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>J</given-names></name><name name-style="western"><surname>Sevilimedu</surname><given-names>V</given-names></name><name name-style="western"><surname>Charyn</surname><given-names>J</given-names></name><name name-style="western"><surname>Abbate</surname><given-names>K</given-names></name><name name-style="western"><surname>Gomez</surname><given-names>EA</given-names></name><etal/></person-group><article-title>Risk factors and racial and ethnic disparities in patients with breast cancer-related lymphedema.</article-title><source>JAMA Oncol</source><year iso-8601-date="2022">2022</year><volume>8</volume><fpage>1195</fpage><lpage>1200</lpage><pub-id pub-id-type="pmid">35679026</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1001/jamaoncol.2022.1628</pub-id><pub-id pub-id-type="pmcid">PMC9185510</pub-id></element-citation></ref><ref id="ref-16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Warren</surname><given-names>LE</given-names></name><name name-style="western"><surname>Miller</surname><given-names>CL</given-names></name><name name-style="western"><surname>Horick</surname><given-names>N</given-names></name><name name-style="western"><surname>Skolny</surname><given-names>MN</given-names></name><name name-style="western"><surname>Jammallo</surname><given-names>LS</given-names></name><name name-style="western"><surname>Sadek</surname><given-names>BT</given-names></name><etal/></person-group><article-title>The impact of radiation therapy on the risk of lymphedema after treatment for breast cancer: a prospective cohort study.</article-title><source>Int J Radiat Oncol Biol Phys</source><year iso-8601-date="2014">2014</year><volume>88</volume><fpage>565</fpage><lpage>571</lpage><pub-id pub-id-type="pmid">24411624</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ijrobp.2013.11.232</pub-id><pub-id pub-id-type="pmcid">PMC3928974</pub-id></element-citation></ref><ref id="ref-17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Poortmans</surname><given-names>PM</given-names></name><name name-style="western"><surname>Weltens</surname><given-names>C</given-names></name><name name-style="western"><surname>Fortpied</surname><given-names>C</given-names></name><name name-style="western"><surname>Kirkove</surname><given-names>C</given-names></name><name name-style="western"><surname>Peignaux-Casasnovas</surname><given-names>K</given-names></name><name name-style="western"><surname>Budach</surname><given-names>V</given-names></name><etal/></person-group><article-title>Internal mammary and medial supraclavicular lymph node chain irradiation in stage I-III breast cancer (EORTC 22922/10925): 15-year results of a randomised, phase 3 trial.</article-title><source>Lancet Oncol</source><year iso-8601-date="2020">2020</year><volume>21</volume><issue>12</issue><fpage>1602</fpage><lpage>1610</lpage><pub-id pub-id-type="doi">10.1016/s1470-2045(20)30472-1</pub-id><pub-id pub-id-type="pmid">33152277</pub-id></element-citation></ref><ref id="ref-18"><label>18</label><mixed-citation publication-type="other">Axillary management for patients with in-situ and invasive breast cancer: a concise overview. The American Society of Breast Surgeons. 2022.</mixed-citation></ref><ref id="ref-19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Stamatakos</surname><given-names>M</given-names></name><name name-style="western"><surname>Stefanaki</surname><given-names>C</given-names></name><name name-style="western"><surname>Kontzoglou</surname><given-names>K</given-names></name></person-group><article-title>Lymphedema and breast cancer: a review of the literature.</article-title><source>Breast Cancer</source><year iso-8601-date="2011">2011</year><volume>18</volume><issue>3</issue><fpage>174</fpage><lpage>180</lpage><pub-id pub-id-type="doi">10.1007/s12282-010-0246-1</pub-id><pub-id pub-id-type="pmid">21331463</pub-id></element-citation></ref><ref id="ref-20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dominick</surname><given-names>SA</given-names></name><name name-style="western"><surname>Madlensky</surname><given-names>L</given-names></name><name name-style="western"><surname>Natarajan</surname><given-names>L</given-names></name><name name-style="western"><surname>Pierce</surname><given-names>JP</given-names></name></person-group><article-title>Risk factors associated with breast cancer-related lymphedema in the WHEL study.</article-title><source>J Cancer Surviv</source><year iso-8601-date="2013">2013</year><volume>7</volume><issue>1</issue><fpage>115</fpage><lpage>123</lpage><pub-id pub-id-type="doi">10.1007/s11764-012-0251-9</pub-id><pub-id pub-id-type="pmid">23212606</pub-id><pub-id pub-id-type="pmcid">PMC3568206</pub-id></element-citation></ref><ref id="ref-21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name><name name-style="western"><surname>Tang</surname><given-names>B</given-names></name><name name-style="western"><surname>Zou</surname><given-names>D</given-names></name><name name-style="western"><surname>Yang</surname><given-names>H</given-names></name><name name-style="western"><surname>Qiao</surname><given-names>E</given-names></name><name name-style="western"><surname>He</surname><given-names>X</given-names></name><etal/></person-group><article-title>Discussion of relationships among changes of pathological indicators, postoperative lymphedema of the upper limb, and prognosis of patients with breast cancer.</article-title><source>Biosci Rep</source><year iso-8601-date="2019">2019</year><volume>39</volume><fpage>BSR20190231</fpage><pub-id pub-id-type="pmid">30902883</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1042/BSR20190231</pub-id><pub-id pub-id-type="pmcid">PMC6465199</pub-id></element-citation></ref><ref id="ref-22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Penn</surname><given-names>IW</given-names></name><name name-style="western"><surname>Chang</surname><given-names>YC</given-names></name><name name-style="western"><surname>Chuang</surname><given-names>E</given-names></name><name name-style="western"><surname>Chen</surname><given-names>CM</given-names></name><name name-style="western"><surname>Chung</surname><given-names>CF</given-names></name><name name-style="western"><surname>Kuo</surname><given-names>CY</given-names></name><etal/></person-group><article-title>Risk factors and prediction model for persistent breast-cancer-related lymphedema: a 5-year cohort study.</article-title><source>Support Care Cancer</source><year iso-8601-date="2019">2019</year><volume>27</volume><fpage>991</fpage><lpage>1000</lpage><pub-id pub-id-type="pmid">30105666</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00520-018-4388-6</pub-id><pub-id pub-id-type="pmcid">PMC6373263</pub-id></element-citation></ref><ref id="ref-23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ridner</surname><given-names>SH</given-names></name><name name-style="western"><surname>Shah</surname><given-names>C</given-names></name><name name-style="western"><surname>Boyages</surname><given-names>J</given-names></name><name name-style="western"><surname>Koelmeyer</surname><given-names>L</given-names></name><name name-style="western"><surname>Ajkay</surname><given-names>N</given-names></name><name name-style="western"><surname>DeSnyder</surname><given-names>SM</given-names></name><etal/></person-group><article-title>L-Dex, arm volume, and symptom trajectories 24 months after breast cancer surgery.</article-title><source>Cancer Med</source><year iso-8601-date="2020">2020</year><volume>9</volume><fpage>5164</fpage><lpage>5173</lpage><pub-id pub-id-type="pmid">32483861</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cam4.3188</pub-id><pub-id pub-id-type="pmcid">PMC7367615</pub-id></element-citation></ref><ref id="ref-24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Toyserkani</surname><given-names>NM</given-names></name><name name-style="western"><surname>J&#248;rgensen</surname><given-names>MG</given-names></name><name name-style="western"><surname>Haugaard</surname><given-names>K</given-names></name><name name-style="western"><surname>S&#248;rensen</surname><given-names>JA</given-names></name></person-group><article-title>Seroma indicates increased risk of lymphedema following breast cancer treatment: a retrospective cohort study.</article-title><source>Breast</source><year iso-8601-date="2017">2017</year><volume>32</volume><fpage>102</fpage><lpage>104</lpage><pub-id pub-id-type="doi">10.1016/j.breast.2017.01.009</pub-id><pub-id pub-id-type="pmid">28129628</pub-id></element-citation></ref><ref id="ref-25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Koelmeyer</surname><given-names>LA</given-names></name><name name-style="western"><surname>Gaitatzis</surname><given-names>K</given-names></name><name name-style="western"><surname>Dietrich</surname><given-names>MS</given-names></name><name name-style="western"><surname>Shah</surname><given-names>CS</given-names></name><name name-style="western"><surname>Boyages</surname><given-names>J</given-names></name><name name-style="western"><surname>McLaughlin</surname><given-names>SA</given-names></name><etal/></person-group><article-title>Risk factors for breast cancer-related lymphedema in patients undergoing 3 years of prospective surveillance with intervention.</article-title><source>Cancer</source><year iso-8601-date="2022">2022</year><volume>128</volume><fpage>3408</fpage><lpage>3415</lpage><pub-id pub-id-type="pmid">35797441</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/cncr.34377</pub-id><pub-id pub-id-type="pmcid">PMC9542409</pub-id></element-citation></ref><ref id="ref-26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>DeSnyder</surname><given-names>SM</given-names></name><name name-style="western"><surname>Yi</surname><given-names>M</given-names></name><name name-style="western"><surname>Boccardo</surname><given-names>F</given-names></name><name name-style="western"><surname>Feldman</surname><given-names>S</given-names></name><name name-style="western"><surname>Klimberg</surname><given-names>VS</given-names></name><name name-style="western"><surname>Smith</surname><given-names>M</given-names></name><etal/></person-group><article-title>American Society of Breast Surgeons&#8217; practice patterns for patients at risk and affected by breast cancer-related lymphedema.</article-title><source>Ann Surg Oncol</source><year iso-8601-date="2021">2021</year><volume>28</volume><fpage>5742</fpage><lpage>5751</lpage><pub-id pub-id-type="pmid">34333706</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1245/s10434-021-10494-0</pub-id></element-citation></ref></ref-list></back><floats-group><fig position="float" id="figure-5" orientation="portrait"><label>Analyzed</label><graphic position="float" orientation="portrait" xlink:href="TurkJSurg-41-3-248-figure-5.jpg"/></fig><fig position="float" id="figure-1" orientation="portrait"><label>Figure 1</label><caption><p>Patients diagnosed with breast cancer are evaluated in the breast council and their treatments are planned. Among these patients, those who agreed to participate in the study, accepted the necessary follow-up and measurements to be made at the required time intervals and were compliant were included in the study. According to the treatment plan, lymphedema follow-up, examination and measurements were recorded at the specified time intervals before and after PST and or surgery.</p><p>PST: Primary systemic therapy</p></caption><graphic position="float" orientation="portrait" xlink:href="TurkJSurg-41-3-248-figure-1.jpg"/></fig><fig position="float" id="figure-2" orientation="portrait"><label>Figure 2</label><caption><p>Changes in the mean right arm volume measurements over the follow-up period.</p></caption><graphic position="float" orientation="portrait" xlink:href="TurkJSurg-41-3-248-figure-2.jpg"/></fig><fig position="float" id="figure-3" orientation="portrait"><label>Figure 3</label><caption><p>Changes in the mean left arm volume measurements over the follow-up.</p><p>CI: Confidence interval</p></caption><graphic position="float" orientation="portrait" xlink:href="TurkJSurg-41-3-248-figure-3.jpg"/></fig><fig position="float" id="figure-4" orientation="portrait"><label>Figure 4</label><caption><p>Relationship between the median difference in arm volume and lymphedema status.</p><p>At 1 month po. with LE, reaching borderline statistical significance (p=0.055).</p><p>At 18 months, with LE was significantly higher (p=0.044).</p><p>LE: Lymphedema.</p></caption><graphic position="float" orientation="portrait" xlink:href="TurkJSurg-41-3-248-figure-4.jpg"/></fig><table-wrap position="float" id="table-1" orientation="portrait"><label>Table 1. Distribution of patients according to applied surgical technique, lymph node and tumor type, PST status, presence of lymphedema, and treatment approach</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>Variable</p>
+</td><td colspan="1" rowspan="1">
+<p>n (%)</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Surgical</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Mastectomy + SLNB</p>
+</td><td colspan="1" rowspan="1">
+<p>27 (33.7)</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>MKC + SLNB</p>
+</td><td colspan="1" rowspan="1">
+<p>53 (66.3)</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Axilla</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>SLNB</p>
+</td><td colspan="1" rowspan="1">
+<p>80 (100.0)</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>SLNB + AD</p>
+</td><td colspan="1" rowspan="1">
+<p>20 (25.0)</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>SLNB method</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Isosulfan blue (IB)</p>
+</td><td colspan="1" rowspan="1">
+<p>73 (91.3)</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Radiocolloid</p>
+</td><td colspan="1" rowspan="1">
+<p>6 (7.4)</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>IB + radiocolloid</p>
+</td><td colspan="1" rowspan="1">
+<p>1 (1.3)</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Lymph node count</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>1/2/3/4/5/6/7</p>
+</td><td colspan="1" rowspan="1">
+<p>6/13/23/24/7/3/4</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Number of positive lymph nodes</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>01/2/3/4/5/6</p>
+</td><td colspan="1" rowspan="1">
+<p>54 (67.5)/5/10/8/1/1/1</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Tumor type: DCIS/invasive</p>
+</td><td colspan="1" rowspan="1">
+<p>2 (2.4)/78 (97.6)</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>ER status</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Negative/positive</p>
+</td><td colspan="1" rowspan="1">
+<p>15 (18.8)/65 (81.2)</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>PR status</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Negative/positive</p>
+</td><td colspan="1" rowspan="1">
+<p>32 (40.0)/48 (60.0)</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>CERB2</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Negative/positive</p>
+</td><td colspan="1" rowspan="1">
+<p>71 (88.8)/9 (112)</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Neoadjuvant endocrine therapy</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Did not received/received</p>
+</td><td colspan="1" rowspan="1">
+<p>71 (87.5)/8 (12.5)</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Neoadjuvant chemotherapy-taxane based</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Did not receive/recived</p>
+</td><td colspan="1" rowspan="1">
+<p>9 (22.5)/31 (77.5)</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Lymphedema no/yes</p>
+</td><td colspan="1" rowspan="1">
+<p>73 (91.3)/7 (8.7)</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Detected lymphedema side (surgical side)</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Right/left</p>
+</td><td colspan="1" rowspan="1">
+<p>2 (71.4)/5 (28.6)</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Axillary RT no/yes</p>
+</td><td colspan="1" rowspan="1">
+<p>51 (61.7)/29 (36.3)</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Aspiration/seroma</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>No/yes</p>
+</td><td colspan="1" rowspan="1">
+<p>46 (57.5)/34 (42.5)</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Preop FNAB axilla</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Not done/done</p>
+</td><td colspan="1" rowspan="1">
+<p>46 (57.5)/34 (42.5)</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>Preop IIAB axilla result</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Benign/malignant</p>
+</td><td colspan="1" rowspan="1">
+<p>62 (65.0)/38 (35.0)</p>
+</td></tr></tbody></table><table-wrap-foot><p>PST: Primary systemic treatment, SLNB: Sentinel lymph node biopsy, ER: Estrogen receptor, PR: Progesterone receptor, FNAB: Fine needle aspiration biopsy, DCIS: Ductal carcinoma <italic toggle="yes">in situ.</italic></p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-2" orientation="portrait"><label>Table 2. Relationship between neoadjuvant treatment status and lymphedema</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>Variable</p>
+</td><td colspan="1" rowspan="1">
+<p>No lymphedema [n=34-(%)]</p>
+</td><td colspan="1" rowspan="1">
+<p>Lymphedema present [n=6-(%)]</p>
+</td><td colspan="1" rowspan="1">
+<p>p</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>NET</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>Tamoxifen</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Did not receive treatment</p>
+</td><td colspan="1" rowspan="1">
+<p>29 (85.2)</p>
+</td><td colspan="1" rowspan="1">
+<p>6 (100)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.977</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Received treatment</p>
+</td><td colspan="1" rowspan="1">
+<p>5 (14.8)</p>
+</td><td colspan="1" rowspan="1">
+<p>0 (0)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>Filgrastin</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Did not receive treatment</p>
+</td><td colspan="1" rowspan="1">
+<p>30 (88.2)</p>
+</td><td colspan="1" rowspan="1">
+<p>6 (100)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.852</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Received treatment</p>
+</td><td colspan="1" rowspan="1">
+<p>4 (11.8)</p>
+</td><td colspan="1" rowspan="1">
+<p>0 (0)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>NACT</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>Paclitaxel</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Did not receive treatment</p>
+</td><td colspan="1" rowspan="1">
+<p>7 (20.6)</p>
+</td><td colspan="1" rowspan="1">
+<p>2 (33.3)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.490</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Received treatment</p>
+</td><td colspan="1" rowspan="1">
+<p>27 (79.4)</p>
+</td><td colspan="1" rowspan="1">
+<p>4 (66.7)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>Cyclophosphamide</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Did not receive treatment</p>
+</td><td colspan="1" rowspan="1">
+<p>7 (20.6)</p>
+</td><td colspan="1" rowspan="1">
+<p>3 (50)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.125</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Received treatment</p>
+</td><td colspan="1" rowspan="1">
+<p>27 (79.4)</p>
+</td><td colspan="1" rowspan="1">
+<p>3 (50)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>Transtuzumab</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Did not receive treatment</p>
+</td><td colspan="1" rowspan="1">
+<p>28 (82.4)</p>
+</td><td colspan="1" rowspan="1">
+<p>5 (83.3)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.953</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Received treatment</p>
+</td><td colspan="1" rowspan="1">
+<p>6 (17.6)</p>
+</td><td colspan="1" rowspan="1">
+<p>1 (16.7)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>Doxorubicin</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Did not receive treatment</p>
+</td><td colspan="1" rowspan="1">
+<p>8 (23.5)</p>
+</td><td colspan="1" rowspan="1">
+<p>3 (50)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.152</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Received treatment</p>
+</td><td colspan="1" rowspan="1">
+<p>26 (76.5)</p>
+</td><td colspan="1" rowspan="1">
+<p>3 (50)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>Carboplatin</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Did not receive treatment</p>
+</td><td colspan="1" rowspan="1">
+<p>31 (91.2)</p>
+</td><td colspan="1" rowspan="1">
+<p>6 (100)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.657</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Received treatment</p>
+</td><td colspan="1" rowspan="1">
+<p>3 (8.8)</p>
+</td><td colspan="1" rowspan="1">
+<p>0 (0)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr></tbody></table><table-wrap-foot><p>NET: Neoadjuvant hormone therapy, NACT: Neoadjuvant chemotherapy.</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-3" orientation="portrait"><label>Table 3. Relationship between patients&#8217; treatment/procedural status and lymphedema</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>Variable</p>
+</td><td colspan="1" rowspan="1">
+<p>No lymphedema</p>
+<p>[n=73-(%)]</p>
+</td><td colspan="1" rowspan="1">
+<p>Lymphedema present</p>
+<p>[n=7-(%)]</p>
+</td><td colspan="1" rowspan="1">
+<p>p</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>Surgical</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Mastectomi + SLNB</p>
+</td><td colspan="1" rowspan="1">
+<p>24 (32.9)</p>
+</td><td colspan="1" rowspan="1">
+<p>3 (42.9)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>MKC + SLNB</p>
+</td><td colspan="1" rowspan="1">
+<p>49 (67.1)</p>
+</td><td colspan="1" rowspan="1">
+<p>4 (57.1)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.594</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>Axilla</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>SLNB</p>
+</td><td colspan="1" rowspan="1">
+<p>73 (100.0)</p>
+</td><td colspan="1" rowspan="1">
+<p>7 (57.1)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>SLNB + AD</p>
+</td><td colspan="1" rowspan="1">
+<p>17 (23.3)</p>
+</td><td colspan="1" rowspan="1">
+<p>3 (42.9)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.253</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>SLNB technique</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Isosulfan blue (IB)</p>
+</td><td colspan="1" rowspan="1">
+<p>67 (91.8)</p>
+</td><td colspan="1" rowspan="1">
+<p>6 (85.7)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Radiocolloid</p>
+</td><td colspan="1" rowspan="1">
+<p>5 (6.8)</p>
+</td><td colspan="1" rowspan="1">
+<p>1 (14.3)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>IB+ radiocollaoid</p>
+</td><td colspan="1" rowspan="1">
+<p>1 (1.4)</p>
+</td><td colspan="1" rowspan="1">
+<p>0 (0.0)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.744</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>Axillary RT</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>No</p>
+</td><td colspan="1" rowspan="1">
+<p>49 (67.1)</p>
+</td><td colspan="1" rowspan="1">
+<p>2 (28.6)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Yes</p>
+</td><td colspan="1" rowspan="1">
+<p>24 (32.9)</p>
+</td><td colspan="1" rowspan="1">
+<p>5 (71.4)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.043</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>RT</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Thoracic RT</p>
+</td><td colspan="1" rowspan="1">
+<p>23 (31.5)</p>
+</td><td colspan="1" rowspan="1">
+<p>2 (28.6)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Whole-breast RT</p>
+</td><td colspan="1" rowspan="1">
+<p>50 (68.5)</p>
+</td><td colspan="1" rowspan="1">
+<p>5 (71.4)</p>
+</td><td colspan="1" rowspan="1">
+<p>1.000</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>Aspiration/seroma</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>No</p>
+</td><td colspan="1" rowspan="1">
+<p>45 (61.6)</p>
+</td><td colspan="1" rowspan="1">
+<p>1 (14.3)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Yes</p>
+</td><td colspan="1" rowspan="1">
+<p>28 (38.4)</p>
+</td><td colspan="1" rowspan="1">
+<p>6 (85.7)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.038</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>Preop FNAB axilla</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Not done</p>
+</td><td colspan="1" rowspan="1">
+<p>44 (60.3)</p>
+</td><td colspan="1" rowspan="1">
+<p>2 (28.6)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Done</p>
+</td><td colspan="1" rowspan="1">
+<p>29 (39.7)</p>
+</td><td colspan="1" rowspan="1">
+<p>5 (71.4)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.129</p>
+</td></tr><tr><td colspan="4" rowspan="1">
+<p>Preop FNAB axilla result</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Bening</p>
+</td><td colspan="1" rowspan="1">
+<p>49 (67.1)</p>
+</td><td colspan="1" rowspan="1">
+<p>3 (42.9)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Malignant</p>
+</td><td colspan="1" rowspan="1">
+<p>24 (32.9)</p>
+</td><td colspan="1" rowspan="1">
+<p>4 (57.1)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.232</p>
+</td></tr></tbody></table><table-wrap-foot><p>SLNB: Sentinel lymph node biopsy, RT: Radiotherapy, FNAB: Fine needle aspiration biopsy.</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-4" orientation="portrait"><label>Table 4. Relationship between follow-up measurements of the right and left arms and lymphedema</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>Variables</p>
+</td><td colspan="1" rowspan="1">
+<p>No lymphedema (n=73)</p>
+</td><td colspan="1" rowspan="1">
+<p>Lymphedema present (n=7)</p>
+</td><td colspan="1" rowspan="1">
+<p>p</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Pre-op right</p>
+</td><td colspan="1" rowspan="1">
+<p>1598.0&#177;330.5</p>
+</td><td colspan="1" rowspan="1">
+<p>1660.7&#177;240.1</p>
+</td><td colspan="1" rowspan="1">
+<p>0.627</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Pre-op left</p>
+</td><td colspan="1" rowspan="1">
+<p>1587.8&#177;317.3</p>
+</td><td colspan="1" rowspan="1">
+<p>1680.4&#177;206.3</p>
+</td><td colspan="1" rowspan="1">
+<p>0.453</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Post-op right</p>
+</td><td colspan="1" rowspan="1">
+<p>1578.2&#177;320.2</p>
+</td><td colspan="1" rowspan="1">
+<p>1722.7&#177;196.0</p>
+</td><td colspan="1" rowspan="1">
+<p>0.246</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Post-op left</p>
+</td><td colspan="1" rowspan="1">
+<p>1570.4&#177;306.0</p>
+</td><td colspan="1" rowspan="1">
+<p>1674.3&#177;198.6</p>
+</td><td colspan="1" rowspan="1">
+<p>0.383</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>1. month right</p>
+</td><td colspan="1" rowspan="1">
+<p>1607.0&#177;339.6</p>
+</td><td colspan="1" rowspan="1">
+<p>1740.5&#177;219.1</p>
+</td><td colspan="1" rowspan="1">
+<p>0.313</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>1. month left</p>
+</td><td colspan="1" rowspan="1">
+<p>1588.9&#177;335.5</p>
+</td><td colspan="1" rowspan="1">
+<p>1765.7&#177;137.3</p>
+</td><td colspan="1" rowspan="1">
+<p>0.016</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>6. month right</p>
+</td><td colspan="1" rowspan="1">
+<p>1594.5&#177;349.9</p>
+</td><td colspan="1" rowspan="1">
+<p>1686.1&#177;160.7</p>
+</td><td colspan="1" rowspan="1">
+<p>0.497</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>6. month left</p>
+</td><td colspan="1" rowspan="1">
+<p>1574.2&#177;335.8</p>
+</td><td colspan="1" rowspan="1">
+<p>1732.2&#177;255.1</p>
+</td><td colspan="1" rowspan="1">
+<p>0.230</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>12. month right</p>
+</td><td colspan="1" rowspan="1">
+<p>1590.9&#177;331.0</p>
+</td><td colspan="1" rowspan="1">
+<p>1724.2&#177;154.5</p>
+</td><td colspan="1" rowspan="1">
+<p>0.297</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>12. month left</p>
+</td><td colspan="1" rowspan="1">
+<p>1570.7&#177;325.3</p>
+</td><td colspan="1" rowspan="1">
+<p>1747.6&#177;270.8</p>
+</td><td colspan="1" rowspan="1">
+<p>0.168</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>18. month right</p>
+</td><td colspan="1" rowspan="1">
+<p>1600.3&#177;349.6</p>
+</td><td colspan="1" rowspan="1">
+<p>1740.7&#177;200.1</p>
+</td><td colspan="1" rowspan="1">
+<p>0.301</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>18. month left</p>
+</td><td colspan="1" rowspan="1">
+<p>1577.9&#177;326.9</p>
+</td><td colspan="1" rowspan="1">
+<p>1745.0&#177;273.4</p>
+</td><td colspan="1" rowspan="1">
+<p>0.195</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>24. month right</p>
+</td><td colspan="1" rowspan="1">
+<p>1593.9&#177;335.0</p>
+</td><td colspan="1" rowspan="1">
+<p>1695.5&#177;175.7</p>
+</td><td colspan="1" rowspan="1">
+<p>0.433</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>24. month left</p>
+</td><td colspan="1" rowspan="1">
+<p>1569.8&#177;321.5</p>
+</td><td colspan="1" rowspan="1">
+<p>1742.9&#177;273.0</p>
+</td><td colspan="1" rowspan="1">
+<p>0.173</p>
+</td></tr></tbody></table></table-wrap><table-wrap position="float" id="table-5" orientation="portrait"><label>Table 5. Relationship between the median difference in arm volume and lymphedema status</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>Variable</p>
+</td><td colspan="1" rowspan="1">
+<p>No lymphedema (n=73)</p>
+</td><td colspan="1" rowspan="1">
+<p>Lymphedema present (n=7)</p>
+</td><td colspan="1" rowspan="1">
+<p>p-value</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Pre-op volume difference</p>
+</td><td colspan="1" rowspan="1">
+<p>61.3 (30,1108,5)</p>
+</td><td colspan="1" rowspan="1">
+<p>37.2 (20,842,6)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.125</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Post-op volume difference</p>
+</td><td colspan="1" rowspan="1">
+<p>54.4 (24,9107,6)</p>
+</td><td colspan="1" rowspan="1">
+<p>35.0 (12,4133,6)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.621</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>1. month volume difference</p>
+</td><td colspan="1" rowspan="1">
+<p>51.2 (28,3131,1)</p>
+</td><td colspan="1" rowspan="1">
+<p>154.2 (77,4228,9)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.055</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>6. month volume difference</p>
+</td><td colspan="1" rowspan="1">
+<p>64.4 (25,8125,7)</p>
+</td><td colspan="1" rowspan="1">
+<p>103.3 (36,4129,6)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.714</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>12. month volume difference</p>
+</td><td colspan="1" rowspan="1">
+<p>57.3 (22,7123,2)</p>
+</td><td colspan="1" rowspan="1">
+<p>197.6 (108,6228,9)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.104</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>18. month volume difference</p>
+</td><td colspan="1" rowspan="1">
+<p>52.1 (19,4130,0)</p>
+</td><td colspan="1" rowspan="1">
+<p>155.1 (117,3305,9)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.044</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>24. month volume difference</p>
+</td><td colspan="1" rowspan="1">
+<p>66.3 (27,8112,4)</p>
+</td><td colspan="1" rowspan="1">
+<p>89.0 (71,1223,7)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.217</p>
+</td></tr></tbody></table></table-wrap></floats-group></article>
+        
+    </metadata>
+</record>
+    </GetRecord>
+
+</OAI-PMH>

@@ -1,0 +1,1025 @@
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2025-09-09T14:05:51Z</responseDate>
+    <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:12405569" metadataPrefix="pmc">https://pmc.ncbi.nlm.nih.gov/api/oai/v1/mh/</request>
+    
+    <GetRecord>
+        <record>
+    <header>
+    <identifier>oai:pubmedcentral.nih.gov:12405569</identifier>
+    <datestamp>2025-09-04</datestamp>
+    
+        
+        <setSpec>scirep</setSpec>
+        
+    
+        
+        <setSpec>pmc-open</setSpec>
+        
+    
+</header>
+    <metadata>
+        
+        <article xmlns="https://jats.nlm.nih.gov/ns/archiving/1.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.4/ https://jats.nlm.nih.gov/archiving/1.4/xsd/JATS-archivearticle1-4.xsd" article-type="research-article" xml:lang="en" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Sci Rep</journal-id><journal-id journal-id-type="iso-abbrev">Sci Rep</journal-id><journal-id journal-id-type="pmc-domain-id">1579</journal-id><journal-id journal-id-type="pmc-domain">scirep</journal-id><journal-title-group><journal-title>Scientific Reports</journal-title></journal-title-group><issn pub-type="epub">2045-2322</issn><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12405569</article-id><article-id pub-id-type="pmcid-ver">PMC12405569.1</article-id><article-id pub-id-type="pmcaid">12405569</article-id><article-id pub-id-type="pmcaiid">12405569</article-id><article-id pub-id-type="pmid">40897808</article-id><article-id pub-id-type="doi">10.1038/s41598-025-17678-8</article-id><article-id pub-id-type="publisher-id">17678</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Assessing the spatial risk of wild birds in avian influenza transmission using global risk score</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Wu</surname><given-names initials="HDI">Hong-Dar Isaac</given-names></name><xref ref-type="aff" rid="Aff1">1</xref></contrib><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-7139-026X</contrib-id><name name-style="western"><surname>Chao</surname><given-names initials="DY">Day-Yu</given-names></name><address><email>dychao@nchu.edu.tw</email></address><xref ref-type="aff" rid="Aff2">2</xref><xref ref-type="aff" rid="Aff3">3</xref><xref ref-type="aff" rid="Aff4">4</xref></contrib><aff id="Aff1"><label>1</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/05vn3ca78</institution-id><institution-id institution-id-type="GRID">grid.260542.7</institution-id><institution-id institution-id-type="ISNI">0000 0004 0532 3749</institution-id><institution>Department of Applied Mathematics and Graduate Institute of Statistics, </institution><institution>National Chung Hsing University, </institution></institution-wrap>Taichung, 402 Taiwan </aff><aff id="Aff2"><label>2</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/05vn3ca78</institution-id><institution-id institution-id-type="GRID">grid.260542.7</institution-id><institution-id institution-id-type="ISNI">0000 0004 0532 3749</institution-id><institution>Graduate Institute of Microbiology and Public Health, College of Veterinary Medicine, </institution><institution>National Chung Hsing University, </institution></institution-wrap>Taichung, 402 Taiwan </aff><aff id="Aff3"><label>3</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/032hca325</institution-id><institution-id institution-id-type="GRID">grid.459570.a</institution-id><institution-id institution-id-type="ISNI">0000 0004 0639 2973</institution-id><institution>Doctoral Program in Microbial Genomics, </institution><institution>National Chung Hsing University and Academia Sinica, </institution></institution-wrap>Taichung City, 402 Taiwan </aff><aff id="Aff4"><label>4</label><institution-wrap><institution-id institution-id-type="ROR">https://ror.org/05vn3ca78</institution-id><institution-id institution-id-type="GRID">grid.260542.7</institution-id><institution-id institution-id-type="ISNI">0000 0004 0532 3749</institution-id><institution>Department of Post-Baccalaureate Medicine, College of Medicine, </institution><institution>National Chung Hsing University, </institution></institution-wrap>Taichung City, 402 Taiwan </aff></contrib-group><pub-date pub-type="epub"><day>2</day><month>9</month><year>2025</year></pub-date><pub-date pub-type="collection"><year>2025</year></pub-date><volume>15</volume><issue-id pub-id-type="pmc-issue-id">478255</issue-id><elocation-id>32284</elocation-id><history><date date-type="received"><day>2</day><month>8</month><year>2024</year></date><date date-type="accepted"><day>26</day><month>8</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>02</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>04</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-04 00:25:59.930"><day>04</day><month>09</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>&#169; The Author(s) 2025</copyright-statement><copyright-year>2025</copyright-year><license><ali:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p><bold>Open Access</bold> This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or parts of it. The images or other third party material in this article are included in the article&#8217;s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article&#8217;s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">http://creativecommons.org/licenses/by-nc-nd/4.0/</ext-link>.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="41598_2025_Article_17678.pdf"/><abstract id="Abs1"><p id="Par6">Accumulated evidence supports the critical role of migratory wild birds in highly pathogenic avian influenza virus (HPAIV) spread and evolution. An effective surveillance strategy to study HPAIV dispersal in wild birds and identify critical interfaces between wild birds and poultry on the landscape for potential interspecies transmission and virus evolution will be essential. This study integrates conditional likelihood with epidemiological research designs to investigate the risk of poultry farm outbreaks due to the introduction of HPAIV by migratory birds from the Taiwan citizen scientist dataset. The prediction accuracy of poultry farm outbreaks was evaluated by employing the global risk score (GRS) of multiple species of wild birds under different significance level. Although 11 wild bird species demonstrated significant associations (<italic toggle="yes">P</italic>&#8201;&lt;&#8201;0.05) with HPAIV poultry farm outbreaks, the bird species with <italic toggle="yes">P</italic>&#8201;&lt;&#8201;0.1 yielded the optimal area under the receiver operating characteristic curve. Without prior adjustment of environmental factors, the posterior adjusted likelihood results suggested that the agricultural wetlands yield notably strong positive odds ratio estimates for all species. The GRS under adjustment of environmental factors, a linear combination of the 27 migratory species and 27 resident species, was 0.320, yielding a sensitivity of 0.81 and specificity of 0.77. The framework of GRS developed in this study can be applied to different countries for enhanced surveillance of HPAIV.</p><sec><title>Supplementary Information</title><p>The online version contains supplementary material available at 10.1038/s41598-025-17678-8.</p></sec></abstract><kwd-group xml:lang="en"><title>Keywords</title><kwd>Avian influenza virus</kwd><kwd>Migratory birds</kwd><kwd>Propensity score</kwd><kwd>Matching</kwd><kwd>Counter-matching</kwd><kwd>Conditional likelihood</kwd></kwd-group><kwd-group kwd-group-type="npg-subject"><title>Subject terms</title><kwd>Ecology</kwd><kwd>Microbiology</kwd><kwd>Ecology</kwd><kwd>Environmental sciences</kwd><kwd>Risk factors</kwd></kwd-group><funding-group><award-group><funding-source><institution-wrap><institution-id institution-id-type="FundRef">https://doi.org/10.13039/100020595</institution-id><institution>National Science and Technology Council</institution></institution-wrap></funding-source><award-id>MOST 111-2118-M-005-003</award-id><principal-award-recipient><name name-style="western"><surname>Chao</surname><given-names>Day-Yu</given-names></name></principal-award-recipient></award-group></funding-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>issue-copyright-statement</meta-name><meta-value>&#169; Springer Nature Limited 2025</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="Sec1"><title>Introduction</title><p id="Par7">Highly pathogenic avian influenza (HPAI), a zoonotic infectious disease, has been considered a severe threat to public health<sup><xref ref-type="bibr" rid="CR1">1</xref></sup>. Periodically, human infections associated with HPAI virus (HPAIV) have been detected, in particular, by the Eurasian (goose/Guangdong/1996 [Gs/Gd]) lineage<sup><xref ref-type="bibr" rid="CR2">2</xref>,<xref ref-type="bibr" rid="CR3">3</xref></sup>. With the continued evolution and circulation of HPAIV, Gs/Gd lineage has been involved in multiple waves of global influenza epizootic outbreaks with genetically distinct virus clades and subclades<sup><xref ref-type="bibr" rid="CR4">4</xref></sup>. In contrast to previous clades of Gs/Gd lineage, clade 2.3.4.4 showed more persistent spillovers to local domestic poultry, impacting the poultry farming industry with tremendous economic losses<sup><xref ref-type="bibr" rid="CR5">5</xref>,<xref ref-type="bibr" rid="CR6">6</xref></sup>. The emergence and transmission of clade 2.3.4.4 continue to provide virological, epidemiological, and ecological evidence in support of the critical role of migratory wild birds in HPAIV spread and evolution<sup><xref ref-type="bibr" rid="CR7">7</xref>&#8211;<xref ref-type="bibr" rid="CR9">9</xref></sup>. Therefore, developing a wild-bird risk score will assist in outbreak prediction as well as implementing targeted surveillance.</p><p id="Par8">The challenge of studying HPAIV dispersal in wild birds is the lack of HPAIV prevalence and movement data<sup><xref ref-type="bibr" rid="CR10">10</xref>,<xref ref-type="bibr" rid="CR11">11</xref></sup>. The longitudinal studies documented the HPAIV prevalence in wild bird populations have been established in disparate geographical locations with related avian host ecology; however, such data cannot be easily generalized globally due to the constrain, mainly in low pathogenic influenza viruses in restricted locations such as Alaska<sup><xref ref-type="bibr" rid="CR12">12</xref></sup>. On the contrary, a global systemic surveillance of HAPI will be ideal but not feasible due to resource constraints. Therefore, a research framework to design effective surveillance strategies to study HPAIV dispersal in wild birds and identify critical interfaces between wild birds and poultry across the landscape for potential interspecies transmission and virus evolution will be essential<sup><xref ref-type="bibr" rid="CR13">13</xref></sup>.</p><p id="Par9">Since many different wild bird species may be involved in HPAIV transmission, with varying levels of interaction with each other and poultry premises, citizen science initiatives, such as eBird, are capable of enhancing our understanding of species abundance and distributions without relying on any field- or laboratory-led surveillance to identify potential wild bird hosts, and can be rapidly deployed as a target surveillance system against pathogens with wild reservoirs of infection in areas with limited wild host testing capacity<sup><xref ref-type="bibr" rid="CR14">14</xref></sup>. As the biases usually come along from semi-structured data collection procedures in collecting citizen science data, assessing species-level drivers of virus incursions into poultry flocks can be challenging, which requires advances in novel epidemiological approaches and analytical computation<sup><xref ref-type="bibr" rid="CR15">15</xref>&#8211;<xref ref-type="bibr" rid="CR17">17</xref></sup>.</p><p id="Par10">Over the past ten years, bird flu outbreaks have occurred in Taiwan almost every year<sup><xref ref-type="bibr" rid="CR18">18</xref>,<xref ref-type="bibr" rid="CR19">19</xref></sup>. During this period, avian influenza virus can often be detected in the carcasses of dead migratory birds<sup><xref ref-type="bibr" rid="CR20">20</xref>,<xref ref-type="bibr" rid="CR21">21</xref></sup>. In this study, we proposed an analytical framework utilizing the Taiwan eBird dataset by integrating conditional likelihood with epidemiological research design, matching, and counter-matching, for estimation of the significance level of migratory bird species introducing HPAI into the poultry farms. The prediction accuracy of poultry farm outbreaks was evaluated by employing the global risk score (GRS) of multiple species of wild birds under different significance levels.</p></sec><sec id="Sec2"><title>Materials and methods</title><sec id="Sec3"><title>Datasets and study time frame</title><p id="Par11">The main island of Taiwan was divided into 4,762 squares, each measuring 3&#160;km by 3&#160;km, to be consistent with our previous publication<sup><xref ref-type="bibr" rid="CR14">14</xref>,<xref ref-type="bibr" rid="CR19">19</xref></sup> (as the example shown in Fig.&#160;<xref rid="Fig2" ref-type="fig">2</xref>). The time frame of this study was between January 2015 and December 2017, and the reason for choosing this time frame is due to the major HPAI poultry farm outbreaks in Taiwan since 2003, caused by the emergence of clade 2.3.4.4. The timeline is consistent with the poultry farm outbreaks globally. Based on the surveillance system in Taiwan, the outbreaks continued but became endemic with fewer outbreaks of poultry farms reported to the Bureau of Animal and Plant Health Inspection and Quarantine (BAPHIQ), Taiwan, after 2018<sup><xref ref-type="bibr" rid="CR22">22</xref></sup>. These grids were then integrated with the following datasets for modeling purposes, including:</p><p id="Par12">
+<list list-type="simple"><list-item><label>(i)</label><p id="Par13">eBird data and the derived propensity score estimating the likelihood of bird species distribution in each grid: Before constructing the wild bird distribution map, bird sighting records from the eBird citizen science database, Cornell University<sup><xref ref-type="bibr" rid="CR15">15</xref>,<xref ref-type="bibr" rid="CR16">16</xref></sup>were obtained for the selection of wild bird species relevant for the introduction of either HPAI or LPAI into the poultry farm. The data provides fine-scale occurrence data of bird species, bird-sighting GPS location, sampling effort, and duration based on observers&#8217; traveling route and sampling protocol, and so on. The bird species showing breeding and wintering with preference to areas in Taiwan, and passing once or twice a year, may potentially act as a reservoir for LPAI, will thus be considered for selection. In the end, we restricted the number of wild bird species for analysis to 68. The inclusion criteria include (1) the top 20% abundance by ranking the counts from the checklists of the observers of the Taiwan eBird dataset; (2) the influenza virus isolation records from 3 databases: Influenza Virus Database, EMPRES-I, and Influenza Research Database before the date of 12/03/2020. We used the data reported between January 2015 and December 2017 to estimate the bird species distribution in each grid by propensity score through the zero-inflated Poisson (ZIP) model<sup><xref ref-type="bibr" rid="CR23">23</xref></sup>. The details of wild bird species inclusion were described previously by Wu et al.<sup><xref ref-type="bibr" rid="CR14">14</xref></sup>.</p></list-item><list-item><label>(ii)</label><p id="Par14">Terrestrial and environmental data: Obtained from Taiwan&#8217;s Endemic Species Research Institute, this dataset comprises nine land-cover types, which include farmland (FL), dry farming (DF), agricultural wetland (AW), forest (FR), wetland (WL), urban (UB), waterbody (WB), bushes (BU), and bare land (BL)<sup><xref ref-type="bibr" rid="CR24">24</xref></sup>.</p></list-item><list-item><label>(iii)</label><p id="Par15">HPAIV outbreaks data: A total of 1,223 poultry farm outbreaks were reported to the surveillance system, during 2015&#8211;2017, established by BAPHIQ in Taiwan<sup><xref ref-type="bibr" rid="CR19">19</xref></sup>.</p></list-item><list-item><label>(iv)</label><p id="Par16">Poultry farm census dataset: The comprehensive poultry farm census dataset was acquired from the Council of Agriculture, Taiwan, through an island-wide survey that utilized remote satellite imaging technology, overseen by the Taiwan Agriculture Research Institute<sup><xref ref-type="bibr" rid="CR19">19</xref></sup>.</p></list-item></list>
+</p></sec><sec id="Sec4"><title>Epidemiological design and statistical analysis</title><p id="Par17">When analyzing spatiotemporal data with HPAIV as the outcome variable, it typically entails a substantial number of explanatory variables, the number of wild bird species, which were included as covariates. To estimate the relationship between HPAIV outbreaks and the presence of each bird species, this study introduces a comprehensive analytical framework that integrates epidemiological matched-pair design, statistical conditional likelihood, and the concept of adjustment into a single estimation structure. Let&#8217;s consider a scenario with K bird species and N 3&#160;km-by-3&#160;km grids. Among these N grids, Q of them are case grids, signifying that each of these Q grids contains at least one HPAIV outbreak on poultry farms. The remaining <inline-formula id="IEq1"><alternatives><tex-math id="d33e378">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\text{N}-\text{Q}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq1.gif"/></alternatives></inline-formula> grids are classified as control grids, where no outbreaks occurred during the study period. It&#8217;s important to note that in our analysis, geographical grids without bird-sighting records have been excluded due to a lack of information.</p><sec id="Sec100"><title>Algorithm for making conditional likelihood inference</title><p id="Par19">The following steps were used to estimate the distribution for each bird species with the flowchart shown in Fig.&#160;<xref rid="Fig1" ref-type="fig">1</xref>.</p><p id="Par20">
+<fig id="Fig1" position="float" orientation="portrait"><label>Fig. 1</label><caption><p>A flowchart of the research framework. A computational procedure is iteratively implemented for all selected different bird species. The <italic toggle="yes">propensity score (PS) matching</italic> is implemented by 1:m matching with m&#8201;=&#8201;3 and 5; k refers to the k-th selected bird species, with k ranging from 1 to K&#8201;=&#8201;68. ROC refers to the receiver operating characteristic curve.</p></caption><graphic id="d33e403" position="float" orientation="portrait" xlink:href="41598_2025_17678_Fig1_HTML.jpg"/></fig>
+</p><p id="Par21"><italic toggle="yes">Step 1</italic>. For bird species (k) ranging from 1 to K, utilize the ZIP model to determine the association of each species (k), whether it is present or absent, based on the presence of all other species<sup><xref ref-type="bibr" rid="CR25">25</xref></sup>. This is accomplished through the application of both Model (A1) and Model (A2), accounting for spatial correlation with details described in Appendix 1. In this step, Model (A3) elucidates the specific &#8220;propensity score&#8221; (PS) for each species (k). In brief, formula (A1) represents a logistic regression that accounts for spatial autocorrelation in the data structure, estimating the probability of a species being a &#8216;structural zero.&#8217; Model (A2), using the same covariates as (A1), models the Poisson distribution to estimate the probability of a &#8216;sampling zero,&#8217; reflecting the chance of non-observation. Finally, model (A3), which serves as the basis for matching, is used to derive the propensity score. During this step, the PSs are first estimated without adjustment for environmental factors, and then re-estimated with such adjustment. Figure&#160;<xref rid="Fig2" ref-type="fig">1</xref> provides the flowchart of the estimation procedure, where adjustment for environmental factors is also possible at the step of constructing the conditional likelihood.</p><p id="Par22"><italic toggle="yes">Step 2</italic>. A grid-specific propensity score (PS) is determined for the presence of species k for each case grid in Step 1. Subsequently, a subset of m control grids is selected from the n<sub>d</sub> available grids. These m control grids are chosen based on matching criteria in their PS values using the &#8220;nearest neighbor&#8221; score; or through counter-matching, which involves inverse sampling-probability weightings.</p><p id="Par23"><italic toggle="yes">Step 3</italic>. Create a conditional likelihood function when the sole covariate is the presence-absence status, represented as a binary dummy variable, for species k. During this step, the parameter estimate for species k is derived through conditional likelihood inference.</p><p id="Par24">In step 1, the practice of dichotomizing all risk variables is utilized to mitigate bias, albeit at the cost of some statistical efficiency. Moving to step 2, we apply the matching and counter-matching concept to rigorously control all other &#8216;risk factors&#8217; collectively. Prior to reaching step 2, a variable selection procedure may be implemented when the number of adjustment variables is substantial. This includes techniques such as the &#8216;greedy orthogonal algorithm&#8216;<sup><xref ref-type="bibr" rid="CR26">26</xref></sup> and the utilization of penalty-based information criteria<sup><xref ref-type="bibr" rid="CR27">27</xref></sup>. Furthermore, in step 3, during conditional likelihood estimation, there is the option to treat the matching score as a risk factor or simply allow it to be matched out<sup><xref ref-type="bibr" rid="CR28">28</xref>&#8211;<xref ref-type="bibr" rid="CR30">30</xref></sup>.</p></sec><sec id="Sec101"><title>Conditional likelihood constructed by matching and countering matching</title><p id="Par26">Let Y be an outcome variable, <inline-formula id="IEq2"><alternatives><tex-math id="d33e447">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\stackrel{\sim}{\text{W}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq2.gif"/></alternatives></inline-formula> be the matching score which can also be one of the risk factors, and X be a set of other covariates, a row-vector. Moreover, <inline-formula id="IEq3"><alternatives><tex-math id="d33e453">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\text{I}\equiv\:\{\text{i}:{\text{g}}_{\text{i}}\:\text{i}\text{s}\:\text{a}\:\text{c}\text{a}\text{s}\text{e}\:\text{g}\text{r}\text{i}\text{d}\}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq3.gif"/></alternatives></inline-formula>, and for each <inline-formula id="IEq4"><alternatives><tex-math id="d33e459">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{g}}_{\text{i}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq4.gif"/></alternatives></inline-formula> and a bird species &#8220;k&#8221;, the matching score of a control is required to lie within a specified tolerable range <inline-formula id="IEq5"><alternatives><tex-math id="d33e465">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{R}}_{\text{i},\text{k}},\:\text{i}\in\:\text{I}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq5.gif"/></alternatives></inline-formula>. (In some simplified cases, <inline-formula id="IEq6"><alternatives><tex-math id="d33e471">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{R}}_{\text{i},\text{k}}={\text{R}}_{\text{k}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq6.gif"/></alternatives></inline-formula>, depends not on &#8220;i&#8221;.) In the Appendix 1, we employ <inline-formula id="IEq7"><alternatives><tex-math id="d33e478">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{W}}_{\text{i},\:\text{k}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq7.gif"/></alternatives></inline-formula> as a &#8216;status&#8217; variable that defines the presence or absence of species k within the i-th grid. Additionally, <inline-formula id="IEq8"><alternatives><tex-math id="d33e484">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{E}}_{\text{i}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq8.gif"/></alternatives></inline-formula> represents the environmental variable specific to the i-th grid.</p></sec></sec><sec id="Sec5"><title>Matching</title><p id="Par27">Let <inline-formula id="IEq9"><alternatives><tex-math id="d33e494">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{C}}_{\text{i},\text{k}}=\left\{\text{c}:\:{\text{g}}_{\text{c}}\:\text{i}\text{s}\:\text{a}\:\text{c}\text{o}\text{n}\text{t}\text{r}\text{o}\text{l}\:\text{g}\text{r}\text{i}\text{d}\:\text{w}\text{i}\text{t}\text{h}\:{\stackrel{\sim}{\text{W}}}_{\text{c},\text{k}}\in\:{\text{R}}_{\text{i},\text{k}};1\le\:\text{c}\le\:\text{Q}\right\},$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq9.gif"/></alternatives></inline-formula> the conditional likelihood under conventional &#8220;1:m matching&#8221; is expressed as:<disp-formula id="Equ1"><label>1</label><alternatives><tex-math id="d33e500">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{L}}_{\text{k}}\left({\upbeta\:}\right)=\prod\:_{\text{i}\in\:\text{I}}\frac{\text{e}\text{x}\text{p}\left({{\upbeta\:}}^{{\prime\:}}{\text{X}}_{\text{i},\text{k}}\right)}{\text{exp}\left({{\upbeta\:}}^{{\prime\:}}{\text{X}}_{\text{i},\text{k}}\right)+\sum\:_{\text{c}\in\:{\text{C}}^{\text{*}}}\text{e}\text{x}\text{p}\left({{\upbeta\:}}^{{\prime\:}}{\text{X}}_{\text{c},\text{k}}\right)}$$\end{document}</tex-math><graphic position="anchor" orientation="portrait" xlink:href="41598_2025_17678_Article_Equ1.gif"/></alternatives></disp-formula></p><p id="Par28">where &#946; is a column vector representing the effect of X, and &#8220;c&#8221; is the sampling strata index for a control set <inline-formula id="IEq10"><alternatives><tex-math id="d33e508">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{C}}^{\text{*}}\:\text{c}\text{o}\text{n}\text{t}\text{a}\text{i}\text{n}\text{e}\text{d}\:\text{i}\text{n}\:{\text{C}}_{\text{i},\text{k}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq10.gif"/></alternatives></inline-formula>, where <inline-formula id="IEq11"><alternatives><tex-math id="d33e514">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{C}}^{\text{*}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq11.gif"/></alternatives></inline-formula> has &#8220;m&#8221; controls, a subset selected from the risk set <inline-formula id="IEq12"><alternatives><tex-math id="d33e520">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{C}}_{\text{i},\text{k}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq12.gif"/></alternatives></inline-formula>. The use of conditional likelihood aligns with the matched-pairs study design commonly used in epidemiology, where &#8220;conditional&#8221; refers to comparisons made between individuals sharing certain conditions within the same risk set<sup><xref ref-type="bibr" rid="CR31">31</xref></sup>. Risk set sampling can be carried out in the following two manners:</p><p id="Par29">
+<list list-type="simple"><list-item><label>(i)</label><p id="Par30">Random sub-sample: The sampled controls can be a randomly selected subset from the potential risk set, which includes all controls with matching scores falling within <inline-formula id="IEq13"><alternatives><tex-math id="d33e538">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{R}}_{\text{i},\text{k}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq13.gif"/></alternatives></inline-formula>. In Eq.&#160;(<xref rid="Equ1" ref-type="disp-formula">1</xref>), <inline-formula id="IEq14"><alternatives><tex-math id="d33e547">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{{\upbeta\:}}^{{\prime\:}}{\text{X}}_{\text{i},\text{k}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq14.gif"/></alternatives></inline-formula> may consist of <inline-formula id="IEq15"><alternatives><tex-math id="d33e553">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\uprho\:}{\text{W}}_{\text{i},\:\text{k}}+{\upgamma\:}^{{\prime\:}}{\text{E}}_{\text{i}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq15.gif"/></alternatives></inline-formula> when environmental factors are taken into account, or it can be simply <inline-formula id="IEq16"><alternatives><tex-math id="d33e559">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\uprho\:}{\text{W}}_{\text{i},\:\text{k}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq16.gif"/></alternatives></inline-formula>, indicating &#8216;no adjustment&#8217;.</p></list-item><list-item><label>(ii)</label><p id="Par31">Nearest-neighbor sub-sample: The &#8220;m&#8221; controls from the risk set with the closest propensity scores to the case grid were selected.</p></list-item></list>
+</p></sec><sec id="Sec6"><title>Counter-matching with inverse probability weight</title><p id="Par32">For the case of counter-matching, we replace <inline-formula id="IEq17"><alternatives><tex-math id="d33e575">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\rho\:{W}_{i,\:k}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq17.gif"/></alternatives></inline-formula> by <inline-formula id="IEq18"><alternatives><tex-math id="d33e581">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\rho\:{W}_{i,\:k}+{\stackrel{\sim}{\rho\:}}_{k}{\stackrel{\sim}{\text{W}}}_{i,\:k}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq18.gif"/></alternatives></inline-formula>. Note that, in ordinary matching, <inline-formula id="IEq19"><alternatives><tex-math id="d33e587">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\stackrel{\sim}{\text{W}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq2.gif"/></alternatives></inline-formula> is not incorporated into the regression component of the conditional likelihood since its impact cannot be estimated. However, in this study, we employ counter-matching as an alternative approach that permits post-adjustment. This means the propensity score used for matching can include confounding variables before likelihood construction, and in the likelihood expression, post-adjustment is facilitated by including the covariate <inline-formula id="IEq20"><alternatives><tex-math id="d33e593">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\stackrel{\sim}{\text{W}}}_{i,\:k}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq20.gif"/></alternatives></inline-formula>, representing an overall risk score for the confounding factors.</p><p id="Par33">More specifically, the counter-matched samples of <inline-formula id="IEq21"><alternatives><tex-math id="d33e601">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\stackrel{\sim}{\text{W}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq2.gif"/></alternatives></inline-formula> corresponding to the case and control can be determined as follows: Let <inline-formula id="IEq22"><alternatives><tex-math id="d33e607">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\varDelta\:}_{\stackrel{\sim}{\text{W}},\:k}\equiv\:{\left\{{\stackrel{\sim}{\text{W}}}_{i,k}\right\}}_{i=1}^{\text{Q}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq22.gif"/></alternatives></inline-formula> be defined as the collection of matching scores corresponding to species-k. These sets <inline-formula id="IEq23"><alternatives><tex-math id="d33e613">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\left\{{\varDelta\:}_{\stackrel{\sim}{\text{W}},\:k}\right\}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq23.gif"/></alternatives></inline-formula> collectively form a partition of <inline-formula id="IEq24"><alternatives><tex-math id="d33e619">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\varDelta\:}_{\stackrel{\sim}{\text{W}},\:k}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq24.gif"/></alternatives></inline-formula>, represented as<disp-formula id="Equa"><alternatives><tex-math id="d33e625">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\left\{{\varDelta\:}_{\stackrel{\sim}{\text{W}},\:k}\right\}={\varDelta\:}_{1,\text{k}}\cup\:{\varDelta\:}_{2,\text{k}}\cup\:\dots\:\cup\:{\varDelta\:}_{\text{h},\text{k}}$$\end{document}</tex-math><graphic position="anchor" orientation="portrait" xlink:href="41598_2025_17678_Article_Equa.gif"/></alternatives></disp-formula></p><p id="Par34">and it holds that <inline-formula id="IEq25"><alternatives><tex-math id="d33e632">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\varDelta\:}_{\text{i},\text{k}}\cap\:{\varDelta\:}_{\text{j},\text{k}}={\varnothing}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq25.gif"/></alternatives></inline-formula> whenever <inline-formula id="IEq26"><alternatives><tex-math id="d33e638">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\text{i}\ne\:\text{j}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq26.gif"/></alternatives></inline-formula>. We define the set &#8220;H&#8221; as the collection of index: <inline-formula id="IEq27"><alternatives><tex-math id="d33e644">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\text{H}\equiv\:\{\text{1,2},\dots\:,\text{h}\}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq27.gif"/></alternatives></inline-formula>. It is important to note that we assume a uniform partition of <inline-formula id="IEq28"><alternatives><tex-math id="d33e650">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\varDelta\:}_{\stackrel{\sim}{\text{W}},\:k}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq24.gif"/></alternatives></inline-formula>. The risk-set sampling methodology enables the selection of random controls, whose <inline-formula id="IEq29"><alternatives><tex-math id="d33e656">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\stackrel{\sim}{\text{W}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq2.gif"/></alternatives></inline-formula>-values fall within the complementary sets in relation to those of the cases. That is: if the case has its <inline-formula id="IEq30"><alternatives><tex-math id="d33e663">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\stackrel{\sim}{\text{W}}}_{\text{i},\text{k}}\in\:{\varDelta\:}_{\text{j},\text{k}}\:(\text{f}\text{o}\text{r}\:\text{s}\text{o}\text{m}\text{e}\:\text{j}\in\:\text{H})$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq30.gif"/></alternatives></inline-formula>, then the controls will be selected from each interval <inline-formula id="IEq31"><alternatives><tex-math id="d33e669">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\varDelta\:}_{\text{j}\text{*},\text{k}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq31.gif"/></alternatives></inline-formula> of <inline-formula id="IEq32"><alternatives><tex-math id="d33e675">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\left\{{\varDelta\:}_{\stackrel{\sim}{\text{W}},\:\text{k}}\right\}\:\text{w}\text{i}\text{t}\text{h}\:{\text{j}}^{\text{*}}\ne\:\text{j}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq32.gif"/></alternatives></inline-formula>. In this way, the likelihood, denoted as <inline-formula id="IEq33"><alternatives><tex-math id="d33e681">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\;{\overset{\lower0.5em\hbox{$\smash{\scriptscriptstyle\frown}$}}{L} _{kk}}(\beta )$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq33.gif"/></alternatives></inline-formula> in Eq.&#160;(<xref rid="Equ2" ref-type="disp-formula">2</xref>), maintains the capacity to estimate the influence of <inline-formula id="IEq34"><alternatives><tex-math id="d33e690">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\stackrel{\sim}{\text{W}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq2.gif"/></alternatives></inline-formula><sup><xref ref-type="bibr" rid="CR30">30</xref></sup>:<disp-formula id="Equ2"><label>2</label><alternatives><tex-math id="d33e700">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\overset{\lower0.5em\hbox{$\smash{\scriptscriptstyle\frown}$}}{L} _{kk}}(\beta ) = \prod {{\:_{{\text{i}} \in \:{\mathbf{I}}}}} \frac{{{\text{exp}}\left( {\beta {\:^{\prime \:}}{{\mathbf{X}}_{{\text{i}},{\text{k}}}}} \right)}}{{{\text{exp}}\left( {{\beta ^{\prime \:}}{{\mathbf{X}}_{{\text{i}},{\text{k}}}}} \right) + \sum {{\:_{{\text{c}} \in \:{\text{H}}}}} \pi {\:_{\text{c}}}{\text{exp}}\left( {{\beta ^{\prime \:}}{{\mathbf{X}}_{{\text{c}},{\text{k}}}}} \right)}}$$\end{document}</tex-math><graphic position="anchor" orientation="portrait" xlink:href="41598_2025_17678_Article_Equ2.gif"/></alternatives></disp-formula></p><p id="Par35">We refer to <inline-formula id="IEq35"><alternatives><tex-math id="d33e708">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$${\mathop {\overset{\lower0.5em\hbox{$\smash{\scriptscriptstyle\frown}$}}{L} }\limits^{} _{\text{k}}}_{\text{k}}\left( {\beta \:} \right)$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq35.gif"/></alternatives></inline-formula> as the conditional likelihood based on counter-matching sampling and, ignoring the subscripts, <inline-formula id="IEq36"><alternatives><tex-math id="d33e714">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{{\upbeta\:}}^{{\prime\:}}\mathbf{X}={\uprho\:}\text{W}+\stackrel{\sim}{\rho\:}\stackrel{\sim}{W}+{\upgamma\:}^{{\prime\:}}\text{E}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq36.gif"/></alternatives></inline-formula>. Further, in (2), the denominator includes a weight, <inline-formula id="IEq37"><alternatives><tex-math id="d33e720">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{{\uppi\:}}_{\text{c}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq37.gif"/></alternatives></inline-formula>, which is the inverse of the sampling probability and can be proportional to the sample size of candidate counter-matched controls within the c-interval. To facilitate comparison with conventional 1:m matching, we set<disp-formula id="Equb"><alternatives><tex-math id="d33e726">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{{\uppi\:}}_{\text{c}}=\text{m}\cdot\:\left\{{\text{n}}_{\text{c}}/\sum\:_{\text{c}\in\:\text{H}}{\text{n}}_{\text{c}}\right\}$$\end{document}</tex-math><graphic position="anchor" orientation="portrait" xlink:href="41598_2025_17678_Article_Equb.gif"/></alternatives></disp-formula></p></sec><sec id="Sec7"><title>Prior and posterior adjustments for environmental factors</title><p id="Par36">When establishing the propensity score matching (PSM), the propensity scores can be estimated using two approaches: one that includes adjustment for environmental factors and one that does not. The results in Tables&#160;<xref rid="Tab1" ref-type="table">1</xref> and <xref rid="Tab2" ref-type="table">2</xref> correspond to these two cases. We refer to Table&#160;<xref rid="Tab2" ref-type="table">2</xref> as &#8216;prior adjustment.&#8217; In this context, both Eqs.&#160;(<xref rid="Equ1" ref-type="disp-formula">1</xref>) and (<xref rid="Equ2" ref-type="disp-formula">2</xref>) do not include any environmental variables in the covariate vector x.</p><p id="Par37">
+<table-wrap id="Tab1" position="float" orientation="portrait"><label>Table 1</label><caption><p>Conditional likelihood estimates of significant species associated with AIV outbreaks<italic toggle="yes"> without adjustment</italic> for environmental factors.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" rowspan="2" colspan="1">Scientific name</th><th align="left" rowspan="2" colspan="1">Common name</th><th align="left" colspan="4" rowspan="1">odds ratio (p value)</th><th align="left" colspan="1" rowspan="1">Nsp<sup>a</sup></th></tr><tr><th align="left" colspan="1" rowspan="1">Matching<break/>1:3</th><th align="left" colspan="1" rowspan="1">Matching<break/>1:5</th><th align="left" colspan="1" rowspan="1">Counter matching<break/>1:3</th><th align="left" colspan="1" rowspan="1">Counter matching<break/>1:5</th><th align="left" colspan="1" rowspan="1"/></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Chroicocephalus ridibundus</italic>
+</td><td align="left" colspan="1" rowspan="1">Black-headed gull</td><td align="left" colspan="1" rowspan="1">4.42(0.0045)</td><td align="left" colspan="1" rowspan="1">4.86(0.0099)</td><td align="left" colspan="1" rowspan="1">3.93(0.0001)</td><td align="left" colspan="1" rowspan="1">4.70(0.0029)</td><td align="left" colspan="1" rowspan="1">896</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Calidris subminuta</italic>
+</td><td align="left" colspan="1" rowspan="1">Long-toed stint<sup>c</sup></td><td align="left" colspan="1" rowspan="1">1.92(0.0056)</td><td align="left" colspan="1" rowspan="1">2.47(0.0013)</td><td align="left" colspan="1" rowspan="1">1.91(&lt;0.0001)</td><td align="left" colspan="1" rowspan="1">2.48(0.0002)</td><td align="left" colspan="1" rowspan="1">544</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Pluvialis fulva</italic>
+</td><td align="left" colspan="1" rowspan="1">Pacific golden plover<sup>c</sup></td><td align="left" colspan="1" rowspan="1">1.58(0.0262)</td><td align="left" colspan="1" rowspan="1">2.24(0.0011)</td><td align="left" colspan="1" rowspan="1">1.48(0.0012)</td><td align="left" colspan="1" rowspan="1">2.22(0.0003)</td><td align="left" colspan="1" rowspan="1">171</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Tachybaptus ruficollis</italic>
+</td><td align="left" colspan="1" rowspan="1">Little grebe</td><td align="left" colspan="1" rowspan="1">1.45(0.0728)*</td><td align="left" colspan="1" rowspan="1">nonsig<sup>b</sup></td><td align="left" colspan="1" rowspan="1">1.32(0.0166)</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">116</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Hydroprogne caspia</italic>
+</td><td align="left" colspan="1" rowspan="1">Caspian tern<sup>c</sup></td><td align="left" colspan="1" rowspan="1">2.97(0.0129<bold>)</bold></td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">1.64(0.0607)*</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">nonsig</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Anas acuta</italic>
+</td><td align="left" colspan="1" rowspan="1">Pintail duck<sup>b</sup></td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">1.70(0.0095)</td><td align="left" colspan="1" rowspan="1">1.93(0.0503)*</td><td align="left" colspan="1" rowspan="1">nonsig</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Sternula albifrons</italic>
+</td><td align="left" colspan="1" rowspan="1">Little tern<sup>c</sup></td><td align="left" colspan="1" rowspan="1">2.05(0.0313)</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">1.94(0.0015)</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">416</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Gallinago gallinago</italic>
+</td><td align="left" colspan="1" rowspan="1">Common snipe</td><td align="left" colspan="1" rowspan="1">1.49(0.0694)*</td><td align="left" colspan="1" rowspan="1">1.57(0.0570)*</td><td align="left" colspan="1" rowspan="1">1.25(0.0875)*</td><td align="left" colspan="1" rowspan="1">1.58(0.0302)</td><td align="left" colspan="1" rowspan="1">nonsig</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Hirundo rustica</italic>
+</td><td align="left" colspan="1" rowspan="1">House swallow</td><td align="left" colspan="1" rowspan="1">1.63(0.0176)</td><td align="left" colspan="1" rowspan="1">1.70(0.0070)</td><td align="left" colspan="1" rowspan="1">1.41(0.0020)</td><td align="left" colspan="1" rowspan="1">1.70(0.0020)</td><td align="left" colspan="1" rowspan="1">119</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Falco peregrinus</italic>
+</td><td align="left" colspan="1" rowspan="1">Peregrine falcon</td><td align="left" colspan="1" rowspan="1">1.74(0.0131)</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">1.60(0.0004)</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">nonsig</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Himantopus himantopus</italic>
+</td><td align="left" colspan="1" rowspan="1">Black-winged stilt<sup>c</sup></td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">2.10(0.0001)</td><td align="left" colspan="1" rowspan="1">1.45(0.0004)</td><td align="left" colspan="1" rowspan="1">2.07(&lt;0.0001)</td><td align="left" colspan="1" rowspan="1">138</td></tr></tbody></table><table-wrap-foot><p>
+<italic toggle="yes">a. Nsp, no. significant positive associations in 1,000&#160;experiments.</italic>
+</p><p>b. The term &#8220;nonsig&#8221; refers to results that are not statistically significant and are not included in this table.</p><p>c.* indicates a case of mild significance with 0.05&#160;&lt;&#160;p-value&#160;&lt;&#160;0.10.</p></table-wrap-foot></table-wrap>
+</p><p id="Par38">
+<table-wrap id="Tab2" position="float" orientation="portrait"><label>Table 2</label><caption><p>Conditional likelihood estimates of significant species associated with AIV outbreaks with <italic toggle="yes">prior adjustment</italic> for environmental factors.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" colspan="1" rowspan="1">Scientific name</th><th align="left" colspan="1" rowspan="1">Common name</th><th align="left" colspan="4" rowspan="1">odds ratio<break/>(p value)</th><th align="left" colspan="1" rowspan="1">Nsp<sup>a</sup></th></tr><tr><th align="left" colspan="1" rowspan="1"/><th align="left" colspan="1" rowspan="1"/><th align="left" colspan="1" rowspan="1">Matching<break/>1:3</th><th align="left" colspan="1" rowspan="1">Matching<break/>1:5</th><th align="left" colspan="1" rowspan="1">Counter matching<break/>1:3</th><th align="left" colspan="1" rowspan="1">Counter matching<break/>1:5</th><th align="left" colspan="1" rowspan="1"/></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Chroicocephalus ridibundus</italic>
+</td><td align="left" colspan="1" rowspan="1">Black-headed gull</td><td align="left" colspan="1" rowspan="1">6.36(0.0028)</td><td char="." align="char" colspan="1" rowspan="1">4.65(0.0138)</td><td char="." align="char" colspan="1" rowspan="1">6.90(&lt;&#8201;0.0001)</td><td char="." align="char" colspan="1" rowspan="1">4.80(0.0067)</td><td align="left" colspan="1" rowspan="1">482</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Calidris subminuta</italic>
+</td><td align="left" colspan="1" rowspan="1">Long-toed stint<sup>c</sup></td><td align="left" colspan="1" rowspan="1">2.48(0.0002)</td><td char="." align="char" colspan="1" rowspan="1">1.94(0.0148)</td><td char="." align="char" colspan="1" rowspan="1">1.63(0.0002)</td><td char="." align="char" colspan="1" rowspan="1">2.02(0.0044)</td><td align="left" colspan="1" rowspan="1">784</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Pluvialis fulva</italic>
+</td><td align="left" colspan="1" rowspan="1">Pacific golden plover</td><td align="left" colspan="1" rowspan="1">1.53(0.0341)</td><td char="." align="char" colspan="1" rowspan="1">1.61(0.0365)</td><td char="." align="char" colspan="1" rowspan="1">1.54(0.0004)</td><td char="." align="char" colspan="1" rowspan="1">1.65(0.0155)</td><td align="left" colspan="1" rowspan="1">157</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Tachybaptus ruficollis</italic>
+</td><td align="left" colspan="1" rowspan="1">Little grebe</td><td align="left" colspan="1" rowspan="1">1.59(0.0218)</td><td char="." align="char" colspan="1" rowspan="1">1.54(0.0654)*</td><td char="." align="char" colspan="1" rowspan="1">1.51(0.0006)</td><td char="." align="char" colspan="1" rowspan="1">1.55(0.0292)</td><td align="left" colspan="1" rowspan="1">402</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Hydroprogne caspia</italic>
+</td><td align="left" colspan="1" rowspan="1">Caspian tern</td><td align="left" colspan="1" rowspan="1">2.61(0.0382)</td><td char="." align="char" colspan="1" rowspan="1">5.60(0.0049)</td><td char="." align="char" colspan="1" rowspan="1">2.49(0.0020)</td><td char="." align="char" colspan="1" rowspan="1">5.62(0.0015)</td><td align="left" colspan="1" rowspan="1">nonsig<sup>b</sup></td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Anas acuta</italic>
+</td><td align="left" colspan="1" rowspan="1">Pintail duck</td><td align="left" colspan="1" rowspan="1">2.45(0.0300)</td><td char="." align="char" colspan="1" rowspan="1">2.79(0.0182)</td><td char="." align="char" colspan="1" rowspan="1">1.88(0.0032)</td><td char="." align="char" colspan="1" rowspan="1">2.73(0.0070)</td><td align="left" colspan="1" rowspan="1">174</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Sternula albifrons</italic>
+</td><td align="left" colspan="1" rowspan="1">Little tern</td><td align="left" colspan="1" rowspan="1">nonsig</td><td char="." align="char" colspan="1" rowspan="1">2.74(0.0731)*</td><td char="." align="char" colspan="1" rowspan="1">2.06(0.0047)</td><td char="." align="char" colspan="1" rowspan="1">2.19(0.0530)*</td><td align="left" colspan="1" rowspan="1">nonsig</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Gallinago gallinago</italic>
+</td><td align="left" colspan="1" rowspan="1">Common snipe</td><td align="left" colspan="1" rowspan="1">1.75(0.0135)</td><td char="." align="char" colspan="1" rowspan="1">1.70(0.0380)</td><td char="." align="char" colspan="1" rowspan="1">1.42(0.0072)</td><td char="." align="char" colspan="1" rowspan="1">1.71(0.0167)</td><td align="left" colspan="1" rowspan="1">191</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Hirundo rustica</italic>
+</td><td align="left" colspan="1" rowspan="1">House swallow</td><td align="left" colspan="1" rowspan="1">nonsig</td><td char="." align="char" colspan="1" rowspan="1">1.78(0.0043)</td><td char="." align="char" colspan="1" rowspan="1">1.35(0.0080)</td><td char="." align="char" colspan="1" rowspan="1">1.81(0.001)</td><td align="left" colspan="1" rowspan="1">nonsig</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Falco peregrinus</italic>
+</td><td align="left" colspan="1" rowspan="1">Peregrine falcon</td><td align="left" colspan="1" rowspan="1">nonsig</td><td char="." align="char" colspan="1" rowspan="1">1.51(0.0797)*</td><td char="." align="char" colspan="1" rowspan="1">1.35(0.0151)</td><td char="." align="char" colspan="1" rowspan="1">1.50(0.0502)*</td><td align="left" colspan="1" rowspan="1">nonsig</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Himantopus himantopus</italic>
+</td><td align="left" colspan="1" rowspan="1">Black-winged stilt</td><td align="left" colspan="1" rowspan="1">1.33(0.0914)*</td><td char="." align="char" colspan="1" rowspan="1">1.53(0.0293)</td><td char="." align="char" colspan="1" rowspan="1">1.25(0.0500)</td><td char="." align="char" colspan="1" rowspan="1">1.50(0.0278)</td><td align="left" colspan="1" rowspan="1">nonsig</td></tr></tbody></table><table-wrap-foot><p>a. Nsp, no. significant positive associations in 1,000 experiments.</p><p>b. The term &#8220;nonsig&#8221; refers to results that are not statistically significant and are not included in this table.</p><p>c. * indicates a case of mild significance with 0.05&#8201;&lt;&#8201;p-value&#8201;&lt;&#8201;0.10.</p></table-wrap-foot></table-wrap>
+</p><p id="Par39">However, it&#8217;s possible to perform adjustment after establishing the PSM without adjustment by incorporating the environmental variables into the conditional likelihood. In this particular situation, known as &#8216;posterior adjustment,&#8217; Eqs.&#160;(<xref rid="Equ1" ref-type="disp-formula">1</xref>) and (<xref rid="Equ2" ref-type="disp-formula">2</xref>) incorporate the covariate vector x, which comprises both the single bird-species variable and the environmental variables.</p><sec id="Sec103"><title>Constructing a global risk score (GRS) of multiple species of wild birds</title><p id="Par41">According to the conditional likelihood analysis, several significant bird species have been identified. However, two main issues arise. Firstly, the significance determinations rely on a statistical convention, specifically employing a p-value of 0.05 as the threshold for significance. Consequently, altering this threshold would lead to changes in the number or subset of significant variables, namely bird species. Secondly, while many individual bird species may not exhibit significance in separate analyses, we intend to estimate the cumulative impact of these birds as a collective entity on the outcomes in question. It would be overly simplistic to model &#8220;significance&#8221; solely based on a summary index, such as the total count of birds or a measure of diversity. This prompted us to develop a GRS of multiple species of wild birds as an indicator of the likelihood of an avian influenza outbreak within a geographical area. Using the conditional likelihood approach, various threshold configurations for the p-value, acting as a variable-selection criterion, yield different subsets of explanatory variables (<bold>X</bold>). Subsequently, a risk score is formulated by selecting a linear combination of <bold>X</bold>s (birds) with the highest predictive capability through conventional logistic regression and receiver operating characteristic (ROC) curve analysis. To expand the list of high-risk bird species and derive the corresponding risk score, we undertook several steps detailed in the second part of the Appendix 1.</p></sec></sec></sec><sec id="Sec8"><title>Results</title><p id="Par42">Figure <xref rid="Fig2" ref-type="fig">2</xref> (left panel) shows the geographic distribution with the observed frequency of the pacific golden plover based on the data obtained from the eBird Taiwan dataset. The predicted occupancy of the Pacific golden plover based on ZIP model as described in Step 1 of the Method section was coherent with the observed distribution (Fig.&#160;<xref rid="Fig2" ref-type="fig">2</xref>&#160;right panel). The geographical distribution of the remaining 67 distinct wild bird species, which were chosen for this study, can be accessed on the webpage (aiv.nchu.edu.tw).</p><p id="Par43">
+<fig id="Fig2" position="float" orientation="portrait"><label>Fig. 2</label><caption><p>(Left panel) Observed and (Right panel) estimated frequency of <italic toggle="yes">Pluvialis-Fulva</italic> (Pacific golden plover), based on a zero-inflated Poisson model.</p></caption><graphic id="d33e1338" position="float" orientation="portrait" xlink:href="41598_2025_17678_Fig2_HTML.jpg"/></fig>
+</p><p id="Par44">Next, 68 distinct wild bird species were individually matched as described in Step 2 of the Method section to individually estimate their associations with HPAI outbreaks on poultry farms, <italic toggle="yes">with</italic> or <italic toggle="yes">without</italic> adjustment of environmental factors. Tables&#160;<xref rid="Tab1" ref-type="table">1</xref> and Table&#160;<xref rid="Tab2" ref-type="table">2</xref> present odds ratio estimates computed from the conditional likelihood of Eqs.&#160;(<xref rid="Equ1" ref-type="disp-formula">1</xref>) and (<xref rid="Equ2" ref-type="disp-formula">2</xref>). Among 68 species analyzed, 11 demonstrated significant associations with HPAIV poultry farm outbreaks. These significant associations were identified in both conventional matching and counter-matching, for the scenarios of &#8216;without adjustment&#8217; (Table&#160;<xref rid="Tab1" ref-type="table">1</xref>) and &#8216;with prior adjustment&#8217; (Table&#160;<xref rid="Tab2" ref-type="table">2</xref>) for environmental factors. In both tables, columns 1 and 2 display the outcomes of 1:3 and 1:5 conventional matching, while columns 3 and 4 depict the results of counter-matching. Compared to the bootstrapped McNemar statistic as shown in column 5, as published by Wu et al.<sup><xref ref-type="bibr" rid="CR14">14</xref></sup>two more wild bird species were identified with significant association with HPAIV poultry farm outbreaks, including Caspian tern, and peregrine falcon.</p><p id="Par45">Among 11 wild bird species shown in Table&#160;<xref rid="Tab1" ref-type="table">1</xref>, the black-headed gull exhibits highly significant odds ratios (OR) ranging from 3.93 to 4.86 for the two matching designs. With the inclusion of prior adjustment (Table&#160;<xref rid="Tab2" ref-type="table">2</xref>), the OR estimates expand to a range of (4.65, 6.90). In contrast, with posterior adjustment as reported in the last column of Table&#160;<xref rid="Tab3" ref-type="table">3</xref>, the OR is 4.48 (95% confidence interval (CI):1.23&#8211;16.32). It&#8217;s worth noting that in the case of posterior adjustment, we do not include environmental factors during the propensity score matching stage. These OR estimates are closely aligned, indicating coherent results. Another highly significant species to note is the long-toed stint. Its odds ratio estimates range from 1.63 to 2.48 for the two matching scenarios, both with and without prior adjustment. Additionally, when posterior adjustment is employed, the odds ratio remains significant, which equals 1.67 (95% CI: 1.03&#8211;2.70) (Table&#160;<xref rid="Tab3" ref-type="table">3</xref>).</p><p id="Par46">
+<table-wrap id="Tab3" position="float" orientation="portrait"><label>Table 3</label><caption><p>Conditional likelihood estimates of environmental factors specific to the bird species which have significant association reported in Table&#160;<xref rid="Tab1" ref-type="table">1</xref>. The estimates are reported under the consideration of <italic toggle="yes">posterior adjustment</italic> for land-cover (environmental) factors.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="left" colspan="1" rowspan="1">Scientific name</th><th align="left" colspan="1" rowspan="1">Common name</th><th align="left" colspan="8" rowspan="1">odds ratios of 8 terrestrial factors<break/>(<italic toggle="yes">P</italic> value)</th><th align="left" colspan="1" rowspan="1"/></tr></thead><tbody><tr><td align="left" colspan="1" rowspan="1"/><td align="left" colspan="1" rowspan="1"/><td align="left" colspan="1" rowspan="1">FL<sup>(b)</sup></td><td align="left" colspan="1" rowspan="1">DF<sup>(b)</sup></td><td align="left" colspan="1" rowspan="1">AW<sup>(b)</sup></td><td align="left" colspan="1" rowspan="1">FR<sup>(b)</sup></td><td align="left" colspan="1" rowspan="1">WL<sup>(b)</sup></td><td align="left" colspan="1" rowspan="1">UB<sup>(b)</sup></td><td align="left" colspan="1" rowspan="1">WB<sup>(b)</sup></td><td align="left" colspan="1" rowspan="1">BU<sup>(b)</sup></td><td align="left" colspan="1" rowspan="1">Bird<sup>(d)</sup></td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Chroicocephalus ridibundus</italic>
+</td><td align="left" colspan="1" rowspan="1">Black-headed gull</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq38"><alternatives><tex-math id="d33e1480">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+<sup>(a)</sup>
+</td><td align="left" colspan="1" rowspan="1"><p>3.04</p><p>(0.0001)<sup>(c)</sup></p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq39"><alternatives><tex-math id="d33e1496">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq40"><alternatives><tex-math id="d33e1509">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1"><p>10.02</p><p>(0.0365)</p></td><td align="left" colspan="1" rowspan="1"><p>4.48</p><p>(0.0229)</p></td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Calidris subminuta</italic>
+</td><td align="left" colspan="1" rowspan="1">Long-toed stint<sup>c</sup></td><td align="left" colspan="1" rowspan="1"><p>1.39</p><p>(0.0480)</p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq41"><alternatives><tex-math id="d33e1538">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1"><p>3.20</p><p>(0.0001)</p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq42"><alternatives><tex-math id="d33e1550">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq43"><alternatives><tex-math id="d33e1561">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1"><p>1.67</p><p>(0.0364)</p></td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Pluvialis fulva</italic>
+</td><td align="left" colspan="1" rowspan="1">Pacific golden plover<sup>c</sup></td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq44"><alternatives><tex-math id="d33e1590">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1"><p>3.29</p><p>(0.0001)</p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq45"><alternatives><tex-math id="d33e1602">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq46"><alternatives><tex-math id="d33e1613">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1"><p>16.40</p><p>(0.0305)</p></td><td align="left" colspan="1" rowspan="1"><p>1.45</p><p>(0.0759)*</p></td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Tachybaptus ruficollis</italic>
+</td><td align="left" colspan="1" rowspan="1">Little grebe</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq47"><alternatives><tex-math id="d33e1641">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1"><p>2.90</p><p>(0.0001)</p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq48"><alternatives><tex-math id="d33e1653">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq49"><alternatives><tex-math id="d33e1664">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1"><p>1.61</p><p>(0.0365)</p></td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Hydroprogne caspia</italic>
+</td><td align="left" colspan="1" rowspan="1">Caspian tern<sup>c</sup></td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq50"><alternatives><tex-math id="d33e1693">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1"><p>2.46</p><p>(0.0001)</p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq51"><alternatives><tex-math id="d33e1705">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq52"><alternatives><tex-math id="d33e1716">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq53"><alternatives><tex-math id="d33e1725">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1"><p>2.90</p><p>(0.0236)</p></td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Anas acuta</italic>
+</td><td align="left" colspan="1" rowspan="1">Pintail duck<sup>b</sup></td><td align="left" colspan="1" rowspan="1"><p>1.42</p><p>(0.0379)</p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq54"><alternatives><tex-math id="d33e1753">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1"><p>4.70</p><p>(0.0001)</p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq55"><alternatives><tex-math id="d33e1765">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq56"><alternatives><tex-math id="d33e1776">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq57"><alternatives><tex-math id="d33e1785">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1"><p>2.14</p><p>(0.0711)*</p></td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Sternula albifrons</italic>
+</td><td align="left" colspan="1" rowspan="1">Little tern<sup>c</sup></td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq58"><alternatives><tex-math id="d33e1812">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1"><p>2.49</p><p>(0.0001)</p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq59"><alternatives><tex-math id="d33e1824">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq60"><alternatives><tex-math id="d33e1835">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1"><p>2.67</p><p>(0.0099)</p></td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Gallinago gallinago</italic>
+</td><td align="left" colspan="1" rowspan="1">Common snipe</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq61"><alternatives><tex-math id="d33e1862">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1"><p>5.15</p><p>(0.0001)</p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq62"><alternatives><tex-math id="d33e1874">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq63"><alternatives><tex-math id="d33e1885">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq64"><alternatives><tex-math id="d33e1894">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">nonsig</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Hirundo rustica</italic>
+</td><td align="left" colspan="1" rowspan="1">House swallow</td><td align="left" colspan="1" rowspan="1"><p>1.51</p><p>(0.0176)</p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq65"><alternatives><tex-math id="d33e1919">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1"><p>3.98</p><p>(0.0001)</p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq66"><alternatives><tex-math id="d33e1931">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq67"><alternatives><tex-math id="d33e1942">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">nonsig</td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Falco peregrinus</italic>
+</td><td align="left" colspan="1" rowspan="1">Peregrine falcon</td><td align="left" colspan="1" rowspan="1"><p>1.38</p><p>(0.0715)*</p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq68"><alternatives><tex-math id="d33e1969">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1"><p>3.27</p><p>(0.0001)</p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq69"><alternatives><tex-math id="d33e1981">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq70"><alternatives><tex-math id="d33e1992">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1"><p>2.24</p><p>(0.0012)</p></td></tr><tr><td align="left" colspan="1" rowspan="1">
+<italic toggle="yes">Himantopus himantopus</italic>
+</td><td align="left" colspan="1" rowspan="1">Black-winged stilt<sup>c</sup></td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq71"><alternatives><tex-math id="d33e2022">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1"><p>1.80</p><p>(0.0011)</p></td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq72"><alternatives><tex-math id="d33e2034">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">
+<inline-formula id="IEq73"><alternatives><tex-math id="d33e2045">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>
+</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">nonsig</td><td align="left" colspan="1" rowspan="1">nonsig</td></tr></tbody></table><table-wrap-foot><p>&#8220;<inline-formula id="IEq74"><alternatives><tex-math id="d33e2060">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>&#8221; means negative and significant effect specific to its adjustment effect for each bird species on the outbreaks.</p><p>farmland (FL), dry farming (DF), agricultural wetland (AW), forest (FR), wetland (WL), urban (UB), waterbody(WB), bushes (BU).</p><p>&#8220;<inline-formula id="IEq75"><alternatives><tex-math id="d33e2069">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\le\:$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq75.gif"/></alternatives></inline-formula>&#8221; is omitted here. So a p-value of 0.0001 actually denotes that it is less than or equal to 0.0001.</p><p>Indicate the estimates of bird itself shown at the first column under scientific name.</p></table-wrap-foot></table-wrap>
+</p><p id="Par47">In a broader context of how the matched controls were selected, the Pacific golden plover, Little grebe, Caspian tern, Pintail duck, Little tern, Common snipe, House swallow, Peregrine falcon, and Black-winged stilt also display a notable association with AIV outbreaks, with or without prior adjustments of the environmental factors. However, the significance of this association with AIV outbreaks in the Pacific golden plover, Pintail duck, Common snipe, House swallow, and Black-winged stilt may diminish when posterior adjustments are applied as shown in Table&#160;<xref rid="Tab3" ref-type="table">3</xref>. Conversely, the Peregrine falcon exhibits increased significance after undergoing posterior adjustment. This shift in significance suggests potential confounding effects of environmental and terrestrial variables on the association with the outbreaks.</p><p id="Par48">In Table&#160;<xref rid="Tab3" ref-type="table">3</xref>, the &#8220;posterior adjustment&#8221; likelihood provides an analysis of the influence of environmental factors on the HPAIV poultry farm outbreaks related to each bird species listed in Tables&#160;<xref rid="Tab1" ref-type="table">1</xref> and <xref rid="Tab2" ref-type="table">2</xref>. Given the limited data available, the majority of bare land variables could not be estimated, and consequently, they have been excluded from Table&#160;<xref rid="Tab3" ref-type="table">3</xref>. When estimating the specific effects of each bird species, it is evident that farmland exhibits a significant positive impact on the outbreaks for the following species: long-toed stint, pintail duck, and house swallow. Furthermore, agricultural wetland yields notably strong positive OR estimates for all species. Our previous study showed that a higher percentage of cropping land coverage is associated with poultry farm outbreaks, suggesting a higher likelihood of wild birds transmitting HPAIV into the poultry farms when utilizing agricultural wetland as their habitats<sup><xref ref-type="bibr" rid="CR19">19</xref></sup>. Bushes exhibit a pronounced significance for Black-headed gull (OR&#8201;=&#8201;10.02; 95% CI:1.16&#8211;86.85) and Pacific golden plover (OR&#8201;=&#8201;16.4; 95% CI:1.30-206.68). In Table&#160;<xref rid="Tab3" ref-type="table">3</xref>, the negative symbol &#8220;<inline-formula id="IEq76"><alternatives><tex-math id="d33e2104">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:-$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq38.gif"/></alternatives></inline-formula>&#8221; indicates a negative effect (OR&#8201;&lt;&#8201;1) specific to each bird species regarding the outbreaks. In such instances, the possibility of outbreaks within the area of that land-cover type is considerably low. Detailed estimates of individual species are provided in Appendix 2.</p><p id="Par49">To determine the optimal significance level (p-value) of wild birds species contributing to the poultry farm outbreaks, different ROC curves with the corresponding area under curve (AUC) <inline-formula id="IEq77"><alternatives><tex-math id="d33e2112">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{{\upphi\:}}_{\text{j}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq77.gif"/></alternatives></inline-formula> were estimated under different threshold values <inline-formula id="IEq78"><alternatives><tex-math id="d33e2118">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\{\text{P}}_{\text{j}}\}\:$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq78.gif"/></alternatives></inline-formula>as shown in Appendix 1 (second part). The number of wild bird species (Xs) increases with the higher threshold value <inline-formula id="IEq79"><alternatives><tex-math id="d33e2124">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\text{P}\text{j}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq79.gif"/></alternatives></inline-formula>. In Fig.&#160;<xref rid="Fig3" ref-type="fig">3</xref>, the &#8220;<inline-formula id="IEq80"><alternatives><tex-math id="d33e2133">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{{\upphi\:}}_{\text{j}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq77.gif"/></alternatives></inline-formula>-to-<inline-formula id="IEq81"><alternatives><tex-math id="d33e2140">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{p}}_{\text{j}}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq81.gif"/></alternatives></inline-formula>&#8221; relationship for different P<sub>j</sub> was illustrated under two scenarios: one with only migratory birds (dashed line) and one including both migratory and resident birds (solid line). This analysis incorporates environmental and terrestrial factors into the formula. The demand for model parsimony, combined with a noticeable &#8220;elbow&#8221; at <inline-formula id="IEq82"><alternatives><tex-math id="d33e2148">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\text{P}\text{j}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq79.gif"/></alternatives></inline-formula>=0.1 in both curves, suggests that this is an appropriate cutoff. The bird species under the significance level of <inline-formula id="IEq83"><alternatives><tex-math id="d33e2154">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:\text{P}\text{j}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq79.gif"/></alternatives></inline-formula>=0.1 used to depict the ROC curves were listed in a Supplementary Table (Appendix 3), with those 11 species that appeared in Tables&#160;<xref rid="Tab1" ref-type="table">1</xref>, <xref rid="Tab2" ref-type="table">2</xref> and <xref rid="Tab3" ref-type="table">3</xref> marked by yellow shade.</p><p id="Par50">
+<fig id="Fig3" position="float" orientation="portrait"><label>Fig. 3</label><caption><p>Plot of area under the curve (AUC) versus p-value. The AUC increases with p-value. Dotted line: the migratory bird species only. Solid line: the migratory and residential bird species. The arrow indicates the elbow point.</p></caption><graphic id="d33e2178" position="float" orientation="portrait" xlink:href="41598_2025_17678_Fig3_HTML.jpg"/></fig>
+</p><p id="Par51">Finally, the two ROC curves (those with and without environmental factors adjustment) calculated for migratory birds only are displayed in Fig.&#160;<xref rid="Fig4" ref-type="fig">4</xref> (left panel) with the AUC equal to 0.74 (without adjustment) and 0.80 (with adjustment). For the &#8220;with-adjustment&#8221; case, the GRS of the migratory bird species contributing to the poultry farm outbreaks was 0.306, which corresponds to the Youden index with a sensitivity equal to 0.74 and specificity equal to 0.74. When resident bird species were further considered, this risk score produced ROC curves with AUCs of 0.82 (without adjustment) and 0.84 (with adjustment), shown in Fig.&#160;<xref rid="Fig4" ref-type="fig">4</xref> (right panel). The GRS, a linear combination of 27 migratory species and 27 resident species, was 0.320, and the Youden index cut-off (with-adjustment case) gives a sensitivity of 0.81 and specificity of 0.77. The supplementary table in Appendix 3 also lists these 27 resident bird species.</p><p id="Par52">
+<fig id="Fig4" position="float" orientation="portrait"><label>Fig. 4</label><caption><p>ROC curves based on a global risk score. Left panel: only migratory bird species were considered; right panel: migratory and residential bird species were both included. Solid blue line: without adjustment of environmental factors; dashed brown line: with adjustment.</p></caption><graphic id="d33e2197" position="float" orientation="portrait" xlink:href="41598_2025_17678_Fig4_HTML.jpg"/></fig>
+</p></sec><sec id="Sec9"><title>Discussions</title><p id="Par53">HPAIV continues to evolve through re-assortment with low-pathogenic avian influenza virus (LPAIV) in wild and domestic birds during global dissemination. To reveal the mechanism how such adaptation across the domestic and bird-wild bird interface through HPAI evolution, a quantitative evaluation of the risk for AIV exchange at the interface would enable the strategic allocation of limited resources for spatial targeting surveillance for AIV in wild birds and poultry. In this study, we developed a GRS to assess the spatial risk of different wild bird species contributing the poultry farm outbreaks. Previously, Wu et al. proposed an analysis framework based on propensity score matching with the propensity score (of each suspected bird species in each geographical grid) estimated through a zero-inflated Poisson regression model and then constructed a matched-pair McNemar <inline-formula id="IEq84"><alternatives><tex-math id="d33e2203">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{{\upchi\:}}_{1}^{2}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq84.gif"/></alternatives></inline-formula> statistic with the aid of bootstrap resampling to produce an estimate of the significance level of migratory bird species introducing HPAI into the poultry farms<sup><xref ref-type="bibr" rid="CR14">14</xref></sup>. To improve the computational efficiency, we integrate conditional likelihood with epidemiological research design, matching, and counter-matching, to estimate the risk of individual wild bird species associated with the HPAIV poultry farm outbreaks. Compared to our previous approach using McNemar with bootstrapping statistics, conditional likelihood approaches greatly reduce the computational time with similar significance results. Finally, the GRS of the wild bird species contributing the poultry farm outbreaks were constructed based on the selection of bird species with the significance level under 0.1 and the prediction accuracy was validated with AUCs, which were greater than 80% after adjustment for environmental factors when both migratory and residential bird species were considered or only migratory bird species. The frameworks of GRS development can be customized based on the observational wild bird species distribution in different countries. The optimal GRS cutoff could be used to enhance the current AIV surveillance for continued monitoring of associations between wild hosts and detected outbreaks in poultry premises as an early-warning sign of a possible virus host range expansion into a new wild species that is not currently subject to surveillance<sup><xref ref-type="bibr" rid="CR32">32</xref>,<xref ref-type="bibr" rid="CR33">33</xref></sup>.</p><p id="Par54">To quantify the risk for AIV exchange at the interface of domestic poultry and wild birds, we previously introduced the propensity score matching method and employed bootstrap resampling to generate multiple iterations of McNemar <inline-formula id="IEq85"><alternatives><tex-math id="d33e2222">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{{\upchi\:}}_{1}^{2}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq84.gif"/></alternatives></inline-formula> values, as described in a previous study<sup><xref ref-type="bibr" rid="CR14">14</xref></sup>. However, such an approach was unable to incorporate more variables into the model build-up although propensity scores can be calculated either with or without the inclusion of environmental factors. When no adjustment is made, the resulting estimate is referred to as the &#8216;naive estimate.&#8217; In this study, we refrain from presenting an extensive list detailing the &#8220;effects&#8221; of all significant variables (bird species) and a set of potential environmental and terrestrial factors. Instead, we incorporate all the variables deemed essential for adjustment by estimating a propensity score that encompasses all the necessary adjustment variables. Then the conditional likelihood techniques were applied based on traditional matching or counter-matching configurations to estimate the effects of individual bird species on HPAIV poultry farm outbreaks considering prior and posterior adjustment. To effectively synthesize the information, we utilized a comprehensive approach that integrated epidemiological 1:m matching, and counter-matching, with flexibility in selecting &#8220;m&#8221; (e.g., m&#8201;=&#8201;1, 3, and 5). This method was implemented to ensure the consistency and comparability of results obtained through various conditional likelihood inferences, promoting an alignment between them. Interestingly, two additional wild bird species were found statistically significantly associated with HPAIV poultry farm outbreaks (P-value&#8201;&lt;&#8201;0.05 under two-tail test), including Caspian tern, and peregrine falcon, which were not identified using McNemar with bootstrapping statistics. Regarding posterior adjustments, we will not combine them with prior adjustments during the likelihood construction. In other words, if prior adjustments have been applied (as seen in Table&#160;<xref rid="Tab2" ref-type="table">2</xref>), no additional posterior adjustments will be conducted. As shown in Tables&#160;<xref rid="Tab3" ref-type="table">3</xref> and 11 bird species previously identified as having significant relevance, it is evident that, in most cases, farmland (FL) and agricultural wetlands (AW) are more likely to be linked with HPAIV poultry farm outbreaks following posterior adjustment. This suggests that these two types of land cover contribute positively to the occurrence of avian influenza outbreaks<sup><xref ref-type="bibr" rid="CR19">19</xref>,<xref ref-type="bibr" rid="CR34">34</xref>,<xref ref-type="bibr" rid="CR35">35</xref></sup>. Moreover, it underscores the potential to simultaneously account for the cumulative effects of the same land cover factors, which are advantageous for the survival and foraging of multiple bird species. Therefore, such conditional likelihood techniques can be used to portray the influences of these diverse bird species at the interface of domestic and wild birds taking into account different ecological variables, including bird behaviors or virus genotypes.</p><p id="Par55">At the stage of model building for propensity score estimation, our approach is for logistic regression with all variables being dichotomized into binary categories without considering the abundancy of wild birds, which is one of the study limitations. While this approach may inevitably introduce some inefficiency in our efforts to avoid bias, an extension of this method can be considered when the number of checklists is categorized into several ordinal groups. With this approach, we have the flexibility to assess both linear and nonlinear effects by introducing dummy variables. For a specific bird species, let&#8217;s say &#8220;k,&#8221; if we categorize the reported checklist number into &#8220;three&#8221; categories based on defined cutoff points (<inline-formula id="IEq86"><alternatives><tex-math id="d33e2250">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{U}}_{k}\le\:{\text{c}}_{1},\:{\text{c}}_{1}{&lt;\text{U}}_{k}&lt;{\text{c}}_{2},$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq86.gif"/></alternatives></inline-formula> or <inline-formula id="IEq87"><alternatives><tex-math id="d33e2256">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{U}}_{k}\ge\:{\text{c}}_{2}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq87.gif"/></alternatives></inline-formula>, where <inline-formula id="IEq88"><alternatives><tex-math id="d33e2262">\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\:{\text{c}}_{1}{\:\text{a}\text{n}\text{d}\:\text{c}}_{2}$$\end{document}</tex-math><inline-graphic xlink:href="41598_2025_17678_Article_IEq88.gif"/></alternatives></inline-formula> are two selected cutoff points), then the variables in Eqs.&#160;(<xref rid="Equ1" ref-type="disp-formula">1</xref>) and (<xref rid="Equ2" ref-type="disp-formula">2</xref>) can be adjusted to account for linear or non-linear effects. It&#8217;s important to acknowledge, however, that this approach may also introduce bias due to potential misclassification.</p><p id="Par56">The unique epidemiological pattern of clade 2.3.4.4 HPAI H5 is potentially shaped by eco-evolutionary processes through (i) the interaction between the viruses and a wide range of wild birds; (ii) the continued selection for both higher transmissibility and virulence, as observed in ducks<sup><xref ref-type="bibr" rid="CR36">36</xref>&#8211;<xref ref-type="bibr" rid="CR39">39</xref></sup> or recently in milk cows<sup><xref ref-type="bibr" rid="CR40">40</xref></sup>. It is necessary to enhance global surveillance and improve the understanding of the ecological properties that contribute to and sustain the transmission of HPAIV in wild birds such as species composition, population size, and demographic migration patterns. Polygenic risk scores (PRS) are becoming an increasingly popular approach to predict complex disease risk by deriving weighted scores after summing the number of risk increasing variants that participants harbour<sup><xref ref-type="bibr" rid="CR41">41</xref></sup>. With the complexity of different wild bird species interacting with the poultry farms, the PRS framework motivates us to construct a poly-species GRS to summarize the avian influenza-associated wild bird species profile in the increasing large-scale population-level AIV-associated poultry farm outbreaks. Our study provides a robust approach to investigate the risk at the interface of domestic and wild birds. The high prediction accuracy of the GRS greater than 80% suggested its potential in outbreak prediction and implementing targeted surveillance.</p></sec><sec id="Sec10" sec-type="supplementary-material"><title>Supplementary Information</title><p>Below is the link to the electronic supplementary material.</p><p>
+<supplementary-material content-type="local-data" id="MOESM1" position="float" orientation="portrait"><media xlink:href="41598_2025_17678_MOESM1_ESM.docx" position="float" orientation="portrait"><caption><p>Supplementary Material 1</p></caption></media></supplementary-material>
+</p><p>
+<supplementary-material content-type="local-data" id="MOESM2" position="float" orientation="portrait"><media xlink:href="41598_2025_17678_MOESM2_ESM.xlsx" position="float" orientation="portrait"><caption><p>Supplementary Material 2</p></caption></media></supplementary-material>
+</p><p>
+<supplementary-material content-type="local-data" id="MOESM3" position="float" orientation="portrait"><media xlink:href="41598_2025_17678_MOESM3_ESM.xlsx" position="float" orientation="portrait"><caption><p>Supplementary Material 3</p></caption></media></supplementary-material>
+</p></sec></body><back><fn-group><fn><p><bold>Publisher&#8217;s note</bold></p><p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p></fn></fn-group><ack><title>Acknowledgements</title><p>We are thankful for the coding and computing works by Yen-Yi Chan and Chao-Hsuan Chang. This work is additionally supported by the grant &#8220;MOST 111-2118-M-005-003&#8221; from The National Science and Technology Council of Taiwan. The funding source of this study had no role in the study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding author had full access to all data in the study and final responsibility for the decision to submit for publication. The authors declare no conflict of interest of any form that might be perceived to influence the results or discussion reported in this paper.</p></ack><notes notes-type="author-contribution"><title>Author contributions</title><p>HDW formed the concept and performed the analysis for the tables and figures. DYC provided the data and conceptualized the framework. Both HDW and DYC co-wrote the manuscript.</p></notes><notes notes-type="data-availability"><title>Data availability</title><p>The datasets generated and/or analyzed during the current study are available in the open repository (aiv.nchu.edu.tw), except the dataset of poultry farms and HPAI outbreak farms due to the privacy of individual farm locations. However, the dataset of poultry farms and HPAI outbreak farms could be accessed by requesting the corresponding author. All experimental protocols for the identification of poultry farm-related data were approved and carried out in accordance with relevant guidelines and regulations of the Council of Agriculture, Taiwan.</p></notes><notes><title>Declarations</title><notes id="FPar1" notes-type="COI-statement"><title>Competing interests</title><p id="Par57">The authors declare no competing interests.</p></notes></notes><ref-list id="Bib1"><title>References</title><ref id="CR1"><label>1.</label><citation-alternatives><element-citation id="ec-CR1" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Yoon</surname><given-names>S</given-names></name><name name-style="western"><surname>Webby</surname><given-names>R</given-names></name><name name-style="western"><surname>Webster</surname><given-names>R</given-names></name></person-group><article-title>Evolution and ecology of influenza A viruses</article-title><source>Curr. Top. Microbiol. Immunol.</source><year>2014</year><volume>385</volume><fpage>359</fpage><lpage>375</lpage><pub-id pub-id-type="pmid">24990620</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/82_2014_396</pub-id></element-citation><mixed-citation id="mc-CR1" publication-type="journal">Yoon, S., Webby, R. &amp; Webster, R. Evolution and ecology of influenza A viruses. <italic toggle="yes">Curr. Top. Microbiol. Immunol.</italic><bold>385</bold>, 359&#8211;375 (2014).<pub-id pub-id-type="pmid">24990620</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/82_2014_396</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR2"><label>2.</label><citation-alternatives><element-citation id="ec-CR2" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Yamaji</surname><given-names>R</given-names></name><etal/></person-group><article-title>Pandemic potential of highly pathogenic avian influenza clade 2.3.4.4 A(H5) viruses</article-title><source>Rev. Med. Virol.</source><year>2020</year><volume>30</volume><fpage>e2099</fpage><pub-id pub-id-type="pmid">32135031</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/rmv.2099</pub-id><pub-id pub-id-type="pmcid">PMC9285678</pub-id></element-citation><mixed-citation id="mc-CR2" publication-type="journal">Yamaji, R. et al. Pandemic potential of highly pathogenic avian influenza clade 2.3.4.4 A(H5) viruses. <italic toggle="yes">Rev. Med. Virol.</italic><bold>30</bold>, e2099 (2020).<pub-id pub-id-type="pmid">32135031</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/rmv.2099</pub-id><pub-id pub-id-type="pmcid">PMC9285678</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR3"><label>3.</label><citation-alternatives><element-citation id="ec-CR3" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>Y</given-names></name><name name-style="western"><surname>Linster</surname><given-names>M</given-names></name><name name-style="western"><surname>Mendenhall</surname><given-names>I</given-names></name><name name-style="western"><surname>Su</surname><given-names>Y</given-names></name><name name-style="western"><surname>Smith</surname><given-names>G</given-names></name></person-group><article-title>Avian influenza viruses in humans: lessons from past outbreaks</article-title><source>Br. Med. Bull.</source><year>2019</year><volume>132</volume><fpage>81</fpage><lpage>95</lpage><pub-id pub-id-type="pmid">31848585</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bmb/ldz036</pub-id><pub-id pub-id-type="pmcid">PMC6992886</pub-id></element-citation><mixed-citation id="mc-CR3" publication-type="journal">Li, Y., Linster, M., Mendenhall, I., Su, Y. &amp; Smith, G. Avian influenza viruses in humans: lessons from past outbreaks. <italic toggle="yes">Br. Med. Bull.</italic><bold>132</bold>, 81&#8211;95 (2019).<pub-id pub-id-type="pmid">31848585</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bmb/ldz036</pub-id><pub-id pub-id-type="pmcid">PMC6992886</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR4"><label>4.</label><citation-alternatives><element-citation id="ec-CR4" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lee</surname><given-names>D</given-names></name><name name-style="western"><surname>Bertran</surname><given-names>K</given-names></name><name name-style="western"><surname>Kwon</surname><given-names>J</given-names></name><name name-style="western"><surname>Swayne</surname><given-names>D</given-names></name></person-group><article-title>Evolution, global spread, and pathogenicity of highly pathogenic avian influenza H5Nx clade 2.3.4.4</article-title><source>J. Vet. Sci.</source><year>2017</year><volume>18</volume><fpage>269</fpage><lpage>280</lpage><pub-id pub-id-type="pmid">28859267</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4142/jvs.2017.18.S1.269</pub-id><pub-id pub-id-type="pmcid">PMC5583414</pub-id></element-citation><mixed-citation id="mc-CR4" publication-type="journal">Lee, D., Bertran, K., Kwon, J. &amp; Swayne, D. Evolution, global spread, and pathogenicity of highly pathogenic avian influenza H5Nx clade 2.3.4.4. <italic toggle="yes">J. Vet. Sci.</italic><bold>18</bold>, 269&#8211;280 (2017).<pub-id pub-id-type="pmid">28859267</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4142/jvs.2017.18.S1.269</pub-id><pub-id pub-id-type="pmcid">PMC5583414</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR5"><label>5.</label><citation-alternatives><element-citation id="ec-CR5" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Martin</surname><given-names>V</given-names></name><etal/></person-group><article-title>History and evolution of HPAI viruses in Southeast Asia</article-title><source>Ann. N Y Acad. Sci.</source><year>2006</year><volume>1081</volume><fpage>153</fpage><lpage>162</lpage><pub-id pub-id-type="pmid">17135505</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1196/annals.1373.017</pub-id></element-citation><mixed-citation id="mc-CR5" publication-type="journal">Martin, V. et al. History and evolution of HPAI viruses in Southeast Asia. <italic toggle="yes">Ann. N Y Acad. Sci.</italic><bold>1081</bold>, 153&#8211;162 (2006).<pub-id pub-id-type="pmid">17135505</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1196/annals.1373.017</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR6"><label>6.</label><mixed-citation publication-type="other">Claes, F., Morzaria, S. &amp; Donis, R. Emergence and dissemination of clade 2.3.4.4 H5Nx influenza viruses-how is the Asian HPAI H5 lineage maintained. <italic toggle="yes">Curr Opin. Virol</italic><bold>16</bold> (2016).<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.coviro.2016.02.005</pub-id><pub-id pub-id-type="pmid">26991931</pub-id></mixed-citation></ref><ref id="CR7"><label>7.</label><mixed-citation publication-type="other">Xie, R. et al. The episodic resurgence of highly pathogenic avian influenza H5 virus. <italic toggle="yes">Nature</italic> (2023). Online ahead of print.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41586-023-06631-2</pub-id><pub-id pub-id-type="pmid">37853121</pub-id></mixed-citation></ref><ref id="CR8"><label>8.</label><citation-alternatives><element-citation id="ec-CR8" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Tian</surname><given-names>H</given-names></name><etal/></person-group><article-title>Avian influenza H5N1 viral and bird migration networks in Asia</article-title><source>Proc. Natl. Acad. Sci. U S A</source><year>2015</year><volume>112</volume><fpage>172</fpage><lpage>177</lpage><pub-id pub-id-type="pmid">25535385</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1405216112</pub-id><pub-id pub-id-type="pmcid">PMC4291667</pub-id></element-citation><mixed-citation id="mc-CR8" publication-type="journal">Tian, H. et al. Avian influenza H5N1 viral and bird migration networks in Asia. <italic toggle="yes">Proc. Natl. Acad. Sci. U S A</italic>. <bold>112</bold>, 172&#8211;177 (2015).<pub-id pub-id-type="pmid">25535385</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1405216112</pub-id><pub-id pub-id-type="pmcid">PMC4291667</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR9"><label>9.</label><citation-alternatives><element-citation id="ec-CR9" publication-type="journal"><person-group person-group-type="author"><collab>Global Consortium for H5N8 and Related Influenza Viruses</collab></person-group><article-title>Role for migratory wild birds in the global spread of avian influenza H5N8</article-title><source>Science</source><year>2016</year><volume>354</volume><fpage>213</fpage><lpage>217</lpage><pub-id pub-id-type="pmid">27738169</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.aaf8852</pub-id><pub-id pub-id-type="pmcid">PMC5972003</pub-id></element-citation><mixed-citation id="mc-CR9" publication-type="journal">Global Consortium for H5N8 and Related Influenza Viruses. Role for migratory wild birds in the global spread of avian influenza H5N8. <italic toggle="yes">Science</italic><bold>354</bold>, 213&#8211;217 (2016).<pub-id pub-id-type="pmid">27738169</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.aaf8852</pub-id><pub-id pub-id-type="pmcid">PMC5972003</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR10"><label>10.</label><citation-alternatives><element-citation id="ec-CR10" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Poulson</surname><given-names>R</given-names></name><name name-style="western"><surname>Brown</surname><given-names>J</given-names></name></person-group><article-title>Wild bird surveillance for avian influenza virus</article-title><source>Methods Mol. Biol.</source><year>2020</year><volume>2123</volume><fpage>93</fpage><lpage>112</lpage><pub-id pub-id-type="pmid">32170683</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-1-0716-0346-8_8</pub-id></element-citation><mixed-citation id="mc-CR10" publication-type="journal">Poulson, R. &amp; Brown, J. Wild bird surveillance for avian influenza virus. <italic toggle="yes">Methods Mol. Biol.</italic><bold>2123</bold>, 93&#8211;112 (2020).<pub-id pub-id-type="pmid">32170683</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/978-1-0716-0346-8_8</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR11"><label>11.</label><citation-alternatives><element-citation id="ec-CR11" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Machalaba</surname><given-names>C</given-names></name><etal/></person-group><article-title>Global avian influenza surveillance in wild birds: a strategy to capture viral diversity</article-title><source>Emerg. Infect. Dis.</source><year>2015</year><volume>21</volume><fpage>e1</fpage><lpage>7</lpage><pub-id pub-id-type="pmid">25811221</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3201/eid2104.141415</pub-id><pub-id pub-id-type="pmcid">PMC4378471</pub-id></element-citation><mixed-citation id="mc-CR11" publication-type="journal">Machalaba, C. et al. Global avian influenza surveillance in wild birds: a strategy to capture viral diversity. <italic toggle="yes">Emerg. Infect. Dis.</italic><bold>21</bold>, e1&#8211;7 (2015).<pub-id pub-id-type="pmid">25811221</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3201/eid2104.141415</pub-id><pub-id pub-id-type="pmcid">PMC4378471</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR12"><label>12.</label><citation-alternatives><element-citation id="ec-CR12" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Olsen</surname><given-names>B</given-names></name><etal/></person-group><article-title>Global patterns of influenza a virus in wild birds</article-title><source>Science</source><year>2006</year><volume>312</volume><fpage>384</fpage><lpage>388</lpage><pub-id pub-id-type="pmid">16627734</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1122438</pub-id></element-citation><mixed-citation id="mc-CR12" publication-type="journal">Olsen, B. et al. Global patterns of influenza a virus in wild birds. <italic toggle="yes">Science</italic><bold>312</bold>, 384&#8211;388 (2006).<pub-id pub-id-type="pmid">16627734</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.1122438</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR13"><label>13.</label><citation-alternatives><element-citation id="ec-CR13" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ciminski</surname><given-names>K</given-names></name><name name-style="western"><surname>Chase</surname><given-names>G</given-names></name><name name-style="western"><surname>Schwemmle</surname><given-names>M</given-names></name><name name-style="western"><surname>Beer</surname><given-names>M</given-names></name></person-group><article-title>Advocating a watch-and-prepare approach with avian influenza</article-title><source>Nat. Microbiol.</source><year>2023</year><volume>8</volume><fpage>1603</fpage><lpage>1605</lpage><pub-id pub-id-type="pmid">37644326</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41564-023-01457-0</pub-id></element-citation><mixed-citation id="mc-CR13" publication-type="journal">Ciminski, K., Chase, G., Schwemmle, M. &amp; Beer, M. Advocating a watch-and-prepare approach with avian influenza. <italic toggle="yes">Nat. Microbiol.</italic><bold>8</bold>, 1603&#8211;1605 (2023).<pub-id pub-id-type="pmid">37644326</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41564-023-01457-0</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR14"><label>14.</label><citation-alternatives><element-citation id="ec-CR14" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wu</surname><given-names>H</given-names></name><etal/></person-group><article-title>Integrating citizen scientist data into the surveillance system for avian influenza virus, Taiwan</article-title><source>Emerg. Infect. Dis.</source><year>2023</year><volume>29</volume><fpage>45</fpage><lpage>53</lpage><pub-id pub-id-type="pmid">36573518</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3201/eid2901.220659</pub-id><pub-id pub-id-type="pmcid">PMC9796195</pub-id></element-citation><mixed-citation id="mc-CR14" publication-type="journal">Wu, H. et al. Integrating citizen scientist data into the surveillance system for avian influenza virus, Taiwan. <italic toggle="yes">Emerg. Infect. Dis.</italic><bold>29</bold>, 45&#8211;53 (2023).<pub-id pub-id-type="pmid">36573518</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3201/eid2901.220659</pub-id><pub-id pub-id-type="pmcid">PMC9796195</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR15"><label>15.</label><citation-alternatives><element-citation id="ec-CR15" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chris</surname><given-names>W</given-names></name><name name-style="western"><surname>Brian</surname><given-names>S</given-names></name><name name-style="western"><surname>Marshall</surname><given-names>I</given-names></name><name name-style="western"><surname>Daniel</surname><given-names>F</given-names></name><name name-style="western"><surname>Steve</surname><given-names>K</given-names></name></person-group><article-title>eBird: engaging birders in science and conservation</article-title><source>PLoS Biol.</source><year>2011</year><volume>9</volume><fpage>e1001220</fpage><pub-id pub-id-type="pmid">22205876</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pbio.1001220</pub-id><pub-id pub-id-type="pmcid">PMC3243722</pub-id></element-citation><mixed-citation id="mc-CR15" publication-type="journal">Chris, W., Brian, S., Marshall, I., Daniel, F. &amp; Steve, K. eBird: engaging birders in science and conservation. <italic toggle="yes">PLoS Biol.</italic><bold>9</bold>, e1001220 (2011).<pub-id pub-id-type="pmid">22205876</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pbio.1001220</pub-id><pub-id pub-id-type="pmcid">PMC3243722</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR16"><label>16.</label><citation-alternatives><element-citation id="ec-CR16" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sullivan</surname><given-names>BL</given-names></name><etal/></person-group><article-title>eBird: a citizen-based bird observation network in the biological sciences</article-title><source>Biol. Conserv.</source><year>2009</year><volume>142</volume><fpage>2282</fpage><lpage>2292</lpage></element-citation><mixed-citation id="mc-CR16" publication-type="journal">Sullivan, B. L. et al. eBird: a citizen-based bird observation network in the biological sciences. <italic toggle="yes">Biol. Conserv.</italic><bold>142</bold>, 2282&#8211;2292 (2009).</mixed-citation></citation-alternatives></ref><ref id="CR17"><label>17.</label><citation-alternatives><element-citation id="ec-CR17" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Sullivana</surname><given-names>BL</given-names></name><etal/></person-group><article-title>The eBird enterprise: an integrated approach to development and application of citizen science</article-title><source>Biol. Conserv.</source><year>2014</year><volume>169</volume><fpage>31</fpage><lpage>40</lpage></element-citation><mixed-citation id="mc-CR17" publication-type="journal">Sullivana, B. L. et al. The eBird enterprise: an integrated approach to development and application of citizen science. <italic toggle="yes">Biol. Conserv.</italic><bold>169</bold>, 31&#8211;40 (2014).</mixed-citation></citation-alternatives></ref><ref id="CR18"><label>18.</label><citation-alternatives><element-citation id="ec-CR18" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chang</surname><given-names>C</given-names></name><etal/></person-group><article-title>Lessons from the largest epidemic of avian influenza viruses in taiwan, 2015</article-title><source>Avian Dis.</source><year>2016</year><volume>60</volume><fpage>156</fpage><lpage>171</lpage><pub-id pub-id-type="pmid">27309051</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1637/11168-051915-Reg</pub-id></element-citation><mixed-citation id="mc-CR18" publication-type="journal">Chang, C. et al. Lessons from the largest epidemic of avian influenza viruses in taiwan, 2015. <italic toggle="yes">Avian Dis.</italic><bold>60</bold>, 156&#8211;171 (2016).<pub-id pub-id-type="pmid">27309051</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1637/11168-051915-Reg</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR19"><label>19.</label><citation-alternatives><element-citation id="ec-CR19" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Liang</surname><given-names>WS</given-names></name><etal/></person-group><article-title>Ecological factors associated with persistent circulation of multiple highly pathogenic avian influenza viruses among poultry farms in Taiwan during 2015-17</article-title><source>PLoS One</source><year>2020</year><volume>15</volume><fpage>e0236581</fpage><pub-id pub-id-type="pmid">32790744</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0236581</pub-id><pub-id pub-id-type="pmcid">PMC7425926</pub-id></element-citation><mixed-citation id="mc-CR19" publication-type="journal">Liang, W. S. et al. Ecological factors associated with persistent circulation of multiple highly pathogenic avian influenza viruses among poultry farms in Taiwan during 2015-17. <italic toggle="yes">PLoS One</italic>. <bold>15</bold>, e0236581 (2020).<pub-id pub-id-type="pmid">32790744</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0236581</pub-id><pub-id pub-id-type="pmcid">PMC7425926</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR20"><label>20.</label><citation-alternatives><element-citation id="ec-CR20" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cheng</surname><given-names>M</given-names></name><name name-style="western"><surname>Lee</surname><given-names>M</given-names></name><name name-style="western"><surname>Ho</surname><given-names>Y</given-names></name><name name-style="western"><surname>Chyi</surname><given-names>W</given-names></name><name name-style="western"><surname>Wang</surname><given-names>C</given-names></name></person-group><article-title>Avian influenza monitoring in migrating birds in Taiwan during 1998&#8211;2007</article-title><source>Avian Dis.</source><year>2010</year><volume>54</volume><fpage>109</fpage><lpage>114</lpage><pub-id pub-id-type="pmid">20408408</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1637/8960-061709-Reg.1</pub-id></element-citation><mixed-citation id="mc-CR20" publication-type="journal">Cheng, M., Lee, M., Ho, Y., Chyi, W. &amp; Wang, C. Avian influenza monitoring in migrating birds in Taiwan during 1998&#8211;2007. <italic toggle="yes">Avian Dis.</italic><bold>54</bold>, 109&#8211;114 (2010).<pub-id pub-id-type="pmid">20408408</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1637/8960-061709-Reg.1</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR21"><label>21.</label><citation-alternatives><element-citation id="ec-CR21" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>L</given-names></name><etal/></person-group><article-title>Reassortant clade 2.3.4.4 of highly pathogenic avian influenza A(H5N6) virus, taiwan, 2017</article-title><source>Emerg. Infect. Dis.</source><year>2018</year><volume>24</volume><fpage>1147</fpage><lpage>1149</lpage><pub-id pub-id-type="pmid">29774853</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3201/eid2406.172071</pub-id><pub-id pub-id-type="pmcid">PMC6004838</pub-id></element-citation><mixed-citation id="mc-CR21" publication-type="journal">Chen, L. et al. Reassortant clade 2.3.4.4 of highly pathogenic avian influenza A(H5N6) virus, taiwan, 2017. <italic toggle="yes">Emerg. Infect. Dis.</italic><bold>24</bold>, 1147&#8211;1149 (2018).<pub-id pub-id-type="pmid">29774853</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3201/eid2406.172071</pub-id><pub-id pub-id-type="pmcid">PMC6004838</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR22"><label>22.</label><citation-alternatives><element-citation id="ec-CR22" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Li</surname><given-names>Y</given-names></name><etal/></person-group><article-title>From emergence to endemicity of highly pathogenic H5 avian influenza viruses in Taiwan</article-title><source>Nat. Commun.</source><year>2024</year><volume>15</volume><fpage>9348</fpage><pub-id pub-id-type="pmid">39472594</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-024-53816-y</pub-id><pub-id pub-id-type="pmcid">PMC11522503</pub-id></element-citation><mixed-citation id="mc-CR22" publication-type="journal">Li, Y. et al. From emergence to endemicity of highly pathogenic H5 avian influenza viruses in Taiwan. <italic toggle="yes">Nat. Commun.</italic><bold>15</bold>, 9348 (2024).<pub-id pub-id-type="pmid">39472594</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41467-024-53816-y</pub-id><pub-id pub-id-type="pmcid">PMC11522503</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR23"><label>23.</label><mixed-citation publication-type="other">Greene, W. Accounting for excess zeros and sample selection in Poisson and negative binomial regression models. <italic toggle="yes">NYU Working Paper No. EC-94-10</italic> (1994).</mixed-citation></ref><ref id="CR24"><label>24.</label><citation-alternatives><element-citation id="ec-CR24" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>WJ</given-names></name><name name-style="western"><surname>Lo</surname><given-names>CC</given-names></name><name name-style="western"><surname>Tsai</surname><given-names>FA</given-names></name><name name-style="western"><surname>Chang</surname><given-names>A</given-names></name></person-group><article-title>Y. Using open data to Establish a multi-temporal and terrestrial environmental dataset of Taiwan</article-title><source>Taiwan. J. Biodivers. (in Chinese)</source><year>2020</year><volume>22</volume><fpage>13</fpage><lpage>44</lpage></element-citation><mixed-citation id="mc-CR24" publication-type="journal">Chen, W. J., Lo, C. C., Tsai, F. A. &amp; Chang, A. Y. Using open data to Establish a multi-temporal and terrestrial environmental dataset of Taiwan. <italic toggle="yes">Taiwan. J. Biodivers. (in Chinese)</italic>. <bold>22</bold>, 13&#8211;44 (2020).</mixed-citation></citation-alternatives></ref><ref id="CR25"><label>25.</label><citation-alternatives><element-citation id="ec-CR25" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lambert</surname><given-names>D</given-names></name></person-group><article-title>Zero-inflated Poisson regression, with an application to defects in manufacturing</article-title><source>Technometrics</source><year>1992</year><volume>34</volume><fpage>1</fpage><lpage>14</lpage></element-citation><mixed-citation id="mc-CR25" publication-type="journal">Lambert, D. Zero-inflated Poisson regression, with an application to defects in manufacturing. <italic toggle="yes">Technometrics</italic><bold>34</bold>, 1&#8211;14 (1992).</mixed-citation></citation-alternatives></ref><ref id="CR26"><label>26.</label><citation-alternatives><element-citation id="ec-CR26" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ing</surname><given-names>C</given-names></name><name name-style="western"><surname>Lai</surname><given-names>T</given-names></name></person-group><article-title>A Stepwise regression method and consistent model selection for high-dimensional sparse linear models</article-title><source>Statistica Sinica</source><year>2011</year><volume>21</volume><fpage>1473</fpage><lpage>1513</lpage></element-citation><mixed-citation id="mc-CR26" publication-type="journal">Ing, C. &amp; Lai, T. A Stepwise regression method and consistent model selection for high-dimensional sparse linear models. <italic toggle="yes">Statistica Sinica</italic>. <bold>21</bold>, 1473&#8211;1513 (2011).</mixed-citation></citation-alternatives></ref><ref id="CR27"><label>27.</label><citation-alternatives><element-citation id="ec-CR27" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zou</surname><given-names>H</given-names></name><name name-style="western"><surname>Hastie</surname><given-names>T</given-names></name></person-group><article-title>Regularization and variable selection via the elastic net</article-title><source>J. Royal Stat. Society: Ser. B (statistical methodology)</source><year>2005</year><volume>67</volume><fpage>301</fpage><lpage>320</lpage></element-citation><mixed-citation id="mc-CR27" publication-type="journal">Zou, H. &amp; Hastie, T. Regularization and variable selection via the elastic net. <italic toggle="yes">J. Royal Stat. Society: Ser. B (statistical methodology)</italic>. <bold>67</bold>, 301&#8211;320 (2005).</mixed-citation></citation-alternatives></ref><ref id="CR28"><label>28.</label><citation-alternatives><element-citation id="ec-CR28" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Rosenbaum</surname><given-names>PR</given-names></name><name name-style="western"><surname>Rubin</surname><given-names>DB</given-names></name></person-group><article-title>The central role of the propensity score in observational studies for causal effects</article-title><source>Biometrika</source><year>1983</year><volume>70</volume><fpage>41</fpage><lpage>55</lpage></element-citation><mixed-citation id="mc-CR28" publication-type="journal">Rosenbaum, P. R. &amp; Rubin, D. B. The central role of the propensity score in observational studies for causal effects. <italic toggle="yes">Biometrika</italic><bold>70</bold>, 41&#8211;55 (1983).</mixed-citation></citation-alternatives></ref><ref id="CR29"><label>29.</label><citation-alternatives><element-citation id="ec-CR29" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Thomas</surname><given-names>D</given-names></name></person-group><article-title>Addendum to methods of cohort analysis methods of cohort analysis: appraisal by application to asbestos mining by F. D. K. Liddell, J. C. McDonald, D. C. Thomas and Stella V. Cunliffe</article-title><source>J. Royal Stat. Society: Ser. B (statistical methodology)</source><year>1977</year><volume>140</volume><fpage>469</fpage><lpage>491</lpage></element-citation><mixed-citation id="mc-CR29" publication-type="journal">Thomas, D. Addendum to methods of cohort analysis methods of cohort analysis: appraisal by application to asbestos mining by F. D. K. Liddell, J. C. McDonald, D. C. Thomas and Stella V. Cunliffe. <italic toggle="yes">J. Royal Stat. Society: Ser. B (statistical methodology)</italic>. <bold>140</bold>, 469&#8211;491 (1977).</mixed-citation></citation-alternatives></ref><ref id="CR30"><label>30.</label><citation-alternatives><element-citation id="ec-CR30" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Langholz</surname><given-names>B</given-names></name><name name-style="western"><surname>Borgan</surname><given-names>&#216;</given-names></name></person-group><article-title>Counter-matching: A stratified nested case-control sampling method</article-title><source>Biometrika</source><year>1995</year><volume>82</volume><fpage>69</fpage><lpage>79</lpage></element-citation><mixed-citation id="mc-CR30" publication-type="journal">Langholz, B. &amp; Borgan, &#216;. Counter-matching: A stratified nested case-control sampling method. <italic toggle="yes">Biometrika</italic><bold>82</bold>, 69&#8211;79 (1995).</mixed-citation></citation-alternatives></ref><ref id="CR31"><label>31.</label><mixed-citation publication-type="other">Breslow, N. &amp; Day, N. Statistical Methods in Cancer Research Volume I: The Analysis of Case-Control Studies. <italic toggle="yes">IARC Scientific Publication</italic> (1980).<pub-id pub-id-type="pmid">7216345</pub-id></mixed-citation></ref><ref id="CR32"><label>32.</label><citation-alternatives><element-citation id="ec-CR32" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ciminski</surname><given-names>K</given-names></name><name name-style="western"><surname>Chase</surname><given-names>G</given-names></name><name name-style="western"><surname>Schwemmle</surname><given-names>M</given-names></name><name name-style="western"><surname>Beer</surname><given-names>M</given-names></name></person-group><source>Nat. Microbiol.</source><year>2023</year><volume>8</volume><fpage>1603</fpage><lpage>1605</lpage><pub-id pub-id-type="pmid">37644326</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41564-023-01457-0</pub-id></element-citation><mixed-citation id="mc-CR32" publication-type="journal">Ciminski, K., Chase, G., Schwemmle, M. &amp; Beer, M. <italic toggle="yes">Nat. Microbiol.</italic><bold>8</bold>, 1603&#8211;1605 (2023).<pub-id pub-id-type="pmid">37644326</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41564-023-01457-0</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR33"><label>33.</label><citation-alternatives><element-citation id="ec-CR33" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Runstadler</surname><given-names>J</given-names></name><etal/></person-group><article-title>Field research is essential to counter virological threats</article-title><source>J. Virol.</source><year>2023</year><volume>97</volume><fpage>e0054423</fpage><pub-id pub-id-type="pmid">37166327</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/jvi.00544-23</pub-id><pub-id pub-id-type="pmcid">PMC10231196</pub-id></element-citation><mixed-citation id="mc-CR33" publication-type="journal">Runstadler, J. et al. Field research is essential to counter virological threats. <italic toggle="yes">J. Virol.</italic><bold>97</bold>, e0054423 (2023).<pub-id pub-id-type="pmid">37166327</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1128/jvi.00544-23</pub-id><pub-id pub-id-type="pmcid">PMC10231196</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR34"><label>34.</label><citation-alternatives><element-citation id="ec-CR34" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gilbert</surname><given-names>M</given-names></name><name name-style="western"><surname>Pfeiffer</surname><given-names>D</given-names></name></person-group><article-title>Risk factor modelling of the spatio-temporal patterns of highly pathogenic avian influenza (HPAIV) H5N1: a review</article-title><source>Spat. Spatiotemporal Epidemiol.</source><year>2012</year><volume>3</volume><fpage>173</fpage><lpage>183</lpage><pub-id pub-id-type="pmid">22749203</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.sste.2012.01.002</pub-id><pub-id pub-id-type="pmcid">PMC3389348</pub-id></element-citation><mixed-citation id="mc-CR34" publication-type="journal">Gilbert, M. &amp; Pfeiffer, D. Risk factor modelling of the spatio-temporal patterns of highly pathogenic avian influenza (HPAIV) H5N1: a review. <italic toggle="yes">Spat. Spatiotemporal Epidemiol.</italic><bold>3</bold>, 173&#8211;183 (2012).<pub-id pub-id-type="pmid">22749203</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.sste.2012.01.002</pub-id><pub-id pub-id-type="pmcid">PMC3389348</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR35"><label>35.</label><citation-alternatives><element-citation id="ec-CR35" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hogerwerf</surname><given-names>L</given-names></name><etal/></person-group><article-title>Persistence of highly pathogenic avian influenza H5N1 virus defined by agro-ecological niche</article-title><source>Ecohealth</source><year>2010</year><volume>7</volume><fpage>213</fpage><lpage>225</lpage><pub-id pub-id-type="pmid">20585972</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10393-010-0324-z</pub-id><pub-id pub-id-type="pmcid">PMC3005111</pub-id></element-citation><mixed-citation id="mc-CR35" publication-type="journal">Hogerwerf, L. et al. Persistence of highly pathogenic avian influenza H5N1 virus defined by agro-ecological niche. <italic toggle="yes">Ecohealth</italic><bold>7</bold>, 213&#8211;225 (2010).<pub-id pub-id-type="pmid">20585972</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10393-010-0324-z</pub-id><pub-id pub-id-type="pmcid">PMC3005111</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR36"><label>36.</label><citation-alternatives><element-citation id="ec-CR36" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Barber</surname><given-names>M</given-names></name><name name-style="western"><surname>Aldridge</surname><given-names>JJ</given-names></name><name name-style="western"><surname>Webster</surname><given-names>R</given-names></name><name name-style="western"><surname>Magor</surname><given-names>K</given-names></name></person-group><article-title>Association of RIG-I with innate immunity of ducks to influenza</article-title><source>Proc. Natl. Acad. Sci. U S A</source><year>2010</year><volume>107</volume><fpage>5913</fpage><lpage>5918</lpage><pub-id pub-id-type="pmid">20308570</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1001755107</pub-id><pub-id pub-id-type="pmcid">PMC2851864</pub-id></element-citation><mixed-citation id="mc-CR36" publication-type="journal">Barber, M., Aldridge, J. J., Webster, R. &amp; Magor, K. Association of RIG-I with innate immunity of ducks to influenza. <italic toggle="yes">Proc. Natl. Acad. Sci. U S A</italic>. <bold>107</bold>, 5913&#8211;5918 (2010).<pub-id pub-id-type="pmid">20308570</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1001755107</pub-id><pub-id pub-id-type="pmcid">PMC2851864</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR37"><label>37.</label><citation-alternatives><element-citation id="ec-CR37" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hulse-Post</surname><given-names>D</given-names></name><etal/></person-group><article-title>Role of domestic ducks in the propagation and biological evolution of highly pathogenic H5N1 influenza viruses in Asia</article-title><source>Proc. Natl. Acad. Sci. U S A</source><year>2005</year><volume>102</volume><fpage>10682</fpage><lpage>10687</lpage><pub-id pub-id-type="pmid">16030144</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0504662102</pub-id><pub-id pub-id-type="pmcid">PMC1180796</pub-id></element-citation><mixed-citation id="mc-CR37" publication-type="journal">Hulse-Post, D. et al. Role of domestic ducks in the propagation and biological evolution of highly pathogenic H5N1 influenza viruses in Asia. <italic toggle="yes">Proc. Natl. Acad. Sci. U S A</italic>. <bold>102</bold>, 10682&#8211;10687 (2005).<pub-id pub-id-type="pmid">16030144</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.0504662102</pub-id><pub-id pub-id-type="pmcid">PMC1180796</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR38"><label>38.</label><citation-alternatives><element-citation id="ec-CR38" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kang</surname><given-names>H</given-names></name><etal/></person-group><article-title>Experimental infection of Mandarin Duck with highly pathogenic avian influenza A (H5N8 and H5N1) viruses</article-title><source>Vet. Microbiol.</source><year>2017</year><volume>198</volume><fpage>59</fpage><lpage>63</lpage><pub-id pub-id-type="pmid">28062008</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.vetmic.2016.12.005</pub-id></element-citation><mixed-citation id="mc-CR38" publication-type="journal">Kang, H. et al. Experimental infection of Mandarin Duck with highly pathogenic avian influenza A (H5N8 and H5N1) viruses. <italic toggle="yes">Vet. Microbiol.</italic><bold>198</bold>, 59&#8211;63 (2017).<pub-id pub-id-type="pmid">28062008</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.vetmic.2016.12.005</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR39"><label>39.</label><citation-alternatives><element-citation id="ec-CR39" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kim</surname><given-names>J</given-names></name><name name-style="western"><surname>Negovetich</surname><given-names>N</given-names></name><name name-style="western"><surname>Forrest</surname><given-names>H</given-names></name><name name-style="western"><surname>Webster</surname><given-names>R</given-names></name></person-group><article-title>Ducks: the Trojan horses of H5N1 influenza</article-title><source>Influenza Other Respir Viruses</source><year>2009</year><volume>3</volume><fpage>121</fpage><lpage>128</lpage><pub-id pub-id-type="pmid">19627369</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1750-2659.2009.00084.x</pub-id><pub-id pub-id-type="pmcid">PMC2749972</pub-id></element-citation><mixed-citation id="mc-CR39" publication-type="journal">Kim, J., Negovetich, N., Forrest, H. &amp; Webster, R. Ducks: the Trojan horses of H5N1 influenza. <italic toggle="yes">Influenza Other Respir Viruses</italic>. <bold>3</bold>, 121&#8211;128 (2009).<pub-id pub-id-type="pmid">19627369</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1750-2659.2009.00084.x</pub-id><pub-id pub-id-type="pmcid">PMC2749972</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR40"><label>40.</label><citation-alternatives><element-citation id="ec-CR40" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Burrough</surname><given-names>ER</given-names></name><etal/></person-group><article-title>Highly pathogenic avian influenza A(H5N1) clade 2.3.4.4b virus infection in domestic dairy cattle and cats, united states, 2024</article-title><source>Emerg. Infect. Dis.</source><year>2024</year><volume>30</volume><fpage>1335</fpage><lpage>1343</lpage><pub-id pub-id-type="pmid">38683888</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3201/eid3007.240508</pub-id><pub-id pub-id-type="pmcid">PMC11210653</pub-id></element-citation><mixed-citation id="mc-CR40" publication-type="journal">Burrough, E. R. et al. Highly pathogenic avian influenza A(H5N1) clade 2.3.4.4b virus infection in domestic dairy cattle and cats, united states, 2024. <italic toggle="yes">Emerg. Infect. Dis.</italic><bold>30</bold>, 1335&#8211;1343 (2024).<pub-id pub-id-type="pmid">38683888</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3201/eid3007.240508</pub-id><pub-id pub-id-type="pmcid">PMC11210653</pub-id></mixed-citation></citation-alternatives></ref><ref id="CR41"><label>41.</label><citation-alternatives><element-citation id="ec-CR41" publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Choi</surname><given-names>SW</given-names></name><name name-style="western"><surname>Mak</surname><given-names>TSH</given-names></name></person-group><article-title>O&#8217;Reilly, P. F. Tutorial: a guide to performing polygenic risk score analyses</article-title><source>Nat. Protoc.</source><year>2020</year><volume>15</volume><fpage>2759</fpage><lpage>2772</lpage><pub-id pub-id-type="pmid">32709988</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41596-020-0353-1</pub-id><pub-id pub-id-type="pmcid">PMC7612115</pub-id></element-citation><mixed-citation id="mc-CR41" publication-type="journal">Choi, S. W. &amp; Mak, T. S. H. O&#8217;Reilly, P. F. Tutorial: a guide to performing polygenic risk score analyses. <italic toggle="yes">Nat. Protoc.</italic><bold>15</bold>, 2759&#8211;2772 (2020).<pub-id pub-id-type="pmid">32709988</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41596-020-0353-1</pub-id><pub-id pub-id-type="pmcid">PMC7612115</pub-id></mixed-citation></citation-alternatives></ref></ref-list></back></article>
+        
+    </metadata>
+</record>
+    </GetRecord>
+
+</OAI-PMH>

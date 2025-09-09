@@ -1,0 +1,51 @@
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2025-09-09T14:03:27Z</responseDate>
+    <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:12407623" metadataPrefix="pmc">https://pmc.ncbi.nlm.nih.gov/api/oai/v1/mh/</request>
+    
+    <GetRecord>
+        <record>
+    <header>
+    <identifier>oai:pubmedcentral.nih.gov:12407623</identifier>
+    <datestamp>2025-09-04</datestamp>
+    
+        
+        <setSpec>pmc-open</setSpec>
+        
+    
+</header>
+    <metadata>
+        
+        <article xmlns="https://jats.nlm.nih.gov/ns/archiving/1.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.4/ https://jats.nlm.nih.gov/archiving/1.4/xsd/JATS-archivearticle1-4.xsd" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">ArXiv</journal-id><journal-id journal-id-type="iso-abbrev">ArXiv</journal-id><journal-id journal-id-type="pmc-domain-id">3862</journal-id><journal-id journal-id-type="pmc-domain">arxiv</journal-id><journal-id journal-id-type="publisher-id">arxiv</journal-id><journal-title-group><journal-title>ArXiv</journal-title></journal-title-group><issn pub-type="epub">2331-8422</issn><publisher><publisher-name>arXiv</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12407623</article-id><article-id pub-id-type="pmcid-ver">PMC12407623.1</article-id><article-id pub-id-type="pmcaid">12407623</article-id><article-id pub-id-type="pmcaiid">12407623</article-id><article-id pub-id-type="pmid">40909157</article-id><article-id pub-id-type="arxiv">arXiv:2508.19800v1</article-id><article-id pub-id-type="publisher-id">2508.19800</article-id><article-version-alternatives><article-version article-version-type="pmc-version">1</article-version><article-version article-version-type="number">1</article-version><article-version article-version-type="status">preprint</article-version></article-version-alternatives><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>A Multi-Layered Framework for Modeling Human Biology: From Basic AI
+Agents to a Full-Body AI Agent</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Wang</surname><given-names initials="A">Aoqi</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Liu</surname><given-names initials="J">Jiajia</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Wen</surname><given-names initials="J">Jianguo</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Luo</surname><given-names initials="Y">Yangyang</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Fan</surname><given-names initials="Z">Zhiwei</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Yang</surname><given-names initials="L">Liren</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Hu</surname><given-names initials="X">Xi</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Luo</surname><given-names initials="R">Ruihan</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Yu</surname><given-names initials="Y">Yankai</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Li</surname><given-names initials="S">Sophia</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhao</surname><given-names initials="W">Weiling</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Zhou</surname><given-names initials="X">Xiaobo</given-names></name></contrib></contrib-group><pub-date pub-type="epub"><day>27</day><month>8</month><year>2025</year></pub-date><issue-id pub-id-type="pmc-issue-id">496181</issue-id><elocation-id>arXiv:2508.19800v1</elocation-id><pub-history><event event-type="pmc-release"><date><day>27</day><month>08</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>04</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-05 09:25:55.133"><day>05</day><month>09</month><year>2025</year></date></event></pub-history><permissions><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This work is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ext-link>, which allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="nihpp-2508.19800v1.pdf"/><self-uri content-type="fulltext-html" xlink:href="http://arxiv.org/abs/2508.19800v1">http://arxiv.org/abs/2508.19800v1</self-uri><abstract><p>We envision the Full-Body AI Agent as a comprehensive AI system designed to
+simulate, analyze, and optimize the dynamic processes of the human body across
+multiple biological levels. By integrating computational models, machine
+learning tools, and experimental platforms, this system aims to replicate and
+predict both physiological and pathological processes, ranging from molecules
+and cells to tissues, organs, and entire body systems. Central to the Full-Body
+AI Agent is its emphasis on integration and coordination across these
+biological levels, enabling analysis of how molecular changes influence
+cellular behaviors, tissue responses, organ function, and systemic outcomes.
+With a focus on biological functionality, the system is designed to advance the
+understanding of disease mechanisms, support the development of therapeutic
+interventions, and enhance personalized medicine. We propose two specialized
+implementations to demonstrate the utility of this framework: (1) the
+metastasis AI Agent, a multi-scale metastasis scoring system that characterizes
+tumor progression across the initiation, dissemination, and colonization phases
+by integrating molecular, cellular, and systemic signals; and (2) the drug AI
+Agent, a system-level drug development paradigm in which a drug AI-Agent
+dynamically guides preclinical evaluations, including organoids and chip-based
+models, by providing full-body physiological constraints. This approach enables
+the predictive modeling of long-term efficacy and toxicity beyond what
+localized models alone can achieve. These two agents illustrate the potential
+of Full-Body AI Agent to address complex biomedical challenges through
+multi-level integration and cross-scale reasoning.</p></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front></article>
+        
+    </metadata>
+</record>
+    </GetRecord>
+
+</OAI-PMH>

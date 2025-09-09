@@ -1,0 +1,917 @@
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2025-09-09T13:52:09Z</responseDate>
+    <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:12406960" metadataPrefix="pmc">https://pmc.ncbi.nlm.nih.gov/api/oai/v1/mh/</request>
+    
+    <GetRecord>
+        <record>
+    <header>
+    <identifier>oai:pubmedcentral.nih.gov:12406960</identifier>
+    <datestamp>2025-09-04</datestamp>
+    
+        
+        <setSpec>jtgga</setSpec>
+        
+    
+        
+        <setSpec>pmc-open</setSpec>
+        
+    
+</header>
+    <metadata>
+        
+        <article xmlns="https://jats.nlm.nih.gov/ns/archiving/1.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.4/ https://jats.nlm.nih.gov/archiving/1.4/xsd/JATS-archivearticle1-4.xsd" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Turk Ger Gynecol Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Turk Ger Gynecol Assoc</journal-id><journal-id journal-id-type="pmc-domain-id">2240</journal-id><journal-id journal-id-type="pmc-domain">jtgga</journal-id><journal-title-group><journal-title>Journal of the Turkish German Gynecological Association</journal-title></journal-title-group><issn pub-type="ppub">1309-0399</issn><issn pub-type="epub">1309-0380</issn><publisher><publisher-name>Turkish German Gynecological Association</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12406960</article-id><article-id pub-id-type="pmcid-ver">PMC12406960.1</article-id><article-id pub-id-type="pmcaid">12406960</article-id><article-id pub-id-type="pmcaiid">12406960</article-id><article-id pub-id-type="pmid">40801263</article-id><article-id pub-id-type="doi">10.4274/jtgga.galenos.2025.2025-1-13</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Investigation</subject></subj-group></article-categories><title-group><article-title>The relationship between serum estradiol and progesterone levels one day before frozen embryo transfer and pregnancy rates in artificially prepared frozen embryo cycles: are there any threshold serum hormone levels to predict pregnancy in luteal support by the vaginal and subcutaneous route combined?</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-7730-6898</contrib-id><name name-style="western"><surname>Dikba&#351;</surname><given-names initials="L">Levent</given-names></name><xref rid="aff1" ref-type="aff">1</xref><email>ldikbas@hotmail.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-8121-7708</contrib-id><name name-style="western"><surname>Dahan</surname><given-names initials="MH">Michael H.</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><aff id="aff1"><label>1</label>Reyap Hospital IVF Center, Tekirda&#287;, T&#252;rkiye</aff><aff id="aff2"><label>2</label>Department of Obstetrics and Gynecology, McGill University, Qu&#233;bec, Canada</aff></contrib-group><pub-date publication-format="print" date-type="pub"><month>9</month><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="pub"><day>03</day><month>9</month><year>2025</year></pub-date><volume>26</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">496164</issue-id><fpage>157</fpage><lpage>166</lpage><history><date date-type="received"><day>15</day><month>3</month><year>2025</year></date><date date-type="accepted"><day>16</day><month>7</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>03</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>04</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-04 10:25:45.023"><day>04</day><month>09</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>Copyright&#169; 2025 The Author. Published by Galenos Publishing House on behalf of Turkish-German Gynecological Association.</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>Journal of the Turkish-German Gynecological Association</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND) International License.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="JTurkGerGynecolAssoc-26-3-157.pdf"/><abstract abstract-type="section"><sec><title>Objective</title><p>To investigate the potential influence of serum estradiol (E<sub>2</sub>) and progesterone (P<sub>4</sub>) levels, measured one day before artificially prepared frozen embryo transfer (FET), on pregnancy rates in women who received combined vaginal and injectable P<sub>4</sub>.</p></sec><sec><title>Material and Methods</title><p>This retrospective cohort study analyzed the association between serum E<sub>2</sub> and P<sub>4</sub> levels on the day before FET in 167 cases prepared with hormone replacement therapy between February 2022 and October 2023. The primary outcomes assessed were the pregnancy and live birth rates. We modeled a cut-off serum value based on luteal support for pregnancy. Luteal support was through a combination of vaginal suppositories and subcutaneous injections. Multivariate logistic regression was used to test relationships between pregnancy outcomes and independent variables. Cut-off values were evaluated using receiver operating characteristic (ROC) analysis and percentile analysis.</p></sec><sec><title>Results</title><p>No significant relationships were found between serum E<sub>2</sub> or P<sub>4</sub> levels on the day before FET and pregnancy rates. The mean E<sub>2</sub> level was 169.0&#177;51.9 pg/mL for individuals who achieved conception and 177.7&#177;56.9 pg/mL for individuals who did not conceive (p=0.45). The corresponding values for P<sub>4</sub> were 28.1&#177;18.4 ng/mL and 31.2&#177;25.4 ng/mL, respectively (p=0.73). No differences were observed in body mass index (BMI) or endometrial thickness between the groups. Cut-off values for predicting pregnancy using E<sub>2</sub> and P<sub>4</sub> could not be determined using ROCs. However, no one in the lowest 10<sup>th</sup> percentile of serum P<sub>4</sub> levels conceived (range 10.0-15.6 ng/mL). When multivariate logistic regression was used, this finding lost significance suggesting that low serum levels are related to age, BMI, and/or other factors.</p></sec><sec><title>Conclusion</title><p>In artificially prepared FET cycles, the serum E<sub>2</sub> and P<sub>4</sub> levels one day before embryo transfer do not significantly affect pregnancy rates in women with serum E<sub>2</sub> levels between 150-300 pg/mL and P<sub>4</sub> between 10-40 ng/mL when ROC was used for evaluation. However, percentile analysis suggests that serum P<sub>4</sub> levels should be more than 15.6 ng/mL when combined injectable and vaginal P<sub>4</sub> is used for programed FET. Although this finding may be due to the confounding effects of age, BMI, and other factors affecting steroid metabolism, when controlled for in the multivariate logistic regression.</p></sec></abstract><kwd-group><kwd>Estradiol</kwd><kwd>progesterone</kwd><kwd>frozen embryo transfer</kwd><kwd>pregnancy</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="introduction"><title>Introduction</title><p>Progesterone (P<sub>4</sub>) plays a vital role in implantation, as it leads to endometrial differentiation, myometrial quiescence, and immune modulation and possesses anti-inflammatory properties (<xref rid="ref-1" ref-type="bibr">1</xref>). It plays this role in both natural ovulations, fresh in vitro fertilization (IVF) cycles, and frozen embryo transfer (FET) cycles. The advantages of embryo vitrification include reduced rates of ovarian hyperstimulation syndrome and possibly higher pregnancy rates than fresh IVF cycles, although this remains controversial (<xref rid="ref-2" ref-type="bibr">2</xref>, <xref rid="ref-3" ref-type="bibr">3</xref>). The high survival rates of vitrified-thawed embryos have made FET very common. In the United States of America (USA), FET is practiced in approximately 70% of cases (<xref rid="ref-4" ref-type="bibr">4</xref>).&#160;</p><p>During hormone replacement therapy (HRT) cycles for FET, exogenous P<sub>4</sub> is the only means of providing luteal support when the corpus luteum is absent. In natural conceptions, the production of P<sub>4</sub> for implantation during the first trimester is roughly 50-55 mg/day, and serum values during this period typically range between 25-30 ng/mL (<xref rid="ref-5" ref-type="bibr">5</xref>). It is conceivable that these values could serve as the target levels for FET cycles. Nevertheless, this range may vary significantly in supplemented FET cycles because of the diverse characteristics of patients, including body mass index (BMI), vaginal and peripheral blood supply, and age.</p><p>For luteal support in HRT cycles, exogenous P<sub>4</sub> can be administered through vaginal, subcutaneous, intramuscular (IM), oral, or rectal routes. Vaginal P<sub>4</sub> exerts a uterine effect by bypassing the first-pass effect of the liver seen in oral and injectable routes. Vaginal P<sub>4</sub> results in lower serum levels but higher concentrations in endometrial tissue when compared to other routes of administration. In prior studies, micronized vaginal P<sub>4</sub>, 800 mg/day yielded a high endometrial tissue level of 11.5 ng/mL, however, the serum level was 11.9 ng/mL, which was a sub-physiological level. When IM P<sub>4</sub> was used, 100 mg/day the serum level was on average 69.8 ng/mL, while the endometrial tissue level remained at 1.4 ng/mL (<xref rid="ref-6" ref-type="bibr">6</xref>). However, the endometrial biopsies in both the injectable and vaginal groups showed similar levels of secretory transformation, indicating a low threshold for such alteration (<xref rid="ref-7" ref-type="bibr">7</xref>, <xref rid="ref-8" ref-type="bibr">8</xref>). When administered vaginally, the serum P<sub>4</sub> levels consistently remain sub-physiological, ranging from 10 to 15 ng/mL (<xref rid="ref-9" ref-type="bibr">9</xref>, <xref rid="ref-10" ref-type="bibr">10</xref>). In contrast with intra-muscular P<sub>4</sub>, uterine P<sub>4</sub> remains in a sub-physiological state even though supra-physiological serum levels are obtained. The administration of P<sub>4</sub> in combination, with both vaginal and intra-muscular or subcutaneous combined, ensures that serum and endometrial levels both remain within physiological ranges. Thus, attaining blood and endometrial levels comparable to a natural pregnancy (<xref rid="ref-11" ref-type="bibr">11</xref>). However, whether this is important for success remains controversial, because in many studies pregnancy rates are excellent with vaginal P<sub>4</sub> supplementation alone (<xref rid="ref-12" ref-type="bibr">12</xref>, <xref rid="ref-13" ref-type="bibr">13</xref>).</p><p>Despite extensive research, the most effective route and dosage of P<sub>4</sub> administration for luteal support in FET cycles has not been established. Europe favors vaginal administration, while the USA tends to favor the IM route or IM and vaginal combined (<xref rid="ref-14" ref-type="bibr">14</xref>). Subcutaneous P<sub>4</sub> is not available in North America. Despite studies suggesting a correlation between vaginal P<sub>4</sub> administration and low pregnancy rates (<xref rid="ref-15" ref-type="bibr">15</xref>), the literature contains conflicting results (<xref rid="ref-16" ref-type="bibr">16</xref>, <xref rid="ref-17" ref-type="bibr">17</xref>). These findings would suggest variations in patient response and pregnancy rates when using the same P<sub>4</sub> delivery type and dose. Therefore, the administration of luteal phase support could be customized based on the patient&#8217;s age, weight, genetic profile, and hormonal metabolism (<xref rid="ref-18" ref-type="bibr">18</xref>, <xref rid="ref-19" ref-type="bibr">19</xref>). Some recent studies have suggested that monitoring serum P<sub>4</sub> levels before or during embryo transfer can provide valuable insights into reproductive outcomes (<xref rid="ref-20" ref-type="bibr">20</xref>). Poor obstetric outcomes have been linked to low pre-transfer P<sub>4</sub> levels, and administering an extra (rescue) dose of P<sub>4</sub> might improve outcomes (<xref rid="ref-21" ref-type="bibr">21</xref>, <xref rid="ref-22" ref-type="bibr">22</xref>, <xref rid="ref-23" ref-type="bibr">23</xref>).</p><p>As combined P<sub>4</sub> administration yields physiological serum P<sub>4</sub> levels in the range of those observed during natural pregnancy, we opted for this protocol in our facility, aiming to attain enhanced physiological P<sub>4</sub> levels by employing a combination of vaginal micronized P<sub>4</sub> ovules and subcutaneous P<sub>4</sub>, quantified by measuring serum levels of P<sub>4</sub> and estradiol (E<sub>2</sub>) on FET day-1. Our hypothesis proposes that pre-FET serum P<sub>4</sub> and E<sub>2</sub> levels may influence pregnancy outcomes. The threshold values for the administration of combined P<sub>4</sub> during pregnancy have not been adequately researched. Thus our aim was to determine if there is a specific threshold value for E<sub>2</sub> or P<sub>4</sub> in patients who are undergoing combined subcutaneous and vaginal P<sub>4</sub> treatment for luteal phase support.</p></sec><sec><title>Material and Methods</title><p>All ethics protocols are followed as per the Declaration of Helsinki. This study was approved by the &#304;stanbul Atlas University Non-Interventional Research Ethics Committee (approval number: 03, date: 04.03.2024). All women had signed an informed consent that their data may be used in research studies.</p><p>The evaluation focused on FET cycles conducted in a single center from February 2022 to October 2023. In this retrospective cohort study, the predictive value of serum E<sub>2</sub> and P<sub>4</sub> levels on implantation rates in hormone-supplemented FET cycles was evaluated. The present study investigated if specific cut-off values for serum E<sub>2</sub> and serum P<sub>4</sub> could predict pregnancy when measured one day before FET (FET-1). A cohort of 167 patients who underwent FET were studied. A comparison was made between 79 patients who successfully conceived and 88 patients who failed to conceive. This study subsequently investigated the cut-off value of serum P<sub>4</sub> level for predicting pregnancy in 72 patients who did and did not conceive (52 pregnancies), who received combined route (vaginal + subcutaneous) P<sub>4</sub> for luteal phase support. Natural and modified natural cycles of FET were excluded. Due to the prohibition of gamete donation in our country, all subjects used autonomous gametes.</p><p>The vitrification of the embryo was performed using an equilibration solution comprising 7.5% ethylene glycol and 75% dimethyl sulfoxide for 8-12 minutes. They were subsequently exposed to a vitrification solution of 15% ethylene glycol, 15% dimethyl sulfoxide, and 0.5 molar sucrose for 60-90 seconds. The specimens were loaded into a hemi-straw using drops smaller than 1 &#181; and then submerged in liquid nitrogen. Processing was maintained at room temperature. The embryos underwent a warming process at 37 &#176;C for 1 minute in a 1 mL solution of 1M sucrose, followed by 3 minutes in 1 mL solution of 0.5M sucrose. The embryos were then exposed to a 10-minute incubation in a 1 mL HEPES solution containing 20% human serum albumin. Subsequently, the embryos were placed in a culture solution and kept for 2-4 hours until transfer.</p><p>The expanded embryos underwent transfer with FET, the predominant approach for embryo transfers in our center. The FET endometrial preparation protocol we used was a step-up oral E<sub>2</sub> method. Administration of E<sub>2</sub> tablet 2 mg orally (Estrofem<sup>&#174;</sup> tablet 2 mg, Novo Nordisk, Malov, Denmark) twice a day for seven days was started and then was increased to three times a day for six days, commencing on days 2-3 of menstruation. In patients were unable to tolerate E<sub>2</sub> orally, who exhibited insufficient endometrial thickness (ET), or who had a serum E<sub>2</sub> level of less than 150 pg/mL, we implemented the administration of supplementary E<sub>2</sub> via a vaginal or transdermal patch.</p><p>This treatment was preceded by transvaginal ultrasonography (TVUSG) (Voluson P8, General Electric Company, WI, USA) to confirm the absence of early selected follicles (&gt;11 mm) or functional ovarian cysts. The ET and ovaries were evaluated using TVUSG. If the ET&#160; was &#8805;7 mm, the serum P<sub>4</sub> level &lt;1.5 ng/mL, and the E<sub>2</sub> level &gt;150 pg/mL after at least 10 days of E<sub>2</sub> use, luteal phase support was started. To achieve this, support was given using a combined route involving vaginal micronized P<sub>4</sub> (4x200 mg) and subcutaneous water-based P<sub>4</sub> (2x25 mg). Other routes and dosages were also used, including vaginal P<sub>4</sub> only. These subjects using other routes were included in the evaluation of serum levels on pregnancy outcomes but excluded from the analysis on factors for prediction of pregnancy that only included the combined vaginal and subcutaneous P<sub>4</sub> group.</p><p>Oral P<sub>4</sub> was not used because of technical difficulties measuring its serum levels. Our decision to opt for the combined route was driven by the objective of achieving more consistent physiological blood levels, mitigating potential absorption issues associated with the vaginal route, as well as addressing the challenges associated with IM administration, such as sterile abscesses, and pain.</p><p>In patients with a P<sub>4</sub> level below 10 ng/mL, we added additional P<sub>4</sub>. Before transfer, we tried maintaining the serum E<sub>2</sub> level between 150-300 pg/mL and P<sub>4</sub> between 10-40 ng/mL. If the P<sub>4</sub> level was low, we employed the IM route for rescue in patients receiving single drugs and in obese patients receiving combined drugs. Post-rescue, we re-evaluated serum hormone levels on the day of transfer and proceeded with embryo transfer in patients who achieved the predetermined target values. We discontinued the cycle when hormone levels reached highs or lows outside of physiologic parameters. PGT-A was not performed except in a single case. If the serum beta-human chorionic gonadotrophin (&#946;-hCG) value exceeded 5 mIU/mL within 10-12 days following transfer, we considered this a pregnancy. The hormone tests were performed using chemiluminescence immunoassay (Abbott Alinity Analyzer, Abbott Laboratories, Chicago, IL, USA).</p><p>The Abbott Alinity P<sub>4</sub> assay has a linear measuring range of 0.5-40.0 ng/mL (1.6-127.2 nmol/L), with intra-assay coefficients of variation (CV%) ranging from 2.7% to 5.6% and inter-assay (within-laboratory) CV% ranging from 3.1% to 6.1%. The Abbott Alinity E<sub>2</sub> assay demonstrated a linear measuring range of 5 to 5,000 pg/mL, with intra-assay CV% ranging from 2.5% to 5.3% and inter-assay CV% ranging from 3.1% to 7.3%.</p><sec><title>Statistical analysis</title><p>The data analysis was conducted using IBM SPSS, version 23 (SPSS corporation, Chicago IL, USA). The presence of a normal distribution was evaluated through the Kolmogorov-Smirnov and Shapiro-Wilk tests. In <xref rid="table-1" ref-type="table">Table 1</xref>, Mann-Whitney U Test was used for the comparison of age, embryo cryopreservation age (ECA), gravidity, parity, BMI (kg/m<sup>2</sup>), FET CL (day), E<sub>2</sub> (pg/mL), luteinizing hormone (LH) (mIU/mL), P<sub>4</sub> (ng/mL) variables that did not conform to normal distribution, while independent samples t-test was used for the comparison of max ET (mm) and post-IM P<sub>4</sub> variables that conformed to normal distribution. In <xref rid="table-2" ref-type="table">Table 2</xref>, Pearson chi-square test was used to compare the number of ET and ET day according to the groups. In <xref rid="table-3" ref-type="table">Table 3</xref>, receiver operating characteristic (ROC) analysis was used to determine cut-off values for P<sub>4</sub> and E<sub>2</sub> variables in predicting pregnancy. <xref rid="table-4" ref-type="table">Table 4</xref> shows the percentile values of E<sub>2</sub> and P<sub>4</sub> variables. In <xref rid="table-5" ref-type="table">Table 5</xref>, independent variables affecting the biochemical pregnancy probability were analyzed by Binary Logistic Regression Analysis. In <xref rid="table-6" ref-type="table">Table 6</xref>, the independent variables affecting the clinical pregnancy probability were analyzed by binary logistic regression analysis. In <xref rid="table-7" ref-type="table">Table 7</xref>, the independent variables affecting the probability of live birth were analyzed by binary logistic regression analysis. The analysis results are presented as frequency (percentage) for categorical variables, mean &#177; standard deviation, and median (minimum-maximum) for quantitative variables. The significance level was set at p&lt;0.05. Data was divided into percentile groupings to further understand relationships with pregnancy outcomes.</p></sec></sec><sec sec-type="results"><title>Results</title><p>The parameters of the patients who achieved conception following FET (group A, n=79) and those who did not (group B, n=88) are presented in <xref rid="table-1" ref-type="table">Table 1</xref>. The two groups displayed similar demographic characteristics including age, BMI, gravidity, and parity. No significant differences were observed between the groups regarding the FET cycle duration, maximal ET, ECA, and pre-transfer E<sub>2</sub>, LH, and P<sub>4</sub> values.</p><p>Interestingly, in cycles where initial P<sub>4</sub> levels were low and rescue supplementation was needed, the serum P<sub>4</sub> level among individuals who achieved conception was 20.5&#177;5.4 ng/mL, while in those who did not conceive it was 46.4&#177;13.7 and this difference was approaching significance (p=0.08).</p><p>The pregnancy rates as a function of the number of embryos transferred and the day of development are displayed in <xref rid="table-2" ref-type="table">Table 2</xref>. The pregnancy rate following the transfer of two embryos vs. single (53.2% vs. 46.8%) was higher but not significantly so. Women primarily had blastocyst transfer, with 71% in group A and 92% in group B.</p><p>A ROC analysis was conducted to determine the optimal cut-off value for P<sub>4</sub> and E<sub>2</sub> the day before embryo transfer, in predicting pregnancy among patients using combined P<sub>4</sub> for luteal support in FET. The area under the curve was 0.427 for P<sub>4</sub> (<xref rid="figure-1" ref-type="fig">Figure 1</xref>) and 0.465 for E<sub>2</sub> (<xref rid="figure-2" ref-type="fig">Figure 2</xref>). There were no significant cut-off values for P<sub>4</sub> and E<sub>2</sub> parameters in predicting pregnancy in combined P<sub>4</sub> users (p=0.166 and p=0.441, respectively) (<xref rid="table-3" ref-type="table">Table 3</xref>). The serum P<sub>4</sub> and E<sub>2</sub> values in FET cycles were similar in those who did and did not conceive, leading to the absence of significant discriminating cut-off values. Of note, the E<sub>2</sub> value was not assessed before FET in seven patients who achieved pregnancy.&#160;</p><p>The serum E<sub>2</sub> and P<sub>4</sub> levels measured one day before FET were divided into percentiles to further investigate if certain non-binomial distributions could be detected in predicting outcomes and are presented in <xref rid="table-4" ref-type="table">Table 4</xref>. Among 72 patients, the mean E<sub>2</sub> value within the 0-10 percentile range was recorded as 97.7&#177;8.8 pg/mL, with a minimum value of 85.0 and a maximum value of 107.0 pg/mL, within the 11-90 percentile range as 165.9&#177;35.9 pg/mL, with a minimum value of 108.0 and a maximum value of 247.0 pg/mL, and in the 91-100 percentile range as 280.2&#177;42.7 pg/mL, with a minimum value of 251.0 pg/mL and a maximum value of 360.0 pg/mL (<xref rid="table-5" ref-type="table">Table 5</xref>).</p><p>Among the 60 patients in the group who experienced pregnancy (11-90<sup>th</sup> percentile), the median E<sub>2</sub> values were 165.9 pg/mL (129.9-201.9 pg/mL) one day before FET.</p><p>The percentiles of the P<sub>4</sub> parameter in pregnant women using combined P4 were examined, with no pregnant women identified within the 0-10 range. The mean P<sub>4</sub> value within the 0-10 percentile range was 12.6&#177;2.4 ng/mL, with a minimum value of 10.0 ng/mL and a maximum value of 15.6 ng/mL. Within the 11-90 percentile group the mean was 29.7&#177;12.0 ng/mL, with a minimum value of 16.7 ng/mL and a maximum value of 65.6 ng/mL. Within the 91-100 percentile group, the P<sub>4</sub> serum value exhibited a mean of 78.0&#177;15.7 ng/mL, with a minimum of 67.5 ng/mL and a maximum of 105.7 ng/mL.</p><p>Serum P<sub>4</sub> levels before FET were assessed in a cohort of 53 patients who underwent combined P<sub>4</sub> supplementation and successfully achieved pregnancy. Among this group (11<sup>th</sup>-90<sup>th</sup> percentile), the mean P<sub>4</sub> level was 29.3 ng/mL (15.2-43.5 ng/mL) in 49 individuals.</p><p>The rate of pregnancies achieved by vaginal P<sub>4</sub> was 41.9%, whereas combined (vaginal + subcutaneous) P<sub>4</sub> users had a similar pregnancy rate of 50.0% (p=0.36).</p><p>Independent variables affecting the probability of biochemical pregnancy, clinical pregnancy, and live birth were analyzed by multivariate binary logistic regression analysis when controlling for confounding effects and the data is presented in <xref rid="table-5" ref-type="table">Tables 5</xref>, <xref rid="table-6" ref-type="table">6</xref>, <xref rid="table-7" ref-type="table">7</xref>. When the model was analyzed, the independent variables lost significance for the probability of a positive pregnancy, clinical pregnancy, or live birth, including E<sub>2</sub> or P<sub>4</sub> levels.</p></sec><sec sec-type="discussion"><title>Discussion</title><p>Our findings indicate that serum E<sub>2</sub> and P<sub>4</sub> measurements measured one day before transfer do not serve as predictive factors for pregnancy rates in autologous FET cycles when different routes of E<sub>2</sub> supplementation and combined vaginal and injectable P<sub>4</sub> were used. The only exception to this was the group with a serum P<sub>4</sub> level of less than 15.5 ng/mL, who should likely have the embryo transfer aborted, since no pregnancies were seen in this group. This finding of P<sub>4</sub> cut-off is likely related to different P<sub>4</sub> metabolism due to patient age and BMI, since it was not significant in a multivariate logistic regression analysis controlling for confounding effects.</p><p>Similar to our results, previous studies have reported that pre-transfer E<sub>2</sub> monitoring did not affect pregnancy outcomes. Niu et al. (<xref rid="ref-12" ref-type="bibr">12</xref>) investigated the serum E<sub>2</sub> level on the day of P<sub>4</sub> initiation and determined no notable difference in ET and pregnancy rates. They reported E<sub>2</sub> levels at 25, 25-75, and 75-100 percentile as 110, 191, and 299 pg/mL (p&lt;0.01) and pregnancy rates of 44%, 40.8% and 41.9% (p&gt;0.05 for all comparisons), respectively. In addition, they found that ET did not correlate with serum E<sub>2</sub> level (<xref rid="ref-23" ref-type="bibr">23</xref>). These authors concluded that the serum E<sub>2</sub> level did not predict pregnancy in an E<sub>2</sub> step-up artificial endometrial preparation protocol in the absence of pituitary down-regulation. Comparable findings have been documented in other studies (<xref rid="ref-24" ref-type="bibr">24</xref>, <xref rid="ref-25" ref-type="bibr">25</xref>).</p><p>In contrast, Goldman et al. (<xref rid="ref-26" ref-type="bibr">26</xref>) reported that the quartile with the highest serum E<sub>2</sub> levels (mean 528 pg/mL) on the day of P<sub>4</sub> initiation had significantly lower ongoing pregnancy (OP) and live birth rates (LBR) compared to the quartile with the lowest levels (mean 212 pg/mL) (relative risk 0.66 and 0.70 for OP and LBR, respectively). No discrepancies were observed between the groups regarding ET and miscarriage rates. These findings led the researchers to conclude that elevated E<sub>2</sub> levels on the day of P<sub>4</sub> initiation in FET cycles with artificial preparation could be deleterious to implantation and live LBR.</p><p>In a randomized controlled study, Racca et al. (<xref rid="ref-27" ref-type="bibr">27</xref>) examined the effects of 7 and 14 days of E<sub>2</sub> priming in the artificial cycle for FET. They reported no significant differences regarding pregnancy, miscarriage, and LBR rates. The study observed similar serum E<sub>2</sub> levels after 7 and 14 days of E<sub>2</sub> priming, measuring 225.0&#177;73.8 pg/mL and 228.0&#177;100.8 pg/mL, respectively (p=0.84). The measurement of comparable serum E<sub>2</sub> levels among individuals who conceived and those who did not conceive in our study, suggests that assessing E<sub>2</sub> before transfer may lack practical utility.</p><p>Considering individualized luteal phase support to attain physiological P<sub>4</sub> levels during natural pregnancy is a rational approach to possibly enhance the pregnancy rate in FET (<xref rid="ref-20" ref-type="bibr">20</xref>, <xref rid="ref-21" ref-type="bibr">21</xref>, <xref rid="ref-28" ref-type="bibr">28</xref>). One study reported that the vaginal-only administration of P<sub>4</sub>, widely used in Europe, exhibited lower OP rates compared to IM or IM and vaginal administration. For that reason, the vaginal-only arm of the study was prematurely halted (<xref rid="ref-15" ref-type="bibr">15</xref>). A consensus has yet to be reached regarding the optimal serum P<sub>4</sub> level before or during transfer in artificial FET cycles. Melo et al. (<xref rid="ref-29" ref-type="bibr">29</xref>) conducted a thorough multicentre prospective cohort study to investigate the effect of frozen embryo transfer regimen on the association between serum P<sub>4</sub> and live birth. Their study reported serum P<sub>4</sub> levels &lt;7.8 ng/mL were associated with reduced odds of live birth and the mean adjusted probability of live birth increased non-linearly from 37.6% to 45.5% as serum P<sub>4</sub> rose between the 10<sup>th</sup> (7.8 ng/mL) and 90<sup>th</sup> (24.0 ng/mL) centiles.</p><p>A separate study indicated that administering 40 mg IM P<sub>4</sub> might rescue results if serum P<sub>4</sub> levels were low on the day of FET (&lt;10 ng/mL) (<xref rid="ref-30" ref-type="bibr">30</xref>). In their study, Labarta et al. (<xref rid="ref-22" ref-type="bibr">22</xref>) found that the minimum threshold for rescue was 9.2 ng/mL in patients who received vaginal P<sub>4</sub> alone. Our study primarily evaluated the combined route (vaginal 600 mg/day plus subcutaneous 50 mg/day) for luteal support in FET cycles, while P<sub>4</sub> levels were assessed one day before transfer. Our study showed no significant discrepancy in serum P<sub>4</sub> levels between patients who achieved pregnancy and those who did not. From our finding, we infer that serum P<sub>4</sub> on FET-1 does not independently predict conception when considering other factors. The optimal threshold for combined P<sub>4</sub> administration remains inadequately investigated.</p><p>Based on our findings, we conducted a subgroup analysis of patients who achieved pregnancy. Our aim was to ascertain whether there was a predictive threshold for pregnancy when implementing the combined P<sub>4</sub> regimen. No significant threshold value could be identified for pregnancy determination because of the similarity in serum P<sub>4</sub> levels among patients who achieved pregnancy with the combined application. Similarly, an analysis was conducted for the E<sub>2</sub> value, and no threshold value was identified. However, using percentiles suggested that a low P<sub>4</sub> level may affect outcomes, with a level of less than 15.5 ng/mL failing to result in any pregnancies. Although this was a small group the results are interesting and warrant further study.&#160; As the debate persists, well-designed prospective studies are necessary. When using multivariate logistic regression to control for confounding effects, the results lost significance, suggesting that the variables used in the analysis may contribute to alterations in P<sub>4</sub> metabolism that caused these low levels and the lack of pregnancies in this group.</p><sec><title>Study limitations</title><p>While acknowledging the limitations of the study, such as the small number of cases and the retrospective nature, it is worth noting that the study&#8217;s strength lies in the homogeneity of the patient group&#8217;s demographics. The study yielded no serum E<sub>2</sub> and P<sub>4</sub> cut-off values to predict pregnancy on FET day 1 when using ROCs. The observation that individuals who conceived displayed serum P<sub>4</sub> levels between 15 and 43 ng/mL suggest potential lower limits for P<sub>4</sub> on FET-1.</p></sec></sec><sec sec-type="conclusion"><title>Conclusion</title><p>Our findings indicate that striving to attain physiologic levels comparable to natural pregnancy through measuring serum E<sub>2</sub> and P<sub>4</sub> levels one day before transfer in autologous artificial FET cycles does not yield noteworthy variations in pregnancy outcomes. The study yielded no serum E<sub>2</sub> and P<sub>4</sub> cut-off values to predict pregnancy on FET day 1 by ROC analysis. In artificially prepared FET cycles, the serum E<sub>2</sub> and P<sub>4</sub> levels one day before embryo transfer did not significantly affect pregnancy rates in women with serum E<sub>2</sub> levels between 150-300 pg/mL and P<sub>4</sub> between 10-40 ng/mL, again using ROC curve analysis. However, the observation that all individuals who conceived had serum P<sub>4</sub> levels above 15.5 ng/mL suggests a lower limit for for P<sub>4</sub> on the day before embryo transfer. Women with P<sub>4</sub> levels less than this value should be considered for cycle cancellation. Of note, multivariate logistic regression analysis suggested that these findings may be due to confounding factors affecting P<sub>4</sub> metabolism. Larger, prospective studies are needed to validate our findings.</p></sec></body><back><fn-group><fn id="fn-0" fn-type="ethics"><p>
+<bold>Ethics Committee Approval:</bold>
+<italic toggle="yes"> This study was approved by the &#304;stanbul Atlas University Non-Interventional Research Ethics Committee (approval number: 03, date: 04.03.2024).</italic>
+</p></fn><fn id="fn-1" fn-type="consent"><p>
+<bold>Informed Consent:</bold>
+<italic toggle="yes"> All women had signed an informed consent that their data may be used in research studies.</italic>
+</p></fn><fn id="fn-2" fn-type="author-contributions"><p>
+<bold>Author Contributions:</bold>
+<italic toggle="yes"> Surgical and Medical Practices: L.D., Concept: L.D., Design: L.D., Data Collection or Processing: L.D., Analysis or Interpretation: L.D., M.H.D., Literature Search: L.D., Writing: L.D., M.H.D.</italic>
+</p></fn><fn id="fn-3" fn-type="COI-statement"><p>
+<bold>Conflict of Interest:</bold>
+<italic toggle="yes"> No conflict of interest is declared by the authors.</italic>
+</p></fn><fn id="fn-4" fn-type="financial-disclosure"><p>
+<bold>Financial Disclosure: </bold>
+<italic toggle="yes">The authors declared that this study received no financial support.</italic>
+</p></fn></fn-group><ref-list><title>References</title><ref id="ref-1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ranisavljevic</surname><given-names>N</given-names></name><name name-style="western"><surname>Huberlant</surname><given-names>S</given-names></name><name name-style="western"><surname>Montagut</surname><given-names>M</given-names></name><name name-style="western"><surname>Alonzo</surname><given-names>PM</given-names></name><name name-style="western"><surname>Darn&#233;</surname><given-names>B</given-names></name><name name-style="western"><surname>Languille</surname><given-names>S</given-names></name><etal/></person-group><article-title>Low luteal serum progesterone levels are associated with lower ongoing pregnancy and live birth rates in ART: Systematic Review and Meta-Analyses.</article-title><source>Front Endocrinol (Lausanne)</source><year iso-8601-date="2022">2022</year><volume>13</volume><fpage>892753</fpage><pub-id pub-id-type="pmid">35757393</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3389/fendo.2022.892753</pub-id><pub-id pub-id-type="pmcid">PMC9229589</pub-id></element-citation></ref><ref id="ref-2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Wei</surname><given-names>D</given-names></name><name name-style="western"><surname>Liu</surname><given-names>JY</given-names></name><name name-style="western"><surname>Sun</surname><given-names>Y</given-names></name><name name-style="western"><surname>Shi</surname><given-names>Y</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>B</given-names></name><name name-style="western"><surname>Liu</surname><given-names>JQ</given-names></name><etal/></person-group><article-title>Frozen versus fresh single blastocyst transfer in ovulatory women: a multicentre, randomised controlled trial.</article-title><source>Lancet</source><year iso-8601-date="2019">2019</year><volume>393</volume><issue>10178</issue><fpage>1310</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1016/s0140-6736(18)32843-5</pub-id><pub-id pub-id-type="pmid">30827784</pub-id></element-citation></ref><ref id="ref-3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Stormlund</surname><given-names>S</given-names></name><name name-style="western"><surname>Sopa</surname><given-names>N</given-names></name><name name-style="western"><surname>Zedeler</surname><given-names>A</given-names></name><name name-style="western"><surname>Bogstad</surname><given-names>J</given-names></name><name name-style="western"><surname>Pr&#230;torius</surname><given-names>L</given-names></name><name name-style="western"><surname>Nielsen</surname><given-names>HS</given-names></name><etal/></person-group><article-title>Freeze-all versus fresh blastocyst transfer strategy during in vitro fertilisation in women with regular menstrual cycles: multicentre randomised controlled trial.</article-title><source>BMJ</source><year iso-8601-date="2020">2020</year><volume>370</volume><fpage>m2519</fpage><pub-id pub-id-type="doi">10.1136/bmj.m2519</pub-id><pub-id pub-id-type="pmid">32759285</pub-id><pub-id pub-id-type="pmcid">PMC7399608</pub-id></element-citation></ref><ref id="ref-4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lee</surname><given-names>JC</given-names></name><name name-style="western"><surname>Calzada-Jorge</surname><given-names>NS</given-names></name><name name-style="western"><surname>Hipp</surname><given-names>HS</given-names></name><name name-style="western"><surname>Kawwass</surname><given-names>JF</given-names></name></person-group><article-title>Natural cycle frozen embryo transfer: a survey of current assisted reproductive technology practices in the US.</article-title><source>J Assist Reprod Genet</source><year iso-8601-date="2023">2023</year><volume>40</volume><issue>4</issue><fpage>891</fpage><lpage>99</lpage><pub-id pub-id-type="doi">10.1007/s10815-023-02751-w</pub-id><pub-id pub-id-type="pmid">36856966</pub-id><pub-id pub-id-type="pmcid">PMC10224901</pub-id></element-citation></ref><ref id="ref-5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Ku</surname><given-names>CW</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>VR</given-names></name><name name-style="western"><surname>Allen</surname><given-names>JC</given-names></name><name name-style="western"><surname>Tan</surname><given-names>NS</given-names></name><name name-style="western"><surname>&#216;stbye</surname><given-names>T</given-names></name><etal/></person-group><article-title>Gestational age-specific normative values and determinants of serum progesterone through the first trimester of pregnancy.</article-title><source>Sci Rep</source><year iso-8601-date="2021">2021</year><volume>11</volume><fpage>4161</fpage><pub-id pub-id-type="pmid">33603122</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41598-021-83805-w</pub-id><pub-id pub-id-type="pmcid">PMC7893162</pub-id></element-citation></ref><ref id="ref-6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Garg</surname><given-names>A</given-names></name><name name-style="western"><surname>Zielinska</surname><given-names>AP</given-names></name><name name-style="western"><surname>Yeung</surname><given-names>AC</given-names></name><name name-style="western"><surname>Abdelmalak</surname><given-names>R</given-names></name><name name-style="western"><surname>Chen</surname><given-names>R</given-names></name><name name-style="western"><surname>Hossain</surname><given-names>A</given-names></name><etal/></person-group><article-title>Luteal phase support in assisted reproductive technology.</article-title><source>Nat Rev Endocrinol</source><year iso-8601-date="2024">2024</year><volume>20</volume><fpage>149</fpage><lpage>67</lpage><pub-id pub-id-type="pmid">38110672</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/s41574-023-00921-5</pub-id></element-citation></ref><ref id="ref-7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Kalakota</surname><given-names>NR</given-names></name><name name-style="western"><surname>George</surname><given-names>LC</given-names></name><name name-style="western"><surname>Morelli</surname><given-names>SS</given-names></name><name name-style="western"><surname>Douglas</surname><given-names>NC</given-names></name><name name-style="western"><surname>Babwah</surname><given-names>AV</given-names></name></person-group><article-title>Towards an improved understanding of the effects of elevated progesterone levels on human endometrial receptivity and oocyte/embryo quality during assisted reproductive technologies.</article-title><source>Cells</source><year iso-8601-date="2022">2022</year><volume>11</volume><issue>9</issue><fpage>1405</fpage><pub-id pub-id-type="doi">10.3390/cells11091405</pub-id><pub-id pub-id-type="pmid">35563710</pub-id><pub-id pub-id-type="pmcid">PMC9105155</pub-id></element-citation></ref><ref id="ref-8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Labarta</surname><given-names>E</given-names></name><name name-style="western"><surname>Sebastian-Leon</surname><given-names>P</given-names></name><name name-style="western"><surname>Devesa-Peiro</surname><given-names>A</given-names></name><name name-style="western"><surname>Celada</surname><given-names>P</given-names></name><name name-style="western"><surname>Vidal</surname><given-names>C</given-names></name><name name-style="western"><surname>Giles</surname><given-names>J</given-names></name><etal/></person-group><article-title>Analysis of serum and endometrial progesterone in determining endometrial receptivity.</article-title><source>Hum Reprod</source><year iso-8601-date="2021">2021</year><volume>36</volume><fpage>2861</fpage><lpage>70</lpage><pub-id pub-id-type="pmid">34382075</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/humrep/deab184</pub-id></element-citation></ref><ref id="ref-9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Dashti</surname><given-names>S</given-names></name><name name-style="western"><surname>Eftekhar</surname><given-names>M</given-names></name></person-group><article-title>Luteal-phase support in assisted reproductive technology: an ongoing challenge.</article-title><source>Int J Reprod Biomed</source><year iso-8601-date="2021">2021</year><volume>19</volume><issue>9</issue><fpage>761</fpage><lpage>72</lpage><pub-id pub-id-type="doi">10.18502/ijrm.v19i9.9708</pub-id><pub-id pub-id-type="pmid">34723055</pub-id><pub-id pub-id-type="pmcid">PMC8548747</pub-id></element-citation></ref><ref id="ref-10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Boelig</surname><given-names>RC</given-names></name><name name-style="western"><surname>Zuppa</surname><given-names>AF</given-names></name><name name-style="western"><surname>Kraft</surname><given-names>WK</given-names></name><name name-style="western"><surname>Caritis</surname><given-names>S</given-names></name></person-group><article-title>Pharmacokinetics of vaginal progesterone in pregnancy.</article-title><source>Am J Obstet Gynecol</source><year iso-8601-date="2021">2021</year><volume>221</volume><fpage>263</fpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajog.2019.06.019</pub-id><pub-id pub-id-type="pmcid">PMC6732017</pub-id><pub-id pub-id-type="pmid">31211965</pub-id></element-citation></ref><ref id="ref-11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chetkowski</surname><given-names>RJ</given-names></name><name name-style="western"><surname>Gaggiotti-Marre</surname><given-names>S</given-names></name></person-group><article-title>Beyond the uterine first pass: optimizing programmed frozen embryo transfers. A mini-review.</article-title><source>F S Rep</source><year iso-8601-date="2021">2021</year><volume>2</volume><issue>3</issue><fpage>256</fpage><lpage>60</lpage><pub-id pub-id-type="doi">10.1016/j.xfre.2021.06.008</pub-id><pub-id pub-id-type="pmid">34553144</pub-id><pub-id pub-id-type="pmcid">PMC8441553</pub-id></element-citation></ref><ref id="ref-12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Niu</surname><given-names>Y</given-names></name><name name-style="western"><surname>Liu</surname><given-names>H</given-names></name><name name-style="western"><surname>Li</surname><given-names>X</given-names></name><name name-style="western"><surname>Zhao</surname><given-names>J</given-names></name><name name-style="western"><surname>Hao</surname><given-names>G</given-names></name><name name-style="western"><surname>Sun</surname><given-names>Y</given-names></name><etal/></person-group><article-title>Oral micronized progesterone versus vaginal progesterone for luteal phase support in fresh embryo transfer cycles: a multicenter, randomized, non-inferiority trial.</article-title><source>Hum Reprod</source><year iso-8601-date="2023">2023</year><volume>38</volume><issue>Suppl 2</issue><fpage>ii24</fpage><lpage>ii33</lpage><pub-id pub-id-type="pmid">37982413</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/humrep/deac266</pub-id></element-citation></ref><ref id="ref-13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Aflatoonian</surname><given-names>A</given-names></name><name name-style="western"><surname>Mohammadi</surname><given-names>B</given-names></name></person-group><article-title>Subcutaneous progesterone versus vaginal progesterone for luteal-phase support in frozen-thawed embryo transfer: a cross-sectional study.</article-title><source>Int J Reprod Biomed</source><year iso-8601-date="2021">2021</year><volume>19</volume><issue>2</issue><fpage>115</fpage><lpage>20</lpage><pub-id pub-id-type="doi">10.18502/ijrm.v19i2.8469</pub-id><pub-id pub-id-type="pmid">33718755</pub-id><pub-id pub-id-type="pmcid">PMC7922294</pub-id></element-citation></ref><ref id="ref-14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Mumusoglu</surname><given-names>S</given-names></name><name name-style="western"><surname>Yarali</surname><given-names>H</given-names></name></person-group><article-title>Progesterone administration in programmed frozen embryo transfer cycles: still many gaps to fill and way to go!</article-title><source>Fertil Steril</source><year iso-8601-date="2023">2023</year><volume>120</volume><issue>1</issue><fpage>89</fpage><lpage>90</lpage><pub-id pub-id-type="doi">10.1016/j.fertnstert.2023.04.027</pub-id><pub-id pub-id-type="pmid">37105456</pub-id></element-citation></ref><ref id="ref-15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Devine</surname><given-names>K</given-names></name><name name-style="western"><surname>Richter</surname><given-names>KS</given-names></name><name name-style="western"><surname>Widra</surname><given-names>EA</given-names></name><name name-style="western"><surname>McKeeby</surname><given-names>JL</given-names></name></person-group><article-title>Vitrified blastocyst transfer cycles with the use of only vaginal progesterone replacement with Endometrin have inferior ongoing pregnancy rates: results from the planned interim analysis of a three-arm randomized controlled noninferiority trial.</article-title><source>Fertil Steril</source><year iso-8601-date="2018">2018</year><volume>109</volume><issue>2</issue><fpage>266</fpage><lpage>75</lpage><pub-id pub-id-type="doi">10.1016/j.fertnstert.2017.11.004</pub-id><pub-id pub-id-type="pmid">29338855</pub-id></element-citation></ref><ref id="ref-16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chee</surname><given-names>WJY</given-names></name><name name-style="western"><surname>Chew</surname><given-names>SY</given-names></name><name name-style="western"><surname>Than</surname><given-names>LTL</given-names></name></person-group><article-title>Progesterone intramuscularly or vaginally administration may not change live birth rate or neonatal outcomes in artificial frozen-thawed embryo transfer cycles.</article-title><source>Front Endocrinol (Lausanne)</source><year iso-8601-date="2020">2020</year><volume>11</volume><issue>1</issue><fpage>539427</fpage><pub-id pub-id-type="doi">10.1186/s12934-020-01464-4</pub-id><pub-id pub-id-type="pmid">33343505</pub-id><pub-id pub-id-type="pmcid">PMC7747782</pub-id></element-citation></ref><ref id="ref-17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Almohammadi</surname><given-names>A</given-names></name><name name-style="western"><surname>Raveendran</surname><given-names>A</given-names></name><name name-style="western"><surname>Black</surname><given-names>M</given-names></name><name name-style="western"><surname>Maheshwari</surname><given-names>A</given-names></name></person-group><article-title>The optimal route of progesterone administration for luteal phase support in a frozen embryo transfer: a systematic review.</article-title><source>Arch Gynecol Obstet</source><year iso-8601-date="2023">2023</year><volume>308</volume><fpage>341</fpage><lpage>50</lpage><pub-id pub-id-type="pmid">35943567</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00404-022-06674-2</pub-id><pub-id pub-id-type="pmcid">PMC10293378</pub-id></element-citation></ref><ref id="ref-18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Cerrillo</surname><given-names>M</given-names></name><name name-style="western"><surname>Cecchino</surname><given-names>GN</given-names></name><name name-style="western"><surname>Cruz</surname><given-names>M</given-names></name><name name-style="western"><surname>Mayoral</surname><given-names>M</given-names></name><name name-style="western"><surname>Pacheco</surname><given-names>A</given-names></name><name name-style="western"><surname>Garcia</surname><given-names>Velasco JA</given-names></name></person-group><article-title>Impact of administration route on serum progesterone levels in women undergoing artificial endometrial preparation. Med Reprod Embriol Cl&#237;nica.</article-title><year iso-8601-date="2022">2022</year><volume>9</volume><fpage>100124</fpage></element-citation></ref><ref id="ref-19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>Y</given-names></name><name name-style="western"><surname>Fu</surname><given-names>X</given-names></name><name name-style="western"><surname>Gao</surname><given-names>S</given-names></name><name name-style="western"><surname>Gao</surname><given-names>S</given-names></name><name name-style="western"><surname>Gao</surname><given-names>S</given-names></name><name name-style="western"><surname>Ma</surname><given-names>J</given-names></name><etal/></person-group><article-title>Preparation of the endometrium for frozen embryo transfer: an update on clinical practices.</article-title><source>Reprod Biol Endocrinol</source><year iso-8601-date="2023">2023</year><volume>21</volume><fpage>52</fpage><pub-id pub-id-type="pmid">37291605</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12958-023-01106-5</pub-id><pub-id pub-id-type="pmcid">PMC10249325</pub-id></element-citation></ref><ref id="ref-20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Labarta</surname><given-names>E</given-names></name><name name-style="western"><surname>Mariani</surname><given-names>G</given-names></name><name name-style="western"><surname>Paolelli</surname><given-names>S</given-names></name><name name-style="western"><surname>Rodriguez-Varela</surname><given-names>C</given-names></name><name name-style="western"><surname>Vidal</surname><given-names>C</given-names></name><name name-style="western"><surname>Giles</surname><given-names>J</given-names></name><etal/></person-group><article-title>Impact of low serum progesterone levels on the day of embryo transfer on pregnancy outcome: a prospective cohort study in artificial cycles with vaginal progesterone.</article-title><source>Hum Reprod</source><year iso-8601-date="2021">2021</year><volume>36</volume><fpage>683</fpage><lpage>92</lpage><pub-id pub-id-type="pmid">33340402</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/humrep/deaa322</pub-id></element-citation></ref><ref id="ref-21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>&#193;lvarez</surname><given-names>M</given-names></name><name name-style="western"><surname>Gaggiotti-Marre</surname><given-names>S</given-names></name><name name-style="western"><surname>Mart&#237;nez</surname><given-names>F</given-names></name><name name-style="western"><surname>Coll</surname><given-names>L</given-names></name><name name-style="western"><surname>Garc&#237;a</surname><given-names>S</given-names></name><name name-style="western"><surname>Gonz&#225;lez-Foruria</surname><given-names>I</given-names></name><etal/></person-group><article-title>Individualised luteal phase support in artificially prepared frozen embryo transfer cycles based on serum progesterone levels: a prospective cohort study.</article-title><source>Hum Reprod</source><year iso-8601-date="2021">2021</year><volume>36</volume><fpage>1552</fpage><lpage>60</lpage><pub-id pub-id-type="pmid">33686413</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/humrep/deab031</pub-id></element-citation></ref><ref id="ref-22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Labarta</surname><given-names>E</given-names></name><name name-style="western"><surname>Mariani</surname><given-names>G</given-names></name><name name-style="western"><surname>Rodr&#237;guez-Varela</surname><given-names>C</given-names></name><name name-style="western"><surname>Bosch</surname><given-names>E</given-names></name></person-group><article-title>Individualized luteal phase support normalizes live birth rate in women with low progesterone levels on the day of embryo transfer in artificial endometrial preparation cycles.</article-title><source>Fertil Steril</source><year iso-8601-date="2022">2022</year><volume>117</volume><issue>1</issue><fpage>96</fpage><lpage>103</lpage><pub-id pub-id-type="doi">10.1016/j.fertnstert.2021.08.040</pub-id><pub-id pub-id-type="pmid">34548167</pub-id></element-citation></ref><ref id="ref-23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Liu</surname><given-names>YJ</given-names></name><name name-style="western"><surname>Bu</surname><given-names>XM</given-names></name><name name-style="western"><surname>Zhang</surname><given-names>QL</given-names></name><name name-style="western"><surname>Ma</surname><given-names>YM</given-names></name><name name-style="western"><surname>Jia</surname><given-names>CW</given-names></name></person-group><article-title>[The value of serum estradiol concentration on the day of endometrial transformation in predicting the outcome of frozen-thawed embryo transfer in hormone replacement cycle].</article-title><source>Zhonghua Yu Fang Yi Xue Za Zhi</source><year iso-8601-date="2022">2022</year><volume>56</volume><issue>7</issue><fpage>973</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.3760/cma.j.cn112150-20220214-00138</pub-id><pub-id pub-id-type="pmid">35899351</pub-id></element-citation></ref><ref id="ref-24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lessey</surname><given-names>BA</given-names></name><name name-style="western"><surname>Young</surname><given-names>SL</given-names></name></person-group><article-title>What exactly is endometrial receptivity?</article-title><source>Fertil Steril</source><year iso-8601-date="2019">2019</year><volume>111</volume><issue>4</issue><fpage>611</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.1016/j.fertnstert.2019.02.009</pub-id><pub-id pub-id-type="pmid">30929718</pub-id></element-citation></ref><ref id="ref-25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Parisi</surname><given-names>F</given-names></name><name name-style="western"><surname>Fenizia</surname><given-names>C</given-names></name><name name-style="western"><surname>Introini</surname><given-names>A</given-names></name><name name-style="western"><surname>Zavatta</surname><given-names>A</given-names></name><name name-style="western"><surname>Scaccabarozzi</surname><given-names>C</given-names></name><name name-style="western"><surname>Biasin</surname><given-names>M</given-names></name><etal/></person-group><article-title>The pathophysiological role of estrogens in the initial stages of pregnancy: molecular mechanisms and clinical implications for pregnancy outcome from the periconceptional period to end of the first trimester.</article-title><source>Hum Reprod Update</source><year iso-8601-date="2023">2023</year><volume>29</volume><issue>6</issue><fpage>699</fpage><lpage>720</lpage><pub-id pub-id-type="doi">10.1093/humupd/dmad016</pub-id><pub-id pub-id-type="pmid">37353909</pub-id><pub-id pub-id-type="pmcid">PMC10628507</pub-id></element-citation></ref><ref id="ref-26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Goldman</surname><given-names>RH</given-names></name><name name-style="western"><surname>Greer</surname><given-names>A</given-names></name><name name-style="western"><surname>Racowsky</surname><given-names>C</given-names></name><name name-style="western"><surname>Farland</surname><given-names>LV</given-names></name><name name-style="western"><surname>Lanes</surname><given-names>A</given-names></name><name name-style="western"><surname>Thomas</surname><given-names>AM</given-names></name><etal/></person-group><article-title>Association between serum estradiol level on day of progesterone start and outcomes from frozen blastocyst transfer cycles utilizing oral estradiol.</article-title><source>J Assist Reprod Genet</source><year iso-8601-date="2022">2022</year><volume>39</volume><fpage>1611</fpage><lpage>8</lpage><pub-id pub-id-type="pmid">35583571</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s10815-022-02521-0</pub-id><pub-id pub-id-type="pmcid">PMC9365899</pub-id></element-citation></ref><ref id="ref-27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Racca</surname><given-names>A</given-names></name><name name-style="western"><surname>Santos-Ribeiro</surname><given-names>S</given-names></name><name name-style="western"><surname>Drakopoulos</surname><given-names>P</given-names></name><name name-style="western"><surname>De</surname><given-names>Coppel J</given-names></name><name name-style="western"><surname>Van</surname><given-names>Landuyt L</given-names></name><name name-style="western"><surname>Tournaye</surname><given-names>H</given-names></name><etal/></person-group><article-title>Clinical pregnancy rate for frozen embryo transfer with HRT: a randomized controlled pilot study comparing 1 week versus 2 weeks of oestradiol priming.</article-title><source>Reprod Biol Endocrinol</source><year iso-8601-date="2023">2023</year><volume>21</volume><fpage>62</fpage><pub-id pub-id-type="pmid">37420186</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12958-023-01111-8</pub-id><pub-id pub-id-type="pmcid">PMC10326948</pub-id></element-citation></ref><ref id="ref-28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gaggiotti-Marre</surname><given-names>S</given-names></name><name name-style="western"><surname>Martinez</surname><given-names>F</given-names></name><name name-style="western"><surname>Coll</surname><given-names>L</given-names></name><name name-style="western"><surname>Garcia</surname><given-names>S</given-names></name><name name-style="western"><surname>&#193;lvarez</surname><given-names>M</given-names></name><name name-style="western"><surname>Parriego</surname><given-names>M</given-names></name><etal/></person-group><article-title>Low serum progesterone the day prior to frozen embryo transfer of euploid embryos is associated with significant reduction in live birth rates.</article-title><source>Gynecol Endocrinol</source><year iso-8601-date="2019">2019</year><volume>35</volume><fpage>439</fpage><lpage>42</lpage><pub-id pub-id-type="pmid">30585507</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1080/09513590.2018.1534952</pub-id></element-citation></ref><ref id="ref-29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Melo</surname><given-names>P</given-names></name><name name-style="western"><surname>Wood</surname><given-names>S</given-names></name><name name-style="western"><surname>Petsas</surname><given-names>G</given-names></name><name name-style="western"><surname>Chung</surname><given-names>Y</given-names></name><name name-style="western"><surname>Easter</surname><given-names>C</given-names></name><name name-style="western"><surname>Price</surname><given-names>MJ</given-names></name><etal/></person-group><article-title>The effect of frozen embryo transfer regimen on the association between serum progesterone and live birth: a multicentre prospective cohort study (ProFET) Hum Reprod Open.</article-title><year iso-8601-date="2022">2022</year><volume>2022</volume><fpage>hoac054</fpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/hropen/hoac054</pub-id><pub-id pub-id-type="pmcid">PMC9733530</pub-id><pub-id pub-id-type="pmid">36518987</pub-id></element-citation></ref><ref id="ref-30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Gao</surname><given-names>H</given-names></name><name name-style="western"><surname>Ye</surname><given-names>J</given-names></name><name name-style="western"><surname>Ye</surname><given-names>H</given-names></name><name name-style="western"><surname>Hong</surname><given-names>Q</given-names></name><name name-style="western"><surname>Sun</surname><given-names>L</given-names></name><name name-style="western"><surname>Chen</surname><given-names>Q</given-names></name></person-group><article-title>Strengthened luteal phase support for patients with low serum progesterone on the day of frozen embryo transfer in artificial endometrial preparation cycles: a large-sample retrospective trial.</article-title><source>Reprod Biol Endocrinol</source><year iso-8601-date="2021">2021</year><volume>19</volume><fpage>60</fpage><pub-id pub-id-type="pmid">33892741</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s12958-021-00747-8</pub-id><pub-id pub-id-type="pmcid">PMC8063468</pub-id></element-citation></ref></ref-list></back><floats-group><fig position="float" id="figure-1" orientation="portrait"><label>Figure 1</label><caption><p>ROC curve for serum progesterone level in determining pregnancy</p><p>
+ROC: Receiver operating characteristic
+</p></caption><graphic position="float" orientation="portrait" xlink:href="JTurkGerGynecolAssoc-26-3-157-figure-1.jpg"/></fig><fig position="float" id="figure-2" orientation="portrait"><label>Figure 2</label><caption><p>ROC curve for serum estradiol level in determining pregnancy</p><p>
+ROC: Receiver operating characteristic
+</p></caption><graphic position="float" orientation="portrait" xlink:href="JTurkGerGynecolAssoc-26-3-157-figure-2.jpg"/></fig><table-wrap position="float" id="table-1" orientation="portrait"><label>Table 1. Comparison of parameters between the groups</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="2">
+<p>-</p>
+</td><td colspan="4" rowspan="1">
+<p>
+<bold>Group</bold>
+</p>
+</td><td colspan="1" rowspan="2">
+<p>
+<bold>p</bold>
+</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>
+<bold>Patients who achieved pregnancy (n=79)</bold>
+</p>
+</td><td colspan="2" rowspan="1">
+<p>
+<bold>Patients without pregnancy (n=88)</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Mean &#177; SD</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Median (min-max)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Mean &#177; SD</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Median (min-max)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Age</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>31.6&#177;5.56</p>
+</td><td colspan="1" rowspan="1">
+<p>32 (18-44)</p>
+</td><td colspan="1" rowspan="1">
+<p>32.25&#177;5.75</p>
+</td><td colspan="1" rowspan="1">
+<p>32 (21-44)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.587</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>ECA</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>30.19&#177;5.55</p>
+</td><td colspan="1" rowspan="1">
+<p>30 (18-42)</p>
+</td><td colspan="1" rowspan="1">
+<p>31.51&#177;5.99</p>
+</td><td colspan="1" rowspan="1">
+<p>31 (21-44)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.210</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Gravidity</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>0.68&#177;0.97</p>
+</td><td colspan="1" rowspan="1">
+<p>0 (0-5)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.67&#177;1.22</p>
+</td><td colspan="1" rowspan="1">
+<p>0 (0-7)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.420</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Parity</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>0.25&#177;0.47</p>
+</td><td colspan="1" rowspan="1">
+<p>0 (0-2)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.19&#177;0.54</p>
+</td><td colspan="1" rowspan="1">
+<p>0 (0-3)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.147</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>BMI (kg/m<sup>2</sup>)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>27.82&#177;6.32</p>
+</td><td colspan="1" rowspan="1">
+<p>26.7 (17-57.6)</p>
+</td><td colspan="1" rowspan="1">
+<p>26.45&#177;4.99</p>
+</td><td colspan="1" rowspan="1">
+<p>24.6 (20-37.4)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.153</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>FET CL (day)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>19.19&#177;2.32</p>
+</td><td colspan="1" rowspan="1">
+<p>19 (13-28)</p>
+</td><td colspan="1" rowspan="1">
+<p>19.26&#177;1.47</p>
+</td><td colspan="1" rowspan="1">
+<p>19 (15-24)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.193</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Max ET (mm)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>9.94&#177;1.51</p>
+</td><td colspan="1" rowspan="1">
+<p>10 (6.9-14)</p>
+</td><td colspan="1" rowspan="1">
+<p>9.61&#177;1.61</p>
+</td><td colspan="1" rowspan="1">
+<p>9.83 (6.3-15)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.180</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>E<sub>2</sub> (pg/mL)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>169.75&#177;51.88</p>
+</td><td colspan="1" rowspan="1">
+<p>162.5 (85-360)</p>
+</td><td colspan="1" rowspan="1">
+<p>177.68&#177;56.91</p>
+</td><td colspan="1" rowspan="1">
+<p>168.5 (92-318)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.449</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>LH (mIU/mL)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>5.15&#177;4.56</p>
+</td><td colspan="1" rowspan="1">
+<p>3.91 (0.1-21)</p>
+</td><td colspan="1" rowspan="1">
+<p>5.71&#177;4.79</p>
+</td><td colspan="1" rowspan="1">
+<p>4.8 (0.1-26.81)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.332</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>P<sub>4</sub> (ng/mL)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>28.07&#177;18.39</p>
+</td><td colspan="1" rowspan="1">
+<p>23.3 (6.5-105.7)</p>
+</td><td colspan="1" rowspan="1">
+<p>31.15&#177;25.35</p>
+</td><td colspan="1" rowspan="1">
+<p>23.05 (2.4-117.6)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.732</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Post-IM P<sub>4</sub></bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>20.5&#177;5.43</p>
+</td><td colspan="1" rowspan="1">
+<p>20 (15-26)</p>
+</td><td colspan="1" rowspan="1">
+<p>46.4&#177;13.65</p>
+</td><td colspan="1" rowspan="1">
+<p>46.5 (33-60)</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>0.008</bold>
+</p>
+</td></tr></tbody></table><table-wrap-foot><p>BMI: Body mass index, CL: Corpus luteum, ECA: Embryo cryopreservation age, FET: Frozen embryo transfer, LH: Luteinizing hormone, max: Maximum, min: Minimum, Post-IM: Post&#8211;intramuscular, SD: Standard deviation</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-2" orientation="portrait"><label>Table 2. Distribution of the number of embryo transfers and embryo transfer days according to groups</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="2">
+<p>-</p>
+</td><td colspan="2" rowspan="1">
+<p>
+<bold>Group</bold>
+</p>
+</td><td colspan="1" rowspan="2">
+<p>
+<bold>Test statistics</bold>
+</p>
+</td><td colspan="1" rowspan="2">
+<p>
+<bold>p*</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Patients who achieved pregnancy (n=79)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Patients without pregnancy (n=88)</bold>
+</p>
+</td></tr><tr><td colspan="5" rowspan="1">
+<p>
+<bold>Number of ETs</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>1</p>
+</td><td colspan="1" rowspan="1">
+<p>37 (46.8%)</p>
+</td><td colspan="1" rowspan="1">
+<p>48 (54.5%)</p>
+</td><td colspan="1" rowspan="2">
+<p>0.990</p>
+</td><td colspan="1" rowspan="2">
+<p>0.320</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>2</p>
+</td><td colspan="1" rowspan="1">
+<p>42 (53.2%)</p>
+</td><td colspan="1" rowspan="1">
+<p>40 (45.5)</p>
+</td></tr><tr><td colspan="5" rowspan="1">
+<p>
+<bold>ET day</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>3</p>
+</td><td colspan="1" rowspan="1">
+<p>6 (7.6%)</p>
+</td><td colspan="1" rowspan="1">
+<p>7 (8%)</p>
+</td><td colspan="1" rowspan="3">
+<p>2.256</p>
+</td><td colspan="1" rowspan="3">
+<p>0.324</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>4</p>
+</td><td colspan="1" rowspan="1">
+<p>2 (2.5%)</p>
+</td><td colspan="1" rowspan="1">
+<p>0 (0%)</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>5</p>
+</td><td colspan="1" rowspan="1">
+<p>71 (89.9%)</p>
+</td><td colspan="1" rowspan="1">
+<p>81 (92%)</p>
+</td></tr></tbody></table><table-wrap-foot><p>*Pearson&#8217;s chi-square test, ET: Embryo transfer</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-3" orientation="portrait"><label>Table 3. ROC analysis results for cut-off values for P<sub>4</sub> and E<sub>2</sub> parameters in determining pregnancy in combined vaginal and subcutaneous progesterone users</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Parameter</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>AUC (95% CI)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>p</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>P<sub>4</sub></p>
+</td><td colspan="1" rowspan="1">
+<p>0.421 (0.309-0.533)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.166</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>E<sub>2</sub></p>
+</td><td colspan="1" rowspan="1">
+<p>0.456 (0.345-0.568)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.441</p>
+</td></tr></tbody></table><table-wrap-foot><p>ROC: Receiver operating characteristic, AUC: Area under the curve, CI: Confidence interval, P<sub>4</sub>: Progesterone</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-4" orientation="portrait"><label>Table 4. Percentile distribution of E<sub>2</sub> value and progesterone according to groups</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="2">
+<p>-</p>
+</td><td colspan="3" rowspan="1">
+<p>
+<bold>Group</bold>
+</p>
+</td></tr><tr><td colspan="2" rowspan="1">
+<p>
+<bold>Patients who achieved pregnancy (n=79)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Patients without pregnancy (n=88)</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Percentile</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>E<sub>2</sub></bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Progesterone</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>E<sub>2</sub></bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>0-10</p>
+</td><td colspan="1" rowspan="1">
+<p>10 (11.4%)</p>
+</td><td colspan="1" rowspan="1">
+<p>0 (0%)</p>
+</td><td colspan="1" rowspan="1">
+<p>6 (8.3%)</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>11-90</p>
+</td><td colspan="1" rowspan="1">
+<p>68 (77.3%)</p>
+</td><td colspan="1" rowspan="1">
+<p>48 (92.3%)</p>
+</td><td colspan="1" rowspan="1">
+<p>60 (83.3%)</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>91-100</p>
+</td><td colspan="1" rowspan="1">
+<p>10 (11.4%)</p>
+</td><td colspan="1" rowspan="1">
+<p>4 (7.7%)</p>
+</td><td colspan="1" rowspan="1">
+<p>6 (8.3%)</p>
+</td></tr></tbody></table><table-wrap-foot><p>E<sub>2</sub>: Estradiol</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-5" orientation="portrait"><label>Table 5. Logistic regression analysis of independent variables affecting the probability of pregnancy among those with an embryo transfer</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="2">
+<p>
+<bold>-</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Biochemical pregnancy</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>-</bold>
+</p>
+</td><td colspan="2" rowspan="1">
+<p>
+<bold>Multiple</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>No biochemical pregnancy (n=88)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Biochemical pregnancy (n=79)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>OR (95% CI)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>p</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Age</p>
+</td><td colspan="1" rowspan="1">
+<p>32.25&#177;5.75</p>
+</td><td colspan="1" rowspan="1">
+<p>31.6&#177;5.56</p>
+</td><td colspan="1" rowspan="1">
+<p>1.107 (0.885-1.386)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.372</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Embryo freezing age</p>
+</td><td colspan="1" rowspan="1">
+<p>31.51&#177;5.99</p>
+</td><td colspan="1" rowspan="1">
+<p>30.19&#177;5.55</p>
+</td><td colspan="1" rowspan="1">
+<p>0.853 (0.693-1.05)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.134</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Gravidity</p>
+</td><td colspan="1" rowspan="1">
+<p>0.67&#177;1.22</p>
+</td><td colspan="1" rowspan="1">
+<p>0.68&#177;0.97</p>
+</td><td colspan="1" rowspan="1">
+<p>0.789 (0.509-1.223)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.290</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Parity</p>
+</td><td colspan="1" rowspan="1">
+<p>0.19&#177;0.54</p>
+</td><td colspan="1" rowspan="1">
+<p>0.25&#177;0.47</p>
+</td><td colspan="1" rowspan="1">
+<p>1.89 (0.647-5.524)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.245</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>BMI</p>
+</td><td colspan="1" rowspan="1">
+<p>26.45&#177;4.99</p>
+</td><td colspan="1" rowspan="1">
+<p>27.82&#177;6.32</p>
+</td><td colspan="1" rowspan="1">
+<p>1.053 (0.984-1.127)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.137</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>FET cycle length</p>
+</td><td colspan="1" rowspan="1">
+<p>19.26&#177;1.47</p>
+</td><td colspan="1" rowspan="1">
+<p>19.19&#177;2.32</p>
+</td><td colspan="1" rowspan="1">
+<p>1.105 (0.889-1.374)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.369</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Max endometrial thickness (mm)</p>
+</td><td colspan="1" rowspan="1">
+<p>9.61&#177;1.61</p>
+</td><td colspan="1" rowspan="1">
+<p>9.94&#177;1.51</p>
+</td><td colspan="1" rowspan="1">
+<p>1.113 (0.873-1.42)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.387</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>E<sub>2</sub> (pg/mL)</p>
+</td><td colspan="1" rowspan="1">
+<p>177.68&#177;56.91</p>
+</td><td colspan="1" rowspan="1">
+<p>169.75&#177;51.88</p>
+</td><td colspan="1" rowspan="1">
+<p>0.998 (0.991-1.005)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.599</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>LH (mIU/mL)</p>
+</td><td colspan="1" rowspan="1">
+<p>5.71&#177;4.79</p>
+</td><td colspan="1" rowspan="1">
+<p>5.15&#177;4.56</p>
+</td><td colspan="1" rowspan="1">
+<p>0.976 (0.897-1.061)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.561</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>P<sub>4</sub> (ng/ml)</p>
+</td><td colspan="1" rowspan="1">
+<p>31.15&#177;25.35</p>
+</td><td colspan="1" rowspan="1">
+<p>28.07&#177;18.39</p>
+</td><td colspan="1" rowspan="1">
+<p>0.991 (0.974-1.008)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.288</p>
+</td></tr><tr><td colspan="5" rowspan="1">
+<p>No of ET</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>1</p>
+</td><td colspan="1" rowspan="1">
+<p>48 (56.5%)</p>
+</td><td colspan="1" rowspan="1">
+<p>37 (43.5%)</p>
+</td><td colspan="1" rowspan="1">
+<p>Reference</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>2</p>
+</td><td colspan="1" rowspan="1">
+<p>40 (48.8%)</p>
+</td><td colspan="1" rowspan="1">
+<p>42 (51.2%)</p>
+</td><td colspan="1" rowspan="1">
+<p>1.557 (0.683-3.552)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.292</p>
+</td></tr><tr><td colspan="5" rowspan="1">
+<p>HRT protocols</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>E<sub>2</sub> + P<sub>4</sub> (vaginal + subcutaneous)</p>
+</td><td colspan="1" rowspan="1">
+<p>52 (50%)</p>
+</td><td colspan="1" rowspan="1">
+<p>52 (50%)</p>
+</td><td colspan="1" rowspan="1">
+<p>1.527 (0.616-3.786)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.361</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>E<sub>2</sub> + P<sub>4</sub> (single drug)</p>
+</td><td colspan="1" rowspan="1">
+<p>36 (57.1%)</p>
+</td><td colspan="1" rowspan="1">
+<p>27 (42.9%)</p>
+</td><td colspan="1" rowspan="1">
+<p>Reference</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr></tbody></table><table-wrap-foot><p>Mean &#177; standard deviation; frequency (percentage)</p><p>OR: Odds ratio, CI: Confidence interval, E<sub>2</sub>: Estradiol, LH: Luteinizing hormone, P<sub>4</sub>: Progesterone, BMI: Body mass index, FET: Frozen embryo transfer, ET: Embryo transfer, HRT: Hormone replacement therapy, Max: Maximum</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-6" orientation="portrait"><label>Table 6. Logistic regression analysis of independent variables affecting the probability of clinical pregnancy among those who conceived</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="2">
+<p>
+<bold>-</bold>
+</p>
+<p>
+<bold>-</bold>
+</p>
+</td><td colspan="2" rowspan="1">
+<p>
+<bold>Clinical pregnancy</bold>
+</p>
+</td><td colspan="2" rowspan="1">
+<p>
+<bold>Multiple</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>No clinical pregnancy (n=13)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Clinical pregnancy (n=66)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>OR (95% CI)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>p</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Age</p>
+</td><td colspan="1" rowspan="1">
+<p>31&#177;6.66</p>
+</td><td colspan="1" rowspan="1">
+<p>31.71&#177;5.39</p>
+</td><td colspan="1" rowspan="1">
+<p>1.218 (0.717-2.068)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.465</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Embryo freezing age</p>
+</td><td colspan="1" rowspan="1">
+<p>30.23&#177;6.08</p>
+</td><td colspan="1" rowspan="1">
+<p>30.18&#177;5.49</p>
+</td><td colspan="1" rowspan="1">
+<p>0.844 (0.516-1.382)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.501</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Gravidity</p>
+</td><td colspan="1" rowspan="1">
+<p>0.62&#177;0.87</p>
+</td><td colspan="1" rowspan="1">
+<p>0.7&#177;0.99</p>
+</td><td colspan="1" rowspan="1">
+<p>2.022 (0.479-8.534)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.338</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Parity</p>
+</td><td colspan="1" rowspan="1">
+<p>0.31&#177;0.48</p>
+</td><td colspan="1" rowspan="1">
+<p>0.24&#177;0.47</p>
+</td><td colspan="1" rowspan="1">
+<p>0.099 (0.006-1.757)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.115</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>BMI</p>
+</td><td colspan="1" rowspan="1">
+<p>29.42&#177;10.17</p>
+</td><td colspan="1" rowspan="1">
+<p>27.51&#177;5.31</p>
+</td><td colspan="1" rowspan="1">
+<p>0.942 (0.837-1.061)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.325</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>FET cycle length</p>
+</td><td colspan="1" rowspan="1">
+<p>18.46&#177;1.81</p>
+</td><td colspan="1" rowspan="1">
+<p>19.33&#177;2.39</p>
+</td><td colspan="1" rowspan="1">
+<p>1.327 (0.79-2.229)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.284</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Max endometrial thickness (mm)</p>
+</td><td colspan="1" rowspan="1">
+<p>9.72&#177;1.18</p>
+</td><td colspan="1" rowspan="1">
+<p>9.98&#177;1.57</p>
+</td><td colspan="1" rowspan="1">
+<p>1.729 (0.873-3.424)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.116</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>E<sub>2</sub> (pg/mL)</p>
+</td><td colspan="1" rowspan="1">
+<p>160&#177;50.73</p>
+</td><td colspan="1" rowspan="1">
+<p>171.9&#177;52.32</p>
+</td><td colspan="1" rowspan="1">
+<p>1.006 (0.989-1.024)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.473</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>LH (mIU/mL)</p>
+</td><td colspan="1" rowspan="1">
+<p>5.62&#177;4.02</p>
+</td><td colspan="1" rowspan="1">
+<p>5.05&#177;4.69</p>
+</td><td colspan="1" rowspan="1">
+<p>1.051 (0.865-1.277)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.616</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>P<sub>4</sub> (ng/mL)</p>
+</td><td colspan="1" rowspan="1">
+<p>30.5 &#177;20.23</p>
+</td><td colspan="1" rowspan="1">
+<p>27.58&#177;18.14</p>
+</td><td colspan="1" rowspan="1">
+<p>1.003 (0.959-1.049)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.899</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>No of ET</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>1</p>
+</td><td colspan="1" rowspan="1">
+<p>9 (24.3%)</p>
+</td><td colspan="1" rowspan="1">
+<p>28 (75.7%)</p>
+</td><td colspan="2" rowspan="1">
+<p>Reference</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>2</p>
+</td><td colspan="1" rowspan="1">
+<p>4 (9.5%)</p>
+</td><td colspan="1" rowspan="1">
+<p>38 (90.5%)</p>
+</td><td colspan="1" rowspan="1">
+<p>5.209 (0.633&#8211;42.862)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.125</p>
+</td></tr><tr><td colspan="5" rowspan="1">
+<p>HRT protocols</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>E<sub>2</sub> + P<sub>4</sub> (vaginal + subcutaneous)</p>
+</td><td colspan="1" rowspan="1">
+<p>10 (19.2%)</p>
+</td><td colspan="1" rowspan="1">
+<p>42 (80.8%)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.154 (0.014&#8211;1.739)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.130</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>E<sub>2</sub> + P<sub>4</sub> (single drug)</p>
+</td><td colspan="1" rowspan="1">
+<p>3 (11.1%)</p>
+</td><td colspan="1" rowspan="1">
+<p>24 (88.9%)</p>
+</td><td colspan="2" rowspan="1">
+<p>Reference</p>
+</td></tr></tbody></table><table-wrap-foot><p>Mean &#177; standard deviation; frequency (percentage)</p><p>OR: Odds ratio, CI: Confidence interval, E<sub>2</sub>: Estradiol, LH: Luteinizing hormone, P<sub>4</sub>: Progesterone, BMI: Body mass index, FET: Frozen embryo transfer, ET: Embryo transfer, HRT: Hormone replacement therapy, Max: Maximum</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-7" orientation="portrait"><label>Table 7. Logistic regression analysis of independent variables affecting the probability of live birth among those who had a clinical pregnancy</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="2">
+<p>
+<bold>-</bold>
+</p>
+<p>
+<bold>-</bold>
+</p>
+</td><td colspan="2" rowspan="1">
+<p>
+<bold>Live birth rate</bold>
+</p>
+</td><td colspan="2" rowspan="1">
+<p>
+<bold>Multiple</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>No live birth (n=6)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Live birth (n=53)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>OR (95% CI)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>p</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Age</p>
+</td><td colspan="1" rowspan="1">
+<p>31&#177;5.4</p>
+</td><td colspan="1" rowspan="1">
+<p>31.45&#177;5.13</p>
+</td><td colspan="1" rowspan="1">
+<p>1.099 (0.741-1.629)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.639</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Embryo freezing age</p>
+</td><td colspan="1" rowspan="1">
+<p>29.17&#177;6.77</p>
+</td><td colspan="1" rowspan="1">
+<p>30.04&#177;5.19</p>
+</td><td colspan="1" rowspan="1">
+<p>---</p>
+</td><td colspan="1" rowspan="1">
+<p>---</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Gravidity</p>
+</td><td colspan="1" rowspan="1">
+<p>0.83&#177;0.75</p>
+</td><td colspan="1" rowspan="1">
+<p>0.62&#177;1</p>
+</td><td colspan="1" rowspan="1">
+<p>---</p>
+</td><td colspan="1" rowspan="1">
+<p>---</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Parity</p>
+</td><td colspan="1" rowspan="1">
+<p>0.33&#177;0.52</p>
+</td><td colspan="1" rowspan="1">
+<p>0.23&#177;0.42</p>
+</td><td colspan="1" rowspan="1">
+<p>---</p>
+</td><td colspan="1" rowspan="1">
+<p>---</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>BMI</p>
+</td><td colspan="1" rowspan="1">
+<p>31.37&#177;6.28</p>
+</td><td colspan="1" rowspan="1">
+<p>26.64&#177;4.83</p>
+</td><td colspan="1" rowspan="1">
+<p>0.697 (0.481-1.009)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.056</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>FET cycle length</p>
+</td><td colspan="1" rowspan="1">
+<p>18.67&#177;1.63</p>
+</td><td colspan="1" rowspan="1">
+<p>19.42&#177;2.21</p>
+</td><td colspan="1" rowspan="1">
+<p>2.424 (0.548-10.72)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.243</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>Max endometrial thickness (mm)</p>
+</td><td colspan="1" rowspan="1">
+<p>9.83&#177;1.27</p>
+</td><td colspan="1" rowspan="1">
+<p>9.96&#177;1.63</p>
+</td><td colspan="1" rowspan="1">
+<p>1.615 (0.672-3.881)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.284</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>E<sub>2</sub> (pg/mL)</p>
+</td><td colspan="1" rowspan="1">
+<p>145.33&#177;42.6</p>
+</td><td colspan="1" rowspan="1">
+<p>171.91&#177;46.4</p>
+</td><td colspan="1" rowspan="1">
+<p>0.998 (0.972-1.025)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.901</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>LH (mIU/mL)</p>
+</td><td colspan="1" rowspan="1">
+<p>6.34&#177;6.49</p>
+</td><td colspan="1" rowspan="1">
+<p>4.62&#177;3.44</p>
+</td><td colspan="1" rowspan="1">
+<p>0.812 (0.494-1.334)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.411</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>P<sub>4</sub> (ng/mL)</p>
+</td><td colspan="1" rowspan="1">
+<p>19.07&#177;9.16</p>
+</td><td colspan="1" rowspan="1">
+<p>29.18&#177;19.42</p>
+</td><td colspan="1" rowspan="1">
+<p>1.103 (0.915-1.328)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.304</p>
+</td></tr><tr><td colspan="5" rowspan="1">
+<p>No of ET</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>1</p>
+</td><td colspan="1" rowspan="1">
+<p>4 (16.7)</p>
+</td><td colspan="1" rowspan="1">
+<p>20 (83.3)</p>
+</td><td colspan="2" rowspan="1">
+<p>Reference</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>2</p>
+</td><td colspan="1" rowspan="1">
+<p>2 (5.7)</p>
+</td><td colspan="1" rowspan="1">
+<p>33 (94.3)</p>
+</td><td colspan="1" rowspan="1">
+<p>1.031 (0.045-23.413)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.985</p>
+</td></tr><tr><td colspan="5" rowspan="1">
+<p>HRT protocols</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>E<sub>2</sub> + P<sub>4</sub> (vaginal + subcutaneous)</p>
+</td><td colspan="1" rowspan="1">
+<p>3 (8.3)</p>
+</td><td colspan="1" rowspan="1">
+<p>33 (91.7)</p>
+</td><td colspan="1" rowspan="1">
+<p>1.685 (0.097-29.222)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.720</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>E<sub>2</sub> + P<sub>4</sub> (single drug)</p>
+</td><td colspan="1" rowspan="1">
+<p>3 (13)</p>
+</td><td colspan="1" rowspan="1">
+<p>20 (87)</p>
+</td><td colspan="2" rowspan="1">
+<p>Reference</p>
+</td></tr></tbody></table><table-wrap-foot><p>Mean &#177; standard deviation; frequency (percentage)</p><p>OR: Odds ratio, CI: Confidence interval, E<sub>2</sub>: Estradiol, LH: Luteinizing hormone, P<sub>4</sub>: Progesterone, BMI: Body mass index, FET: Frozen embryo transfer, ET: Embryo transfer, HRT: Hormone replacement therapy, Max: Maximum</p></table-wrap-foot></table-wrap></floats-group></article>
+        
+    </metadata>
+</record>
+    </GetRecord>
+
+</OAI-PMH>

@@ -1,0 +1,45 @@
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2025-09-09T14:02:33Z</responseDate>
+    <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:12407716" metadataPrefix="pmc">https://pmc.ncbi.nlm.nih.gov/api/oai/v1/mh/</request>
+    
+    <GetRecord>
+        <record>
+    <header>
+    <identifier>oai:pubmedcentral.nih.gov:12407716</identifier>
+    <datestamp>2025-09-04</datestamp>
+    
+        
+        <setSpec>pmc-open</setSpec>
+        
+    
+</header>
+    <metadata>
+        
+        <article xmlns="https://jats.nlm.nih.gov/ns/archiving/1.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.4/ https://jats.nlm.nih.gov/archiving/1.4/xsd/JATS-archivearticle1-4.xsd" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">bioRxiv</journal-id><journal-id journal-id-type="pmc-domain-id">3848</journal-id><journal-id journal-id-type="pmc-domain">biorxiv</journal-id><journal-id journal-id-type="publisher-id">BIORXIV</journal-id><journal-title-group><journal-title>bioRxiv</journal-title></journal-title-group><issn pub-type="epub">2692-8205</issn><publisher><publisher-name>Cold Spring Harbor Laboratory Preprints</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12407716</article-id><article-id pub-id-type="pmcid-ver">PMC12407716.1</article-id><article-id pub-id-type="pmcaid">12407716</article-id><article-id pub-id-type="pmcaiid">12407716</article-id><article-id pub-id-type="pmid">40909577</article-id><article-id pub-id-type="doi">10.1101/2025.08.24.671964</article-id><article-version-alternatives><article-version article-version-type="pmc-version">1</article-version><article-version article-version-type="status">preprint</article-version><article-version article-version-type="number">1</article-version></article-version-alternatives><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>
+Untargeted Metabolomics Reveals Organ-Specific and Extraction-Dependent Metabolite Profiles in Endemic Tajik Species
+<italic toggle="yes">Ferula violacea</italic>
+Korovin
+</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Mavlonazarova</surname><given-names initials="S">Sylhiya</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Acosta</surname><given-names initials="K">Kenneth</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-5309-2760</contrib-id></contrib><contrib contrib-type="author"><name name-style="western"><surname>Abzalimov</surname><given-names initials="R">Rinat</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Satorov</surname><given-names initials="S">Saidbeg</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Dushenkov</surname><given-names initials="V">Vyacheslav</given-names></name></contrib></contrib-group><pub-date pub-type="epub"><day>27</day><month>8</month><year>2025</year></pub-date><issue-id pub-id-type="pmc-issue-id">496186</issue-id><elocation-id>2025.08.24.671964</elocation-id><pub-history><event event-type="pmc-release"><date><day>03</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>04</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-05 09:25:55.133"><day>05</day><month>09</month><year>2025</year></date></event></pub-history><permissions><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This work is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ext-link>, which allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="nihpp-2025.08.24.671964v1.pdf"/><self-uri xlink:href="http://biorxiv.org/lookup/doi/10.1101/2025.08.24.671964">http://biorxiv.org/lookup/doi/10.1101/2025.08.24.671964</self-uri><self-uri content-type="pdf">nihpp-2025.08.24.671964.pdf</self-uri><abstract><title>Summary</title><p>
+<italic toggle="yes">Ferula violacea</italic>
+Korovin, an endemic Tajikistani plant with purported medicinal properties, remains understudied. This study employs untargeted metabolomics to characterize the metabolite profiles of ethanol extracts and juices from
+<italic toggle="yes">F. violacea</italic>
+roots and seeds. In total, 540 distinct metabolites are putatively identified, 419 of which are previously unreported in the
+<italic toggle="yes">Ferula</italic>
+genus, representing a substantial expansion of its known chemical diversity. The most abundant metabolites are terpenoids, amino acid derivatives, and alkaloids. A particularly abundant group of daucane sesquiterpenoids, sharing a common (6-methyl-azulen-4-yl)cyclohexanecarboxylate substructure, is identified, including known metabolites such as ferutidin and ferutinin. Comparative analysis reveals organ-specific metabolic specialization: roots are enriched in terpenoids, whereas seeds exhibit higher concentrations of alkaloids and amino acids. Additionally, processing methods influence metabolite composition, with ethanol extracts being rich in terpenoids and amino acids, and juices displaying a greater diversity of phenylpropanoid-derived compounds. These findings expand the phytochemical richness of
+<italic toggle="yes">F. violacea</italic>
+and suggest its potential as a valuable source of bioactive compounds for pharmacological exploration.
+</p><sec><title>Significance statement</title><p>
+This study presents the first comprehensive untargeted metabolomic analysis of
+<italic toggle="yes">Ferula violacea</italic>
+, identifying 419 previously unreported metabolites for the genus and significantly expanding its known chemical diversity. The findings reveal organ- and method-specific metabolic specialization, underscoring the plant&#8217;s potential as a valuable source of novel bioactive compounds for pharmacological exploration.
+</p></sec></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front></article>
+        
+    </metadata>
+</record>
+    </GetRecord>
+
+</OAI-PMH>

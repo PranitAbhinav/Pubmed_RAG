@@ -1,0 +1,55 @@
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2025-09-09T14:02:21Z</responseDate>
+    <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:12407800" metadataPrefix="pmc">https://pmc.ncbi.nlm.nih.gov/api/oai/v1/mh/</request>
+    
+    <GetRecord>
+        <record>
+    <header>
+    <identifier>oai:pubmedcentral.nih.gov:12407800</identifier>
+    <datestamp>2025-09-04</datestamp>
+    
+        
+        <setSpec>pmc-open</setSpec>
+        
+    
+</header>
+    <metadata>
+        
+        <article xmlns="https://jats.nlm.nih.gov/ns/archiving/1.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.4/ https://jats.nlm.nih.gov/archiving/1.4/xsd/JATS-archivearticle1-4.xsd" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">bioRxiv</journal-id><journal-id journal-id-type="pmc-domain-id">3848</journal-id><journal-id journal-id-type="pmc-domain">biorxiv</journal-id><journal-id journal-id-type="publisher-id">BIORXIV</journal-id><journal-title-group><journal-title>bioRxiv</journal-title></journal-title-group><issn pub-type="epub">2692-8205</issn><publisher><publisher-name>Cold Spring Harbor Laboratory Preprints</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12407800</article-id><article-id pub-id-type="pmcid-ver">PMC12407800.1</article-id><article-id pub-id-type="pmcaid">12407800</article-id><article-id pub-id-type="pmcaiid">12407800</article-id><article-id pub-id-type="pmid">40909612</article-id><article-id pub-id-type="doi">10.1101/2025.08.25.671997</article-id><article-version-alternatives><article-version article-version-type="pmc-version">1</article-version><article-version article-version-type="status">preprint</article-version><article-version article-version-type="number">1</article-version></article-version-alternatives><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>
+BCL6 in T cells promotes type 1 diabetes by redirecting fates of insulin-autoreactive B lymphocytes
+</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Clark</surname><given-names initials="LM">Landon M.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-1537-4692</contrib-id></contrib><contrib contrib-type="author"><name name-style="western"><surname>McAninch</surname><given-names initials="JC">Jack C.</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>McNitt</surname><given-names initials="DH">Dudley H.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-8592-4015</contrib-id></contrib><contrib contrib-type="author"><name name-style="western"><surname>Padgett</surname><given-names initials="ML">Marguerite L.</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Jenkins</surname><given-names initials="TW">Tyler W.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0009-0002-3340-0740</contrib-id></contrib><contrib contrib-type="author"><name name-style="western"><surname>Bass</surname><given-names initials="LE">Lindsay E.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-3940-5633</contrib-id></contrib><contrib contrib-type="author"><name name-style="western"><surname>Nichols</surname><given-names initials="CM">Casey M.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0009-0000-5470-9558</contrib-id></contrib><contrib contrib-type="author"><name name-style="western"><surname>Rathmell</surname><given-names initials="JC">Jeffrey C.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-4106-3396</contrib-id></contrib><contrib contrib-type="author"><name name-style="western"><surname>Bonami</surname><given-names initials="RH">Rachel H.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-7575-6943</contrib-id></contrib></contrib-group><pub-date pub-type="epub"><day>28</day><month>8</month><year>2025</year></pub-date><issue-id pub-id-type="pmc-issue-id">496186</issue-id><elocation-id>2025.08.25.671997</elocation-id><pub-history><event event-type="pmc-release"><date><day>03</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>04</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-05 09:25:55.133"><day>05</day><month>09</month><year>2025</year></date></event></pub-history><permissions><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This work is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ext-link>, which allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="nihpp-2025.08.25.671997v1.pdf"/><self-uri xlink:href="http://biorxiv.org/lookup/doi/10.1101/2025.08.25.671997">http://biorxiv.org/lookup/doi/10.1101/2025.08.25.671997</self-uri><self-uri content-type="pdf">nihpp-2025.08.25.671997.pdf</self-uri><abstract><title>Abstract</title><p>
+Currently approved type 1 diabetes (T1D) immunotherapies broadly target T cells and delay but do not fully prevent diabetes development, highlighting the need for more selective targets. Anti-insulin germinal center B cells are uniquely able to present pathogenic insulin epitopes and drive anti-insulin T cells to adopt a T follicular helper fate. T cell expression of BCL6, a key transcriptional repressor in the germinal center response, is essential for spontaneous diabetes in non-obese diabetic (NOD) mice. However, the impact of T cells on pro-pathogenic anti-insulin B cell activity is still poorly understood. Here, we show that VH125
+<sup>SD</sup>
+.NOD mice with T cell loss of BCL6 still produce peripheral anti-insulin B cells yet are protected against diabetes (relative to
+<italic toggle="yes">Bcl6</italic>
+-sufficient controls). This protection was associated with reduced activation, proliferation, germinal center differentiation, and pancreatic infiltration of insulin-binding B cells. Minimally supervised analysis revealed insulin-binding B cells skew towards atypical memory B cell subsets specifically in pancreas and pancreatic lymph nodes, which was reduced by
+<italic toggle="yes">Bcl6</italic>
+<sup>
+&#916;
+<italic toggle="yes">CD4</italic>
+</sup>
+loss. Overall, this work suggests BCL6-expressing T cells are pivotal to license pathogenic insulin-binding B cells. Our findings support BCL6 inhibition as a promising T1D immunotherapy, even after insulin autoimmunity is established in the B cell repertoire.
+</p><sec><title>Article Highlights</title><list list-type="simple"><list-item><p>
+- Loss of floxed
+<italic toggle="yes">Bcl6</italic>
+via
+<italic toggle="yes">Cd4</italic>
+-Cre protects against type 1 diabetes even when an insulin-skewed B cell repertoire is present
+</p></list-item><list-item><p>
+- BCL6 loss in T cells reduces anti-insulin B cell upregulation of T cell co-stimulatory molecules, proliferation, and IgG class switching in pancreas and pancreatic lymph nodes in VH125
+<sup>SD</sup>
+.NOD mice
+</p></list-item><list-item><p>
+- Anti-insulin B cells skew towards atypical and atypical memory B cell phenotypes compared to non-insulin binding B cells in pancreas and pancreatic lymph nodes, only some of which are reduced by T cell loss of
+<italic toggle="yes">Bcl6</italic>
+</p></list-item><list-item><p>- This study highlights the translational potential of targeting BCL6, even after the establishment of insulin-reactive B cells, in line with typical intervention points for at-risk individuals</p></list-item></list></sec></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front></article>
+        
+    </metadata>
+</record>
+    </GetRecord>
+
+</OAI-PMH>

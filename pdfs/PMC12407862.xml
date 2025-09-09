@@ -1,0 +1,46 @@
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2025-09-09T14:02:44Z</responseDate>
+    <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:12407862" metadataPrefix="pmc">https://pmc.ncbi.nlm.nih.gov/api/oai/v1/mh/</request>
+    
+    <GetRecord>
+        <record>
+    <header>
+    <identifier>oai:pubmedcentral.nih.gov:12407862</identifier>
+    <datestamp>2025-09-04</datestamp>
+    
+        
+        <setSpec>pmc-open</setSpec>
+        
+    
+</header>
+    <metadata>
+        
+        <article xmlns="https://jats.nlm.nih.gov/ns/archiving/1.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.4/ https://jats.nlm.nih.gov/archiving/1.4/xsd/JATS-archivearticle1-4.xsd" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">bioRxiv</journal-id><journal-id journal-id-type="pmc-domain-id">3848</journal-id><journal-id journal-id-type="pmc-domain">biorxiv</journal-id><journal-id journal-id-type="publisher-id">BIORXIV</journal-id><journal-title-group><journal-title>bioRxiv</journal-title></journal-title-group><issn pub-type="epub">2692-8205</issn><publisher><publisher-name>Cold Spring Harbor Laboratory Preprints</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12407862</article-id><article-id pub-id-type="pmcid-ver">PMC12407862.1</article-id><article-id pub-id-type="pmcaid">12407862</article-id><article-id pub-id-type="pmcaiid">12407862</article-id><article-id pub-id-type="pmid">40909542</article-id><article-id pub-id-type="doi">10.1101/2025.08.26.672472</article-id><article-version-alternatives><article-version article-version-type="pmc-version">1</article-version><article-version article-version-type="status">preprint</article-version><article-version article-version-type="number">1</article-version></article-version-alternatives><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>
+spammR: an R package designed for analysis and integration of spatial multi-omic measurements
+</article-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Mahlich</surname><given-names initials="Y">Yannick</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-0717-2927</contrib-id></contrib><contrib contrib-type="author"><name name-style="western"><surname>Sohi</surname><given-names initials="H">Harkirat</given-names></name></contrib><contrib contrib-type="author"><name name-style="western"><surname>Piehowski</surname><given-names initials="P">Paul</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0001-5108-2227</contrib-id></contrib><contrib contrib-type="author"><name name-style="western"><surname>McDermott</surname><given-names initials="JE">Jason E</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0003-2961-2572</contrib-id></contrib><contrib contrib-type="author"><name name-style="western"><surname>Gosline</surname><given-names initials="SJ">Sara J</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-6534-4774</contrib-id></contrib></contrib-group><pub-date pub-type="epub"><day>28</day><month>8</month><year>2025</year></pub-date><issue-id pub-id-type="pmc-issue-id">496186</issue-id><elocation-id>2025.08.26.672472</elocation-id><pub-history><event event-type="pmc-release"><date><day>03</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>04</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-05 09:25:55.133"><day>05</day><month>09</month><year>2025</year></date></event></pub-history><permissions><license><ali:license_ref specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This work is licensed under a <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</ext-link>, which allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="nihpp-2025.08.26.672472v1.pdf"/><self-uri xlink:href="http://biorxiv.org/lookup/doi/10.1101/2025.08.26.672472">http://biorxiv.org/lookup/doi/10.1101/2025.08.26.672472</self-uri><self-uri content-type="pdf">nihpp-2025.08.26.672472.pdf</self-uri><abstract><title>Abstract</title><sec><title>Summary</title><p>Spatial omics is a young and evolving field and as such shows rapid development of novel technologies and analysis methods to measure transcripts, proteins, metabolites, and post-translational modifications at high spatial resolution. These advances in technology have enabled the simultaneous generation of abundance profiles for multiple different omics types and associated microscopy imaging data, as well as their analysis in a spatial context. However, most analytical tools are designed for spatial transcriptomics platforms and are challenging to use in other contexts such as mass spectrometry-based measurements or metagenomics.</p><p>
+To this end we present spammR (
+<underline>sp</underline>
+atial
+<underline>a</underline>
+nalysis of
+<underline>m</underline>
+ulti-omics
+<underline>m</underline>
+easurements in
+<underline>R</underline>
+), an R package that enables end-to-end analysis with a specific focus on mass-spectrometry derived spatial omics datasets with (1) smaller sample sizes and spatial sparsity of samples, (2) considerable missingness, and (3) no a-priori knowledge about proteins or genes of interest, relying on a fully data-driven approach.
+</p></sec><sec><title>Availability and implementation</title><p>
+spammR is implemented in R. The package is currently installable from GitHub (
+<ext-link xlink:href="https://github.com/PNNL-CompBio/spammR" ext-link-type="uri">https://github.com/PNNL-CompBio/spammR</ext-link>
+).
+</p></sec></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front></article>
+        
+    </metadata>
+</record>
+    </GetRecord>
+
+</OAI-PMH>

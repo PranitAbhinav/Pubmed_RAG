@@ -1,0 +1,521 @@
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2025-09-09T14:03:57Z</responseDate>
+    <request verb="GetRecord" identifier="oai:pubmedcentral.nih.gov:12406967" metadataPrefix="pmc">https://pmc.ncbi.nlm.nih.gov/api/oai/v1/mh/</request>
+    
+    <GetRecord>
+        <record>
+    <header>
+    <identifier>oai:pubmedcentral.nih.gov:12406967</identifier>
+    <datestamp>2025-09-04</datestamp>
+    
+        
+        <setSpec>jtgga</setSpec>
+        
+    
+        
+        <setSpec>pmc-open</setSpec>
+        
+    
+</header>
+    <metadata>
+        
+        <article xmlns="https://jats.nlm.nih.gov/ns/archiving/1.4/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xsi:schemaLocation="https://jats.nlm.nih.gov/ns/archiving/1.4/ https://jats.nlm.nih.gov/archiving/1.4/xsd/JATS-archivearticle1-4.xsd" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">J Turk Ger Gynecol Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Turk Ger Gynecol Assoc</journal-id><journal-id journal-id-type="pmc-domain-id">2240</journal-id><journal-id journal-id-type="pmc-domain">jtgga</journal-id><journal-title-group><journal-title>Journal of the Turkish German Gynecological Association</journal-title></journal-title-group><issn pub-type="ppub">1309-0399</issn><issn pub-type="epub">1309-0380</issn><publisher><publisher-name>Turkish German Gynecological Association</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12406967</article-id><article-id pub-id-type="pmcid-ver">PMC12406967.1</article-id><article-id pub-id-type="pmcaid">12406967</article-id><article-id pub-id-type="pmcaiid">12406967</article-id><article-id pub-id-type="pmid">40899399</article-id><article-id pub-id-type="doi">10.4274/jtgga.galenos.2025.2025-5-11</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Original Investigation</subject></subj-group></article-categories><title-group><article-title>Twin pregnancy: adolescents versus adults</article-title></title-group><contrib-group><contrib contrib-type="author" corresp="yes"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-5001-2339</contrib-id><name name-style="western"><surname>Jasim</surname><given-names initials="SK">Shaymaa Kadhim</given-names></name><xref rid="aff1" ref-type="aff">1</xref><email>shaimaa79kadhim@yahoo.com</email></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0009-9061-2206</contrib-id><name name-style="western"><surname>Daad</surname><given-names initials="R">Rusul</given-names></name><xref rid="aff1" ref-type="aff">1</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0009-0003-8101-7305</contrib-id><name name-style="western"><surname>Olewi</surname><given-names initials="AO">Abbas Oweid</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-9023-9901</contrib-id><name name-style="western"><surname>Al-Momen</surname><given-names initials="H">Hayder</given-names></name><xref rid="aff2" ref-type="aff">2</xref></contrib><contrib contrib-type="author"><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-6133-8115</contrib-id><name name-style="western"><surname>Almomen</surname><given-names initials="R">Rand</given-names></name><xref rid="aff3" ref-type="aff">3</xref></contrib><aff id="aff1"><label>1</label>Department of Obstetrics and Gynecology, College of Medicine, University of Baghdad, Baghdad, Iraq</aff><aff id="aff2"><label>2</label>Department of Pediatrics, Al-Kindy College of Medicine, University of Baghdad, Baghdad, Iraq</aff><aff id="aff3"><label>3</label>Department of Neurological Surgery, University of California, San Francisco, United States of America</aff></contrib-group><pub-date publication-format="print" date-type="pub"><month>9</month><year>2025</year></pub-date><pub-date publication-format="electronic" date-type="pub"><day>03</day><month>9</month><year>2025</year></pub-date><volume>26</volume><issue>3</issue><issue-id pub-id-type="pmc-issue-id">496164</issue-id><fpage>174</fpage><lpage>179</lpage><history><date date-type="received"><day>12</day><month>6</month><year>2025</year></date><date date-type="accepted"><day>28</day><month>7</month><year>2025</year></date></history><pub-history><event event-type="pmc-release"><date><day>03</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>04</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2025-09-04 10:25:45.023"><day>04</day><month>09</month><year>2025</year></date></event></pub-history><permissions><copyright-statement>Copyright&#169; 2025 The Author. Published by Galenos Publishing House on behalf of Turkish-German Gynecological Association.</copyright-statement><copyright-year>2025</copyright-year><copyright-holder>Journal of the Turkish-German Gynecological Association</copyright-holder><license><ali:license_ref specific-use="textmining" content-type="ccbyncndlicense">https://creativecommons.org/licenses/by-nc-nd/4.0/</ali:license_ref><license-p>This is an open access article under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND) International License.</license-p></license></permissions><self-uri content-type="pmc-pdf" xlink:href="JTurkGerGynecolAssoc-26-3-174.pdf"/><abstract abstract-type="section"><sec><title>Objective</title><p>Various nations, and this could create a new era of very young mothers which apply an additional pressure on obstetrical and neonatal health system. In cases of twin pregnancy, the burden would be maximized. The aim was to highlight the differences of obstetrical and neonatal outcomes of twin adolescent pregnancy compared to adults.</p></sec><sec><title>Material and Methods</title><p>Data were collected prospectively over five years from a tertiary obstetric and neonatal center. Two categories of twin pregnancies were formed from adolescents as the case group and adults as controls.</p></sec><sec><title>Results</title><p>The adolescent group included 59 women and adults numbered 782. The adolescents had significantly higher rates of very preterm delivery, defined as gestational age [(GA) 28&#8804;32 weeks] [odds ratio (95% confidence interval) 2.64 (1.26-3.92)], p&lt;0.05], and significantly lower mean GA than adults (36.6&#177;4.1 versus 37.8&#177;2.6, weeks respectively). Babies delivered to adolescents had significantly lower mean birth weight (1936.5&#177;0.604 g), birth height (43.4&#177;4.3 cm), and occipitofrontal circumference (OFC) (30.8&#177;3.3 cm). Moreover, there was a significantly higher frequency of neonates with APGAR score &lt;7 at the fifth minute [31 (52.54)], low birth weight [53 (89.83)], and neonatal intensive care unit (NICU) admission [38 (64.41)].</p></sec><sec><title>Conclusion</title><p>Twin adolescent pregnancy had significantly elevated metrics for obstetric and neonatal complications, which were especially notable for very preterm delivery, low neonatal birth weight and short birth length, and reduced OFC, APGAR score &lt;7 at the fifth minute, and NICU admission rate.</p></sec></abstract><kwd-group><kwd>Complications</kwd><kwd>maternal</kwd><kwd>newborn</kwd><kwd>pregnancy</kwd><kwd>teenage</kwd><kwd>twin</kwd></kwd-group><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec sec-type="introduction"><title>Introduction</title><p>Pregnancy between the ages of 10-19 years is considered adolescent pregnancy, while any age older than that is defined as adult pregnancy (<xref rid="ref-1" ref-type="bibr">1</xref>).</p><p>Although adolescent pregnancy is not common, it has shown an increasing trend worldwide although the rates vary widely from country to country, and have been reported to range from 0.1% to over 20%. The incidence tends to be higher in developing countries compared to developed countries, however (<xref rid="ref-2" ref-type="bibr">2</xref>, <xref rid="ref-3" ref-type="bibr">3</xref>).</p><p>The rate of twin adolescent pregnancy is much lower at about 1.5% globally. Assisted reproductive technologies (ART) have significantly increased this rate (up to 32.1%), but ART is more easily accessible in the developed parts of the world(<xref rid="ref-4" ref-type="bibr">4</xref>, <xref rid="ref-5" ref-type="bibr">5</xref>). However, the present study only examined spontaneous twin pregnancies and thus focused on natural twinning rates.</p><p>In most of the developing countries in the Middle East and North Africa, the rates of adolescent pregnancy are among the highest in the world due to many factors. These include the social belief of early marriage, and background cultural acceptance of pregnancy at a very young age. These beliefs extend beyond pregnancy through all age groups and involve the use of certain drugs and remedies to support the health of adolescent pregnant women and her neonate based on traditional beliefs. As a result, the rate of twinning in adolescents may be as high as 16 per 1,000 births(<xref rid="ref-6" ref-type="bibr">6</xref>, <xref rid="ref-7" ref-type="bibr">7</xref>, <xref rid="ref-8" ref-type="bibr">8</xref>, <xref rid="ref-9" ref-type="bibr">9</xref>).</p><p>In general, twin pregnancy carries risks to the mother and her babies and more risks are associated with adolescents as these women are not biologically and mentally mature enough to face the burden of this health-related event. Many complications may arise, such as preterm delivery, gestational hypertension (GH), gestational diabetes (GDM), higher cesarean section (CS) rates, and low birth weight (LBW) with higher chances of the newborn baby needing neonatal intensive care unit (NICU) admission. Similarly, advanced maternal is also associated with more complications with higher rates of maternal and neonatal morbidities(<xref rid="ref-10" ref-type="bibr">10</xref>, <xref rid="ref-11" ref-type="bibr">11</xref>, <xref rid="ref-12" ref-type="bibr">12</xref>).</p><p>The limited published data about adolescent twin pregnancy and the expected load on the health system dealing with twinning pregnancy at different maternal ages(<xref rid="ref-2" ref-type="bibr">2</xref>, <xref rid="ref-6" ref-type="bibr">6</xref>) are the major stimuli for this study. The aims are to examine and report obstetrical and neonatal outcomes of twin pregnancy in adolescents compared to twin pregnancies in adults.</p></sec><sec><title>Material and Methods</title><p>Twin pregnant women who visited obstetrics and gynecology department at a tertiary medical center over five years, from November 2019 to October 2024 were prospectively included. Data were obtained from the attending obstetrical and neonatal units&#8217; records under the supervision of the researchers.</p><p><bold>Exclusion criteria were:</bold> previously diagnosed chronic maternal disease, including hematological, cardiovascular, immunological, endocrinological, and oncological abnormalities; fetal retardation-associated pregnancies; pregnancies resulting from in vitro fertilization (to decrease bias in results when comparing twin pregnancy outcomes in adolescents versus (vs) adults); premature delivery before 28 weeks gestation; VLBW below 1,000 g; congenital and/or chromosomal neonatal defects; and missing and incomplete data. Two groups were formed; the study group included adolescent twin pregnant women and the control group included adult twin pregnant women aged (20-34) years.</p><sec><title>Definitions</title><p>The adolescent pregnant women were defined as women aged (10-19) years, while pregnant women aged &#179;20 years were defined as adult (<xref rid="ref-13" ref-type="bibr">13</xref>, <xref rid="ref-14" ref-type="bibr">14</xref>).</p><p>Preterm pregnancy was defined as gestational age (GA) birth below 37 completed weeks, and late preterm pregnancy was defined as GA between 32-37 weeks. If GA was 28 to &lt;32 weeks, this was categorized as a very preterm pregnancy, while an extremely preterm pregnancy was one when birth occurred with GA &lt;28 weeks (<xref rid="ref-15" ref-type="bibr">15</xref>, <xref rid="ref-16" ref-type="bibr">16</xref>).</p><p>Premature rupture of membranes (PROM) as defined as rupture occurring before 37 weeks GA (<xref rid="ref-17" ref-type="bibr">17</xref>).</p><p>LBW, and VLBW neonates were defined when birth weight was &lt;2.5 kg, and &lt;1.5 kg, respectively (<xref rid="ref-18" ref-type="bibr">18</xref>, <xref rid="ref-19" ref-type="bibr">19</xref>).</p><p>The definition of GH follows the guidelines set by the American College of Obstetricians and Gynecologists. This is characterized by a systolic blood pressure of &#179;140 mm Hg or a diastolic blood pressure of &#179;90 mm Hg on two separate readings taken at least 4 hours apart after 20 weeks of pregnancy in a woman with previously normal blood pressure (<xref rid="ref-20" ref-type="bibr">20</xref>, <xref rid="ref-21" ref-type="bibr">21</xref>). Women with GH were managed according to the hospital&#8217;s guideline with labetalol and/or methyldopa.</p><p>Maternal anemia was defined as a hemoglobin level less than 11 g/dL measured at birth (<xref rid="ref-14" ref-type="bibr">14</xref>, <xref rid="ref-22" ref-type="bibr">22</xref>).</p><p>GDM was diagnosed after 20 weeks of pregnancy following the criteria established by the International Association of Diabetes in Pregnancy Study Groups. Diagnosis involved a fasting plasma glucose level exceeding 91.8 mg/dL, or elevated postprandial levels during a 75 g oral glucose tolerance test, with thresholds of over 180 mg/dL at one hour and over 153 mg/dL at two hours (<xref rid="ref-11" ref-type="bibr">11</xref>, <xref rid="ref-22" ref-type="bibr">22</xref>). Women with GDM were managed according to the hospital&#8217;s guideline and started with diet and healthy lifestyle, and if that failed, metformin was tried before the use of insulin which was considered the last treatment option.</p><p>Body mass index was calculated using the standard formula: body weight (kg)/ height (m<sup>2</sup>) (<xref rid="ref-23" ref-type="bibr">23</xref>).</p><p>Stillbirth was defined as a baby that died after 28 weeks of GA, but before or during delivery (<xref rid="ref-24" ref-type="bibr">24</xref>).</p><p>The attending obstetrician and neonatologist completed all the needed measurements according to standard hospital guidelines, under observation of the authors.</p><p>This study was approved by the Al-Kindy College of Medicine University of Baghdad (approval number: 89, date: 23.09.2019).</p></sec><sec><title>Statistical analysis</title><p>Data analysis was conducted using the Statistical Package for the Social Sciences (SPSS), version 25.0 (IBM Corporation, Armonk, New York, USA), with a significance threshold set at p&lt;0.05 for all tests. The normality of the data was assessed using the Kolmogorov-Smirnov test. Parametric data were analyzed with Student&#8217;s t-test, and results are presented as mean &#177; standard deviation. For non-parametric data, the Mann-Whitney U test was applied, with results reported as median (minimum, maximum). Categorical variables were assessed using the chi-square test, and odds ratios with 95% confidence intervals were calculated.</p></sec></sec><sec sec-type="results"><title>Results</title><p>The study group of adolescent twinning pregnancies included 59 women, and the control group of adult twinning pregnancies included 782 women.</p><p><xref rid="table-1" ref-type="table">Table 1</xref> shows the general sociodemographic characteristics. Evidently, median age (years) differed significantly between the adolescent and adult groups and multiparity was more frequent in adults. Both groups have comparable rates of CS, and the adolescent group included a larger percentage of primary CS. Mean stillbirth values were higher in adolescents without being significanct. Mean GA at birth was significantly lower in the adolescent group in comparison with the adult group (36.6&#177;4.1 and 37.8&#177;2.6, respectively), with approximately one week difference.</p><p>In terms of maternal outcomes (<xref rid="table-2" ref-type="table">Table 2</xref>), very preterm delivery has was significantly more common in adolescents than adults [31 (52.54) and 232 (29.67), respectively]. Conversely, late preterm delivery, extremely preterm delivery, and GDM were more common in the adult group, but not significantly so. In addition, preterm delivery, PROM, GD, GH, and maternal anemia were more common in adolescents.</p><p>In terms of neonatal outcomes (<xref rid="table-3" ref-type="table">Table 3</xref>), mean birth weight (g), birth length (cm), and occipitofrontal circumference (OFC; in cm) were significantly less in babies born to adolescents compared to those born to adults (1936.5&#177;0.604 vs. 2181.7&#177;0.522, 43.4&#177;4.3 vs. 44.6&#177;4.1, and 30.8&#177;3.3 vs. 31.9&#177;3.8, respectively). Proportion of neonates with APGAR score &lt;7 at the fifth minute, LBW, and NICU admission were significant larger in the adolescent group than the adult group [31 (52.54) vs. 367 (46.93), 53 (89.83) vs. 527 (67.39), and 38 (64.41) vs. 1.76 (1.1-3.2), respectively]. However, although the APGAR score &lt;7 at the first minute and VLBW were more frequent in the adolescent group than in adults, these variables failed to reach statistical significance [31 (52.54) vs. 367 (46.93), and 8 (13.56) vs. 81 (10.36), in corresponding order].</p></sec><sec sec-type="discussion"><title>Discussion</title><p>Although twin pregnancy at any age is a major health concern, adolescent population may fare worse. In the present study, median ages of adolescent and adult pregnant women was around 18 and 28 years, respectively. This is in line with other local and international figures(<xref rid="ref-3" ref-type="bibr">3</xref>, <xref rid="ref-6" ref-type="bibr">6</xref>, <xref rid="ref-25" ref-type="bibr">25</xref>). Parity in adults was much higher than in adolescents, unsurprisingly, as with age progression the number of deliveries is likely to increase(<xref rid="ref-2" ref-type="bibr">2</xref>, <xref rid="ref-26" ref-type="bibr">26</xref>).</p><p>Operative delivery by CS had similar rates in both groups, possibly because of obstetrician&#8217;s choice for twin pregnancies(<xref rid="ref-25" ref-type="bibr">25</xref>, <xref rid="ref-27" ref-type="bibr">27</xref>). Primary CS was predominant in adolescents while adults had predominantly repeated CS. This is obvious as adolescent pregnancy is a risk factor by itself and with elevated parity numbers the possibility of repeated operative delivery and CS increases (<xref rid="ref-2" ref-type="bibr">2</xref>, <xref rid="ref-27" ref-type="bibr">27</xref>, <xref rid="ref-28" ref-type="bibr">28</xref>).</p><p>There was a one-week difference in GA at birth between adolescents and adults. However, it has been shown that GA at birth is shortened in both adolescent pregnancies and twin pregnancies(<xref rid="ref-29" ref-type="bibr">29</xref>, <xref rid="ref-30" ref-type="bibr">30</xref>).</p><p>Although preterm delivery was more frequent in the adolescent group, very preterm delivery was the only definition of prematurity to exhibit a significant difference. Conflicting previous reports have shown various results. One much earlier study found no difference in preterm rates between adolescents and adults, while a more recent paper revealed a higher occurrence of very advanced preterm labor with less than 28 weeks in twin adolescent pregnancy. However, a third paper reported higher preterm deliveries of less than 33 weeks in twin adolescent pregnancy(<xref rid="ref-31" ref-type="bibr">31</xref>, <xref rid="ref-32" ref-type="bibr">32</xref>, <xref rid="ref-33" ref-type="bibr">33</xref>). These contradictory results could be related to the number and ethnic background of involved samples, and the criteria used for defining different categories of preterm delivery.</p><p>Obstetric complications including PROM are more common in both adolescent pregnancies and twin pregnancies, which is in parallel with our results (<xref rid="ref-2" ref-type="bibr">2</xref>, <xref rid="ref-26" ref-type="bibr">26</xref>, <xref rid="ref-27" ref-type="bibr">27</xref>).</p><p>GH was more common in our adolescent pregnancy cohort. Again, published evidence is contradictory about this. Some reports found no differences in GH in different age groups, while others observed a higher incidence in adolescents (<xref rid="ref-12" ref-type="bibr">12</xref>, <xref rid="ref-29" ref-type="bibr">29</xref>, <xref rid="ref-31" ref-type="bibr">31</xref>, <xref rid="ref-32" ref-type="bibr">32</xref>). The multifactorial etiology of GH may explain these contrary results.</p><p>Anemia is a common feature of adolescents in general, especially nutritional anemia due to iron deficiency since they have elevated iron requirements because their physical development is not yet finished. Besides, pregnancy is a known cause of iron deficiency. Accordingly, anemia is more common in all age groups during pregnancy but slightly more so in adolescents (<xref rid="ref-14" ref-type="bibr">14</xref>, <xref rid="ref-34" ref-type="bibr">34</xref>).</p><p>As individuals grow older the sensitivity of pancreatic beta cells decreases. Pregnancy also increases demand on the maternal beta-cell function. Given this, adult pregnant women have a higher chance to develop GDM than adolescents, and that is what we found in our sample (<xref rid="ref-11" ref-type="bibr">11</xref>, <xref rid="ref-21" ref-type="bibr">21</xref>).</p><p>With respect to neonatal complications, we found that neonatal weight, length, and OFC measurements were significantly less in babies born to adolescents. This is in line with the published evidence. Furthermore, adolescents may focus on their body shape, even during pregnancy, using various approaches like fasting, lowering amount and type of daily food and calories, and even vomiting. Besides, adolescent physical development may not be complete, especially in younger adolescents, and this could lead to conflicting needs for nutrient absorption and utilization between the developing body of the adolescent and their fetuses. Given these factors, and the one week difference in GA at birth, the findings concerning neonatal anthropometry in the two groups in our study may be unsurprising (<xref rid="ref-2" ref-type="bibr">2</xref>, <xref rid="ref-6" ref-type="bibr">6</xref>, <xref rid="ref-35" ref-type="bibr">35</xref>, <xref rid="ref-36" ref-type="bibr">36</xref>).</p><p>In the present study, being adolescent when pregnant was significantly associated with reduced rates of APGAR score &lt;7 at 5<sup>th</sup> minute, LBW, and NICU admission were found. Many earlier investigations had the same opinion showing poor neonatal parameters and outcomes (<xref rid="ref-2" ref-type="bibr">2</xref>, <xref rid="ref-6" ref-type="bibr">6</xref>, <xref rid="ref-25" ref-type="bibr">25</xref>, <xref rid="ref-37" ref-type="bibr">37</xref>, <xref rid="ref-38" ref-type="bibr">38</xref>).</p><sec><title>Study limitations</title><p>Strengths of this work include prospective data collection over five years and being conducted at the largest tertiary medical facility in Iraq.</p><p>Yet, some limitations should be acknowledged, including the single-center nature of the study, the relatively small number of women with twin pregnancies, especially adolescents, leading to limited statistical power to detect differences in rare outcomes, such as GDM and GH, and lack of nutritional data for the pregnant women. Finally, the sociodemographic characteristics of the Iraqi population mean that the findings may not be generalizable. Thus more studies with expanded international diversity are suggested.</p></sec></sec><sec sec-type="conclusion"><title>Conclusion</title><p>This study investigated outcomes of twin pregnancies in adolescents and adult women where adolescent pregnancy was considered a high-risk medical concern. It was found that adolescent twin pregnancy was associated with increased complications and morbidities, both for the mother and the twins. Of note, there was a heightened vulnerability of very preterm delivery, APGAR score &lt;7 at the fifth minute, LBW, and NICU admission in the adolescent group. Furthermore, neonatal birth weight, birth length, and OFC were all significantly lower in twins born to adolescents.</p></sec></body><back><ack><p>
+<italic toggle="yes">The authors thank the resident obstetric doctors, and health and administrative staff of Baghdad Teaching Hospital in Medical City.</italic>
+</p></ack><fn-group><fn id="fn-0" fn-type="ethics"><p>
+<bold>Ethics Committee Approval:</bold>
+<italic toggle="yes"> This study was approved by the Al-Kindy College of Medicine University of Baghdad (approval number: 89, date: 23.09.2019).</italic>
+</p></fn><fn id="fn-1" fn-type="consent"><p>
+<bold>Informed Consent:</bold>
+<italic toggle="yes"> Helsinki declaration guidelines were applied, and an instructed consent was gathered from all participants.</italic>
+</p></fn><fn id="fn-3" fn-type="author-contributions"><p>
+<bold>Author Contributions:</bold>
+<italic toggle="yes"> Surgical and Medical Practices: S.K.J., R.D., A.O.O., H.A.M, R.A., Concept: S.K.J., R.D., R.A., Design: S.K.J., R.D., A.O.O., H.A.M, Data Collection or Processing: S.K.J., R.D., A.O.O., Analysis or Interpretation: S.K.J., R.D., H.A.M, Literature Search: R.D., A.O.O., H.A.M, R.A., Writing: S.K.J., R.D., A.O.O., H.A.M, R.A.</italic>
+</p></fn><fn id="fn-4" fn-type="COI-statement"><p>
+<bold>
+<italic toggle="yes">Conflict of Interest:</italic>
+</bold>
+<italic toggle="yes"> No conflict of interest is declared by the authors.</italic>
+</p></fn><fn id="fn-5" fn-type="financial-disclosure"><p>
+<bold>
+<italic toggle="yes">Financial Disclosure:</italic>
+</bold>
+<italic toggle="yes"> The authors declared that this study received no financial support.</italic>
+</p></fn></fn-group><ref-list><title>References</title><ref id="ref-1"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shukla</surname><given-names>S</given-names></name><name name-style="western"><surname>Abejirinde</surname><given-names>IO</given-names></name><name name-style="western"><surname>Meyer</surname><given-names>SR</given-names></name><name name-style="western"><surname>Shenderovich</surname><given-names>Y</given-names></name><name name-style="western"><surname>Steinert</surname><given-names>JI</given-names></name></person-group><article-title>Mechanisms behind gender transformative approaches targeting adolescent pregnancy in low-and middle-income countries: a realist synthesis protocol.</article-title><source>Syst Rev</source><year iso-8601-date="2024">2024</year><volume>13</volume><issue>1</issue><fpage>95</fpage><pub-id pub-id-type="doi">10.1186/s13643-024-02513-4</pub-id><pub-id pub-id-type="pmid">38521961</pub-id><pub-id pub-id-type="pmcid">PMC10960499</pub-id></element-citation></ref><ref id="ref-2"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jasim</surname><given-names>SK</given-names></name><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Obaid</surname><given-names>AA</given-names></name></person-group><article-title>Differences in perinatal outcomes in teenage mothers with their first and third pregnancies and predictors of adverse neonatal events: a cross-sectional study.</article-title><source>Int J Reprod Biomed</source><year iso-8601-date="2021">2021</year><volume>19</volume><fpage>1005</fpage><lpage>14</lpage><pub-id pub-id-type="pmid">34977458</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.18502/ijrm.v19i11.9916</pub-id><pub-id pub-id-type="pmcid">PMC8717083</pub-id></element-citation></ref><ref id="ref-3"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>&#304;mir</surname><given-names>GA</given-names></name><name name-style="western"><surname>&#199;etin</surname><given-names>M</given-names></name><name name-style="western"><surname>Balta</surname><given-names>&#214;</given-names></name><name name-style="western"><surname>B&#252;y&#252;kayhan</surname><given-names>D</given-names></name><name name-style="western"><surname>&#199;etin</surname><given-names>A</given-names></name></person-group><article-title>Perinatal outcomes of adolescent pregnancies at a university hospital in Turkey.</article-title><source>J Turk Ger Gynecol Assoc</source><year iso-8601-date="2008">2008</year><volume>9</volume><fpage>71</fpage><lpage>4</lpage></element-citation></ref><ref id="ref-4"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>G&#252;nther</surname><given-names>V</given-names></name><name name-style="western"><surname>Bauer</surname><given-names>M</given-names></name><name name-style="western"><surname>Maass-Poppenhusen</surname><given-names>K</given-names></name><name name-style="western"><surname>Maass</surname><given-names>N</given-names></name><name name-style="western"><surname>Alkatout</surname><given-names>I</given-names></name></person-group><article-title>Pediatric and adolescent gynecology-a current overview.</article-title><source>J Turk Ger Gynecol Assoc</source><year iso-8601-date="2023">2023</year><volume>24</volume><issue>1</issue><fpage>65</fpage><lpage>73</lpage><pub-id pub-id-type="doi">10.4274/jtgga.galenos.2022.2022-5-4</pub-id><pub-id pub-id-type="pmid">36420782</pub-id><pub-id pub-id-type="pmcid">PMC10019018</pub-id></element-citation></ref><ref id="ref-5"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Chen</surname><given-names>L</given-names></name><name name-style="western"><surname>Dong</surname><given-names>Q</given-names></name><name name-style="western"><surname>Weng</surname><given-names>R</given-names></name></person-group><article-title>Maternal and neonatal outcomes of dichorionic twin pregnancies achieved with assisted reproductive technology: meta-analysis of contemporary data.</article-title><source>Journal of Assisted Reproduction and Genetics</source><year iso-8601-date="2024">2024</year><volume>41</volume><issue>3</issue><fpage>581</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1007/s10815-024-03035-7</pub-id><pub-id pub-id-type="pmid">38285318</pub-id><pub-id pub-id-type="pmcid">PMC10957850</pub-id></element-citation></ref><ref id="ref-6"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jasim</surname><given-names>SK</given-names></name><name name-style="western"><surname>Olewi</surname><given-names>AO</given-names></name><name name-style="western"><surname>Al-Asadi</surname><given-names>F</given-names></name><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Hussein</surname><given-names>MJ</given-names></name><name name-style="western"><surname>Majeed</surname><given-names>BA</given-names></name><etal/></person-group><article-title>Obstetric and neonatal outcomes in overweight adolescent pregnant mothers.</article-title><source>J Obstet Gynaecol India</source><year iso-8601-date="2025">2025</year><volume>75</volume><issue>S1</issue><fpage>274</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1007/s13224-024-01966-w</pub-id><pub-id pub-id-type="pmid">40390921</pub-id><pub-id pub-id-type="pmcid">PMC12085538</pub-id></element-citation></ref><ref id="ref-7"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Daher</surname><given-names>AM</given-names></name><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Jasim</surname><given-names>SK</given-names></name></person-group><article-title>Deferasirox in thalassemia: a comparative study between an innovator drug and its copy among a sample of Iraqi patients.</article-title><source>Ther Adv Drug Saf</source><year iso-8601-date="2019">2019</year><volume>10</volume><fpage>2042098619880123</fpage><pub-id pub-id-type="doi">10.1177/2042098619880123</pub-id><pub-id pub-id-type="pmid">31636883</pub-id><pub-id pub-id-type="pmcid">PMC6785916</pub-id></element-citation></ref><ref id="ref-8"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Jasim</surname><given-names>SK</given-names></name><name name-style="western"><surname>Al-Ameri</surname><given-names>LT</given-names></name></person-group><article-title>Speculations of immunotherapy in COVID-19 patients with practical applications during childhood and pregnancy</article-title><source>AL-Kindy College Medical Journal</source><year iso-8601-date="2020">2020</year><volume>16</volume><fpage>16</fpage><lpage>22</lpage></element-citation></ref><ref id="ref-9"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jasim</surname><given-names>SK</given-names></name><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Alqurishi</surname><given-names>AK</given-names></name></person-group><article-title>Effects of excessive tea consumption on pregnancy weight gain and neonatal birth weight.</article-title><source>Obstet Gynecol Sci</source><year iso-8601-date="2021">2021</year><volume>64</volume><issue>1</issue><fpage>34</fpage><lpage>41</lpage><pub-id pub-id-type="doi">10.5468/ogs.20157</pub-id><pub-id pub-id-type="pmid">33249804</pub-id><pub-id pub-id-type="pmcid">PMC7834757</pub-id></element-citation></ref><ref id="ref-10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Akar</surname><given-names>B</given-names></name><name name-style="western"><surname>Ceylan</surname><given-names>Y</given-names></name><name name-style="western"><surname>Kahraman</surname><given-names>A</given-names></name><name name-style="western"><surname>K&#246;le</surname><given-names>E</given-names></name><name name-style="western"><surname>&#199;al&#305;&#351;kan</surname><given-names>E</given-names></name></person-group><article-title>Centile charts of cervical length in singleton and twin pregnancies between 16 and 24 weeks of gestation.</article-title><source>J Turk Ger Gynecol Assoc</source><year iso-8601-date="2023">2023</year><volume>24</volume><issue>2</issue><fpage>114</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.4274/jtgga.galenos.2023.2022-7-3</pub-id><pub-id pub-id-type="pmid">36999666</pub-id><pub-id pub-id-type="pmcid">PMC10258568</pub-id></element-citation></ref><ref id="ref-11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jasim</surname><given-names>SK</given-names></name><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Wahbi</surname><given-names>MA</given-names></name></person-group><article-title>Treatment options of adolescent gestational diabetes: effect on outcome.</article-title><source>Pak J Med Sci</source><year iso-8601-date="2021">2021</year><volume>37</volume><issue>4</issue><fpage>1139</fpage><lpage>44</lpage><pub-id pub-id-type="doi">10.12669/pjms.37.4.3966</pub-id><pub-id pub-id-type="pmid">34290797</pub-id><pub-id pub-id-type="pmcid">PMC8281180</pub-id></element-citation></ref><ref id="ref-12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Majeed</surname><given-names>BA</given-names></name><name name-style="western"><surname>Jasim</surname><given-names>SK</given-names></name><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Hussein</surname><given-names>MJ</given-names></name></person-group><article-title>Iraqi women with preeclampsia: maternal and neonatal outcomes.</article-title><source>Open Access Maced J Med Sci</source><year iso-8601-date="2020">2020</year><volume>8</volume><issue>B</issue><fpage>866</fpage><lpage>70</lpage><pub-id pub-id-type="doi">10.3889/oamjms.2020.5043</pub-id></element-citation></ref><ref id="ref-13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Al-Tamimi</surname><given-names>WY</given-names></name><name name-style="western"><surname>Khudhair</surname><given-names>Hussein H</given-names></name><name name-style="western"><surname>Raham</surname><given-names>TF</given-names></name></person-group><article-title>Management of COVID-19 in children and adolescents-a practical up-to date guideline. AL-Kindy College Medical Journal.</article-title><year iso-8601-date="2020">2020</year><volume>18</volume><fpage>16</fpage></element-citation></ref><ref id="ref-14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jasim</surname><given-names>SK</given-names></name><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Al-Asadi</surname><given-names>F</given-names></name></person-group><article-title>Maternal anemia prevalence and subsequent neonatal complications in Iraq.</article-title><source>Open Access Maced J Med Sci</source><year iso-8601-date="2020">2020</year><volume>8</volume><issue>B</issue><fpage>71</fpage><lpage>5</lpage><pub-id pub-id-type="doi">10.3889/oamjms.2020.3593</pub-id></element-citation></ref><ref id="ref-15"><label>15</label><element-citation publication-type="webpage"><article-title>World Health Organization. Preterm birth fact sheet. Last accessed date: 02.03.2025. Available from: https://www.who.int/news-room/fact-sheets/detail/preterm-birth</article-title></element-citation></ref><ref id="ref-16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jasim</surname><given-names>SK</given-names></name><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Mahdi</surname><given-names>ZI</given-names></name><name name-style="western"><surname>Almomen</surname><given-names>R</given-names></name></person-group><article-title>Obstetric and neonatal complications in large for gestational age pregnancy with late gestational diabetes.</article-title><source>J Turk Ger Gynecol Assoc</source><year iso-8601-date="2023">2023</year><volume>24</volume><issue>1</issue><fpage>12</fpage><lpage>7</lpage><pub-id pub-id-type="doi">10.4274/jtgga.galenos.2022.2021-10-6</pub-id><pub-id pub-id-type="pmid">36919478</pub-id><pub-id pub-id-type="pmcid">PMC10019017</pub-id></element-citation></ref><ref id="ref-17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Nori</surname><given-names>W</given-names></name><name name-style="western"><surname>Akram</surname><given-names>N</given-names></name><name name-style="western"><surname>Al-Kinani</surname><given-names>M</given-names></name></person-group><article-title>Radiological modalities for the assessment of fetal growth restriction: a comprehensive review. AL-Kindy College Medical Journal.</article-title><year iso-8601-date="2024">2024</year><volume>20</volume><fpage>4</fpage><lpage>13</lpage></element-citation></ref><ref id="ref-18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Shalal</surname><given-names>MM</given-names></name><name name-style="western"><surname>Jasim</surname><given-names>SK</given-names></name><name name-style="western"><surname>Abd</surname><given-names>HK</given-names></name></person-group><article-title>Prediction of placenta accreta using hyperglycosylated human chorionic gonadotropin.</article-title><source>Int J Womans Health Reprod Sci</source><year iso-8601-date="2020">2020</year><volume>8</volume><issue>2</issue><fpage>142</fpage><lpage>6</lpage><pub-id pub-id-type="doi">10.15296/ijwhr.2020.22</pub-id></element-citation></ref><ref id="ref-19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Muhammed</surname><given-names>MK</given-names></name><name name-style="western"><surname>Alshaheen</surname><given-names>AA</given-names></name></person-group><article-title>Neonatal seizures in Iraq: cause and outcome.</article-title><source>Tohoku J Exp Med</source><year iso-8601-date="2018">2018</year><volume>246</volume><issue>4</issue><fpage>245</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1620/tjem.246.245</pub-id><pub-id pub-id-type="pmid">30555128</pub-id></element-citation></ref><ref id="ref-20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hauptman</surname><given-names>I</given-names></name><name name-style="western"><surname>Gill</surname><given-names>KS</given-names></name><name name-style="western"><surname>Lim</surname><given-names>T</given-names></name><name name-style="western"><surname>Mack</surname><given-names>WJ</given-names></name><name name-style="western"><surname>Wilson</surname><given-names>ML</given-names></name></person-group><article-title>Prediction of neonatal outcomes using gestational age vs ACOG definitions of maternal disease severity in hypertensive disorders of pregnancy.</article-title><source>Arch Gynecol Obstet</source><year iso-8601-date="2025">2025</year><volume>311</volume><issue>3</issue><fpage>639</fpage><lpage>48</lpage><pub-id pub-id-type="doi">10.1007/s00404-024-07684-y</pub-id><pub-id pub-id-type="pmid">39152282</pub-id><pub-id pub-id-type="pmcid">PMC11920366</pub-id></element-citation></ref><ref id="ref-21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jasim</surname><given-names>SK</given-names></name><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Al-Naddawi</surname><given-names>AM</given-names></name></person-group><article-title>Prediction of maternal diabetes and adverse neonatal outcome in normotensive pregnancy using serum uric acid.</article-title><source>Int J Res Pharm Sci</source><year iso-8601-date="2019">2019</year><volume>10</volume><fpage>3563</fpage><lpage>9</lpage></element-citation></ref><ref id="ref-22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Jasim</surname><given-names>SK</given-names></name><name name-style="western"><surname>Hassan</surname><given-names>QA</given-names></name><name name-style="western"><surname>Ali</surname><given-names>HH</given-names></name></person-group><article-title>Relationship between liver iron concentration determined by R2-MRI, serum ferritin, and liver enzymes in patients with thalassemia intermedia.</article-title><source>Blood Res</source><year iso-8601-date="2018">2018</year><volume>53</volume><issue>4</issue><fpage>314</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.5045/br.2018.53.4.314</pub-id><pub-id pub-id-type="pmid">30588469</pub-id><pub-id pub-id-type="pmcid">PMC6300676</pub-id></element-citation></ref><ref id="ref-23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hussein</surname><given-names>HK</given-names></name><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Al-Qurishi</surname><given-names>AK</given-names></name></person-group><article-title>Association of baseline body mass index and other auxological data in short stature children with idiopathic growth hormone at Al-Rusafa district in Baghdad, Iraq.</article-title><source>Rawal Medical Journal</source><year iso-8601-date="2023">2023</year><volume>48</volume><fpage>681</fpage><lpage>4</lpage></element-citation></ref><ref id="ref-24"><label>24</label><element-citation publication-type="webpage"><article-title>World Health Organization. Stillbirth: issues in maternal and perinatal care. Last accessed date: 03.05.2025. Available from: https://www.who.int/news-room/ fact-sheets/detail/stillbirth</article-title></element-citation></ref><ref id="ref-25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jasim</surname><given-names>SK</given-names></name><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Wahbi</surname><given-names>MA</given-names></name><name name-style="western"><surname>Almomen</surname><given-names>R</given-names></name></person-group><article-title>Maternal and neonatal outcomes in adolescent pregnant women with one prior Cesarean section in Baghdad.</article-title><source>J Turk Ger Gynecol Assoc</source><year iso-8601-date="2023">2023</year><volume>24</volume><issue>2</issue><fpage>86</fpage><lpage>91</lpage><pub-id pub-id-type="doi">10.4274/jtgga.galenos.2023.2022-7-11</pub-id><pub-id pub-id-type="pmid">36991575</pub-id><pub-id pub-id-type="pmcid">PMC10258566</pub-id></element-citation></ref><ref id="ref-26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Eminov</surname><given-names>E</given-names></name><name name-style="western"><surname>Eminov</surname><given-names>A</given-names></name></person-group><article-title>Prevalence of adolescent pregnancy and evaluation of pregnancy outcomes: a retrospective study.</article-title><source>Arch Gynecol Obstet</source><year iso-8601-date="2025">2025</year><volume>311</volume><issue>5</issue><fpage>1351</fpage><lpage>8</lpage><pub-id pub-id-type="doi">10.1007/s00404-025-07931-w</pub-id><pub-id pub-id-type="pmid">39828776</pub-id><pub-id pub-id-type="pmcid">PMC12033177</pub-id></element-citation></ref><ref id="ref-27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Zhang</surname><given-names>H</given-names></name><name name-style="western"><surname>Gao</surname><given-names>T</given-names></name><name name-style="western"><surname>Du</surname><given-names>H</given-names></name></person-group><article-title>Factors affecting the success of labor in twin pregnancies: a retrospective study on maternal and fetal outcomes.</article-title><source>Int J Gynaecol Obstet</source><year iso-8601-date="2025">2025</year><volume>170</volume><fpage>410</fpage><lpage>6</lpage><pub-id pub-id-type="pmid">39968720</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ijgo.70009</pub-id></element-citation></ref><ref id="ref-28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Khalil</surname><given-names>AS</given-names></name><name name-style="western"><surname>Flora</surname><given-names>S</given-names></name><name name-style="western"><surname>Hagglund</surname><given-names>K</given-names></name><name name-style="western"><surname>Aslam</surname><given-names>M</given-names></name></person-group><article-title>Increased bladder injury rate during emergency and repeat cesarean section.</article-title><source>J Turk Ger Gynecol Assoc</source><year iso-8601-date="2023">2023</year><volume>24</volume><issue>2</issue><fpage>97</fpage><lpage>100</lpage><pub-id pub-id-type="doi">10.4274/jtgga.galenos.2023.2022-6-15</pub-id><pub-id pub-id-type="pmid">36991584</pub-id><pub-id pub-id-type="pmcid">PMC10258575</pub-id></element-citation></ref><ref id="ref-29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Hessami</surname><given-names>K</given-names></name><name name-style="western"><surname>Evans</surname><given-names>MI</given-names></name><name name-style="western"><surname>Nassr</surname><given-names>AA</given-names></name><name name-style="western"><surname>Espinoza</surname><given-names>J</given-names></name><name name-style="western"><surname>Donepudi</surname><given-names>RV</given-names></name><name name-style="western"><surname>Cortes</surname><given-names>MS</given-names></name><etal/></person-group><article-title>Fetal reduction of triplet pregnancies to twins vs singletons: a meta-analysis of survival and pregnancy outcome.</article-title><source>Am J Obstet Gynecol</source><year iso-8601-date="2022">2022</year><volume>227</volume><fpage>430</fpage><lpage>9</lpage><pub-id pub-id-type="pmid">35351408</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajog.2022.03.050</pub-id></element-citation></ref><ref id="ref-30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lipworth</surname><given-names>H</given-names></name><name name-style="western"><surname>Barrett</surname><given-names>JF</given-names></name><name name-style="western"><surname>Murphy</surname><given-names>KE</given-names></name><name name-style="western"><surname>Redelmeier</surname><given-names>D</given-names></name><name name-style="western"><surname>Melamed</surname><given-names>N</given-names></name></person-group><article-title>Gestational weight gain in twin gestations and pregnancy outcomes: a systematic review and meta-analysis.</article-title><source>BJOG</source><year iso-8601-date="2022">2022</year><volume>129</volume><issue>6</issue><fpage>868</fpage><lpage>79</lpage><pub-id pub-id-type="doi">10.1111/1471-0528.17011</pub-id><pub-id pub-id-type="pmid">34775675</pub-id></element-citation></ref><ref id="ref-31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Robson</surname><given-names>D</given-names></name><name name-style="western"><surname>Daniels</surname><given-names>S</given-names></name><name name-style="western"><surname>Flatley</surname><given-names>C</given-names></name><name name-style="western"><surname>Kumar</surname><given-names>S</given-names></name></person-group><article-title>Obstetric and perinatal outcomes for twin pregnancies in adolescent girls.</article-title><source>Sci Rep</source><year iso-8601-date="2018">2018</year><volume>8</volume><issue>1</issue><fpage>18072</fpage><pub-id pub-id-type="doi">10.1038/s41598-018-37364-2</pub-id><pub-id pub-id-type="pmid">30584240</pub-id><pub-id pub-id-type="pmcid">PMC6305379</pub-id></element-citation></ref><ref id="ref-32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Lopes</surname><given-names>FNB</given-names></name><name name-style="western"><surname>Gouveia</surname><given-names>APM</given-names></name><name name-style="western"><surname>Carvalho</surname><given-names>OMC</given-names></name><name name-style="western"><surname>J&#250;nior</surname><given-names>ABV</given-names></name><name name-style="western"><surname>Leite</surname><given-names>&#193;JM</given-names></name><name name-style="western"><surname>Araujo</surname><given-names>J&#250;nior E</given-names></name><etal/></person-group><article-title>Associated factors with neonatal near miss in twin pregnancies in a public referral maternity unit in Brazil.</article-title><source>J Turk Ger Gynecol Assoc</source><year iso-8601-date="2021">2021</year><volume>22</volume><fpage>12</fpage><lpage>21</lpage><pub-id pub-id-type="pmid">33624491</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4274/jtgga.galenos.2021.2020.0176</pub-id><pub-id pub-id-type="pmcid">PMC7944238</pub-id></element-citation></ref><ref id="ref-33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>McLennan</surname><given-names>AS</given-names></name><name name-style="western"><surname>Gyamfi-Bannerman</surname><given-names>C</given-names></name><name name-style="western"><surname>Ananth</surname><given-names>CV</given-names></name><name name-style="western"><surname>Wright</surname><given-names>JD</given-names></name><name name-style="western"><surname>Siddiq</surname><given-names>Z</given-names></name><name name-style="western"><surname>D&#8217;Alton</surname><given-names>ME</given-names></name><etal/></person-group><article-title>The role of maternal age in twin pregnancy outcomes.</article-title><source>Am J Obstet Gynecol</source><year iso-8601-date="2017">2017</year><volume>217</volume><fpage>80</fpage><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.ajog.2017.03.002</pub-id><pub-id pub-id-type="pmcid">PMC5571734</pub-id><pub-id pub-id-type="pmid">28286050</pub-id></element-citation></ref><ref id="ref-34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Verulava</surname><given-names>T</given-names></name><name name-style="western"><surname>Gogua</surname><given-names>I</given-names></name></person-group><article-title>Pregnant mothers&#8217; knowledge, attitude, and practice towards prevention of Iron deficiency anemia in Georgia. AL-Kindy College Medical Journal.</article-title><year iso-8601-date="2024">2024</year><volume>20</volume><fpage>222</fpage><lpage>31</lpage></element-citation></ref><ref id="ref-35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Jasim</surname><given-names>SK</given-names></name><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Majeed</surname><given-names>BA</given-names></name><name name-style="western"><surname>Hussein</surname><given-names>MJ</given-names></name></person-group><article-title>Rate of fetal macrosomia with maternal and early neonatal complications in internally moved people affected by violence.</article-title><source>IJMRHS</source><year iso-8601-date="2018">2018</year><volume>7</volume><fpage>141</fpage><lpage>6</lpage></element-citation></ref><ref id="ref-36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Al-Momen</surname><given-names>H</given-names></name><name name-style="western"><surname>Muhammed</surname><given-names>MK</given-names></name><name name-style="western"><surname>Alshaheen</surname><given-names>AA</given-names></name></person-group><article-title>Neonatal seizures in Iraq: cause and outcome.</article-title><source>Tohoku J Exp Med</source><year iso-8601-date="2018">2018</year><volume>246</volume><issue>4</issue><fpage>245</fpage><lpage>9</lpage><pub-id pub-id-type="doi">10.1620/tjem.246.245</pub-id><pub-id pub-id-type="pmid">30555128</pub-id></element-citation></ref><ref id="ref-37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Moraes</surname><given-names>AN</given-names></name><name name-style="western"><surname>Likwa</surname><given-names>RN</given-names></name><name name-style="western"><surname>Nzala</surname><given-names>SH</given-names></name></person-group><article-title>A retrospective analysis of adverse obstetric and perinatal outcomes in adolescent pregnancy: the case of Luapula Province, Zambia.</article-title><source>Matern Health Neonatol Perinatol</source><year iso-8601-date="2018">2018</year><volume>4</volume><fpage>20</fpage><pub-id pub-id-type="doi">10.1186/s40748-018-0088-y</pub-id><pub-id pub-id-type="pmid">30349732</pub-id><pub-id pub-id-type="pmcid">PMC6192102</pub-id></element-citation></ref><ref id="ref-38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author"><name name-style="western"><surname>Owusu</surname><given-names>SA</given-names></name><name name-style="western"><surname>Aloryito</surname><given-names>EE</given-names></name><name name-style="western"><surname>Sotame</surname><given-names>E</given-names></name><name name-style="western"><surname>Asiedu</surname><given-names>B</given-names></name></person-group><article-title>Comparative analysis of adolescent pregnancy and delivery outcomes versus early adulthood pregnancy in the Asante Akim North District, Ghana.</article-title><source>PLOS Glob Public Health</source><year iso-8601-date="2025">2025</year><volume>5</volume><issue>2</issue><fpage>4290</fpage><pub-id pub-id-type="doi">10.1371/journal.pgph.0004290</pub-id><pub-id pub-id-type="pmcid">PMC11849814</pub-id><pub-id pub-id-type="pmid">39993003</pub-id></element-citation></ref></ref-list></back><floats-group><table-wrap position="float" id="table-1" orientation="portrait"><label>Table 1. General demographic characteristics of adolescent versus adult twin pregnancies</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Parameter</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Adolescent group (n=59)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Adult group (n=782)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>p-value</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Age (years): median (min, max)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>18 (12-19)</p>
+</td><td colspan="1" rowspan="1">
+<p>28 (20-34)</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.05</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Parity: n (%)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.05</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Nulliparous</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>57 (96.61)</p>
+</td><td colspan="1" rowspan="1">
+<p>556 (71.10)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Multiparous</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>2 (3.39)</p>
+</td><td colspan="1" rowspan="1">
+<p>226 (28.90)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Body mass index: mean &#177; SD</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>24.6&#177;1.7</p>
+</td><td colspan="1" rowspan="1">
+<p>25.9&#177;3.2</p>
+</td><td colspan="1" rowspan="1">
+<p>0.09</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Residence: n (%)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>0.24</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Urban</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>46 (77.97)</p>
+</td><td colspan="1" rowspan="1">
+<p>568 (72.64)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Rural</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>13 (22.3)</p>
+</td><td colspan="1" rowspan="1">
+<p>214 (27.36)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Mode of delivery: n (%)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>36.6&#177;4.1 and 37.8&#177;2.6</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Vaginal</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>3 (5.08)</p>
+</td><td colspan="1" rowspan="1">
+<p>28 (3.58)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Cesarean section: n (%)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>56 (94.92)</p>
+</td><td colspan="1" rowspan="1">
+<p>754 (96.42)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Primary: n (%)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>54 (96.43)</p>
+</td><td colspan="1" rowspan="1">
+<p>567 (75.20)</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.05</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Repeated: n (%)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>2 (3.57)</p>
+</td><td colspan="1" rowspan="1">
+<p>187 (24.80)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Gestational age at delivery: mean &#177; SD</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>36.6&#177;4.1</p>
+</td><td colspan="1" rowspan="1">
+<p>37.8&#177;2.6</p>
+</td><td colspan="1" rowspan="1">
+<p>0.36</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Chorion type, n (%)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>0.27</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Mono-chorionic</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>23 (38.98)</p>
+</td><td colspan="1" rowspan="1">
+<p>386 (49.36)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Di-chorionic</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>36 (61.02)</p>
+</td><td colspan="1" rowspan="1">
+<p>396 (50.64)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Neonatal sex: n (%)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>0.89</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Male</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>66 (55.93)</p>
+</td><td colspan="1" rowspan="1">
+<p>822 (52.56)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Female</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>52 (44.07)</p>
+</td><td colspan="1" rowspan="1">
+<p>742 (47.44)</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Stillbirth: mean &#177; SD</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>4 (6.78)</p>
+</td><td colspan="1" rowspan="1">
+<p>46 (5.88)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.74</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Gestational age (GA): mean &#177; SD weeks</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>36.6&#177;4.1</p>
+</td><td colspan="1" rowspan="1">
+<p>37.8&#177;2.6</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.05</p>
+</td></tr></tbody></table><table-wrap-foot><p>SD: Standard deviation, Min: Minimum, Max: Maximum</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-2" orientation="portrait"><label>Table 2. Obstetrical complication by different maternal age groups</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Complication: n (%)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Adolescent group (n=59)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Adult group (n=782)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>OR 95% Cl</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>p-value</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Preterm delivery</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>51 (86.44)</p>
+</td><td colspan="1" rowspan="1">
+<p>605 (77.37)</p>
+</td><td colspan="1" rowspan="1">
+<p>1.78 (0.89-3.51)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.28</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Late preterm delivery</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>19 (32.20)</p>
+</td><td colspan="1" rowspan="1">
+<p>358 (45.78)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.83 (0.61-1.73)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.07</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Very preterm delivery</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>31 (52.54)</p>
+</td><td colspan="1" rowspan="1">
+<p>232 (29.67)</p>
+</td><td colspan="1" rowspan="1">
+<p>2.64 (1.26-3.92)</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.05</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Extremely preterm delivery</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>1 (1.67)</p>
+</td><td colspan="1" rowspan="1">
+<p>15 (1.92)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.68 (0.44-2.53)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.43</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Premature rupture of membranes (PROM)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>16 (27.12)</p>
+</td><td colspan="1" rowspan="1">
+<p>176 (22.51)</p>
+</td><td colspan="1" rowspan="1">
+<p>1.2 (0.39-5.37)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.31</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Gestational hypertension (GH)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>5 (8.47)</p>
+</td><td colspan="1" rowspan="1">
+<p>51 (6.52)</p>
+</td><td colspan="1" rowspan="1">
+<p>1.1 (0.35-3.46)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.72</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Anemia</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>52 (88.14)</p>
+</td><td colspan="1" rowspan="1">
+<p>670 (85.68)</p>
+</td><td colspan="1" rowspan="1">
+<p>1.57 (0.73-4.29)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.69</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Gestational diabetes (GD)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>2 (3.39)</p>
+</td><td colspan="1" rowspan="1">
+<p>31 (3.96)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.82 (0.24-3.13)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.54</p>
+</td></tr></tbody></table><table-wrap-foot><p>OR: Odds ratio, CI: Confidence interval</p></table-wrap-foot></table-wrap><table-wrap position="float" id="table-3" orientation="portrait"><label>Table 3. Neonatal complication by different maternal age groups</label><table frame="hsides" rules="groups"><tbody><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Complication</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Adolescent group (n=59)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>Adult group (n=782)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>OR 95% Cl</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>
+<bold>p-value</bold>
+</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Birth weight (g) (mean &#177; SD)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>1936.5&#177;0.604</p>
+</td><td colspan="1" rowspan="1">
+<p>2181.7&#177;0.522</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.05</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Birth height (cm) (mean &#177; SD)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>43.4&#177;4.3</p>
+</td><td colspan="1" rowspan="1">
+<p>44.6&#177;4.1</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.05</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Occipitofrontal circumference (cm) (mean &#177; SD)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>30.8&#177;3.3</p>
+</td><td colspan="1" rowspan="1">
+<p>31.9&#177;3.8</p>
+</td><td colspan="1" rowspan="1">
+<p>-</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.05</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>APGAR score &lt;7 at 1<sup>st</sup> minute: n (%)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>31 (52.54)</p>
+</td><td colspan="1" rowspan="1">
+<p>367 (46.93)</p>
+</td><td colspan="1" rowspan="1">
+<p>1.38 (0.94-2.25)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.14</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>APGAR score &lt;7 at 5<sup>th</sup> minute: n (%)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>15 (25.42)</p>
+</td><td colspan="1" rowspan="1">
+<p>126 (16.11)</p>
+</td><td colspan="1" rowspan="1">
+<p>1.47 (1.08-2.39)</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.05</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Low birth weight: n (%)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>53 (89.83)</p>
+</td><td colspan="1" rowspan="1">
+<p>527 (67.39)</p>
+</td><td colspan="1" rowspan="1">
+<p>2.98 (1.64-5.13)</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.05</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Very low birth weight: n (%)</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>8 (13.56)</p>
+</td><td colspan="1" rowspan="1">
+<p>81 (10.36)</p>
+</td><td colspan="1" rowspan="1">
+<p>1.57 (0.61-2.72)</p>
+</td><td colspan="1" rowspan="1">
+<p>0.29</p>
+</td></tr><tr><td colspan="1" rowspan="1">
+<p>
+<bold>Neonatal intensive care unit admission</bold>
+</p>
+</td><td colspan="1" rowspan="1">
+<p>38 (64.41)</p>
+</td><td colspan="1" rowspan="1">
+<p>428 (54.73)</p>
+</td><td colspan="1" rowspan="1">
+<p>1.76 (1.1-3.2)</p>
+</td><td colspan="1" rowspan="1">
+<p>&lt;0.05</p>
+</td></tr></tbody></table><table-wrap-foot><p>OR: Odds ratio, CI: Confidence interval, SD: Standard deviation</p></table-wrap-foot></table-wrap></floats-group></article>
+        
+    </metadata>
+</record>
+    </GetRecord>
+
+</OAI-PMH>
