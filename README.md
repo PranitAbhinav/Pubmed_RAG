@@ -49,6 +49,15 @@ Upload embeddings to Qdrant.
 python3 query.py --query "What are the latest findings about nab-paclitaxel therapy?" --collection <your qdrant db collection> --top-k 5
 ```
 
+## 🔑 Agent Response Example
+
+
+![alt text](image.png)
+
+
+
+
+
 
 
 ## 🔑 Authentication
@@ -72,5 +81,3 @@ qdrantapikey = "your-qdrant-api-key"
  Integrate FastAPI for a web service
 
  Extend ingestion for full-text PDFs via PubMed Central
-
-
