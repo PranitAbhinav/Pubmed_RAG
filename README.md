@@ -52,7 +52,7 @@ python3 query.py --query "What are the latest findings about nab-paclitaxel ther
 ## 🔑 Agent Response Example
 
 
-![alt text](image.png)
+![alt text](examples/response1.png)
 
 
 
