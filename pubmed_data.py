@@ -86,11 +86,9 @@ def run_parallel(df, workers=4):
     return df
 
 if __name__ == "__main__":
-    # ensure column exists
     if "paragraphs" not in df.columns:
         df["paragraphs"] = None  
 
-    # run with all CPU cores
     df = run_parallel(df, workers=mp.cpu_count())
 
     df.to_csv("pubmed_with_paragraphs.csv")
